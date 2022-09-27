@@ -1,20 +1,4 @@
 ,Country,Year,Life expectancy (age)
-48,Angola,2015,52.4
-49,Angola,2014,51.7
-50,Angola,2013,51.1
-51,Angola,2012,56.0
-52,Angola,2011,51.0
-53,Angola,2010,49.6
-54,Angola,2009,49.1
-55,Angola,2008,48.7
-56,Angola,2007,48.2
-57,Angola,2006,47.7
-58,Angola,2005,47.4
-59,Angola,2004,47.1
-60,Angola,2003,46.8
-61,Angola,2002,46.5
-62,Angola,2001,45.7
-63,Angola,2000,45.3
 112,Australia,2015,82.8
 113,Australia,2014,82.7
 114,Australia,2013,82.5
@@ -47,54 +31,6 @@
 461,Canada,2002,79.5
 462,Canada,2001,79.4
 463,Canada,2000,79.1
-480,Central African Republic,2015,52.5
-481,Central African Republic,2014,58.0
-482,Central African Republic,2013,49.9
-483,Central African Republic,2012,53.0
-484,Central African Republic,2011,49.8
-485,Central African Republic,2010,49.2
-486,Central African Republic,2009,48.6
-487,Central African Republic,2008,47.6
-488,Central African Republic,2007,46.8
-489,Central African Republic,2006,46.3
-490,Central African Republic,2005,45.9
-491,Central African Republic,2004,45.7
-492,Central African Republic,2003,45.7
-493,Central African Republic,2002,45.6
-494,Central African Republic,2001,45.6
-495,Central African Republic,2000,46.0
-496,Chad,2015,53.1
-497,Chad,2014,52.6
-498,Chad,2013,52.2
-499,Chad,2012,51.8
-500,Chad,2011,51.6
-501,Chad,2010,51.2
-502,Chad,2009,57.0
-503,Chad,2008,49.6
-504,Chad,2007,49.4
-505,Chad,2006,48.5
-506,Chad,2005,48.6
-507,Chad,2004,48.5
-508,Chad,2003,48.4
-509,Chad,2002,48.1
-510,Chad,2001,48.0
-511,Chad,2000,47.6
-832,eSwatini,2015,58.9
-833,eSwatini,2014,58.4
-834,eSwatini,2013,57.6
-835,eSwatini,2012,56.5
-836,eSwatini,2011,55.0
-837,eSwatini,2010,53.6
-838,eSwatini,2009,52.6
-839,eSwatini,2008,51.4
-840,eSwatini,2007,50.0
-841,eSwatini,2006,47.8
-842,eSwatini,2005,46.0
-843,eSwatini,2004,45.6
-844,eSwatini,2003,45.9
-845,eSwatini,2002,46.4
-846,eSwatini,2001,47.1
-847,eSwatini,2000,48.4
 912,France,2015,82.4
 913,France,2014,82.2
 914,France,2013,82.0
@@ -143,22 +79,6 @@
 1277,Italy,2002,80.0
 1278,Italy,2001,79.8
 1279,Italy,2000,79.4
-1280,Ivory Coast,2015,53.3
-1281,Ivory Coast,2014,52.8
-1282,Ivory Coast,2013,52.3
-1283,Ivory Coast,2012,52.0
-1284,Ivory Coast,2011,51.7
-1285,Ivory Coast,2010,51.5
-1286,Ivory Coast,2009,51.0
-1287,Ivory Coast,2008,54.0
-1288,Ivory Coast,2007,49.9
-1289,Ivory Coast,2006,49.4
-1290,Ivory Coast,2005,48.7
-1291,Ivory Coast,2004,48.2
-1292,Ivory Coast,2003,48.0
-1293,Ivory Coast,2002,47.7
-1294,Ivory Coast,2001,47.8
-1295,Ivory Coast,2000,47.9
 1312,Japan,2015,83.7
 1313,Japan,2014,83.5
 1314,Japan,2013,83.5
@@ -175,54 +95,6 @@
 1325,Japan,2002,81.8
 1326,Japan,2001,81.5
 1327,Japan,2000,81.1
-1472,Lesotho,2015,53.7
-1473,Lesotho,2014,52.1
-1474,Lesotho,2013,52.1
-1475,Lesotho,2012,52.2
-1476,Lesotho,2011,52.3
-1477,Lesotho,2010,51.1
-1478,Lesotho,2009,49.4
-1479,Lesotho,2008,47.8
-1480,Lesotho,2007,46.2
-1481,Lesotho,2006,45.3
-1482,Lesotho,2005,44.5
-1483,Lesotho,2004,44.8
-1484,Lesotho,2003,45.5
-1485,Lesotho,2002,46.4
-1486,Lesotho,2001,47.8
-1487,Lesotho,2000,49.3
-1568,Malawi,2015,58.3
-1569,Malawi,2014,57.6
-1570,Malawi,2013,56.7
-1571,Malawi,2012,55.3
-1572,Malawi,2011,54.1
-1573,Malawi,2010,52.9
-1574,Malawi,2009,51.5
-1575,Malawi,2008,50.0
-1576,Malawi,2007,48.5
-1577,Malawi,2006,47.1
-1578,Malawi,2005,46.0
-1579,Malawi,2004,45.1
-1580,Malawi,2003,44.6
-1581,Malawi,2002,44.0
-1582,Malawi,2001,43.5
-1583,Malawi,2000,43.1
-1888,Nigeria,2015,54.5
-1889,Nigeria,2014,53.6
-1890,Nigeria,2013,53.2
-1891,Nigeria,2012,52.7
-1892,Nigeria,2011,52.3
-1893,Nigeria,2010,52.0
-1894,Nigeria,2009,51.6
-1895,Nigeria,2008,59.0
-1896,Nigeria,2007,55.0
-1897,Nigeria,2006,49.8
-1898,Nigeria,2005,49.2
-1899,Nigeria,2004,48.5
-1900,Nigeria,2003,48.1
-1901,Nigeria,2002,47.7
-1902,Nigeria,2001,47.4
-1903,Nigeria,2000,47.1
 1936,Norway,2015,81.8
 1937,Norway,2014,81.6
 1938,Norway,2013,81.5
@@ -239,22 +111,6 @@
 1949,Norway,2002,78.9
 1950,Norway,2001,78.8
 1951,Norway,2000,78.5
-2304,Sierra Leone,2015,51.0
-2305,Sierra Leone,2014,48.1
-2306,Sierra Leone,2013,54.0
-2307,Sierra Leone,2012,49.7
-2308,Sierra Leone,2011,48.9
-2309,Sierra Leone,2010,48.1
-2310,Sierra Leone,2009,47.1
-2311,Sierra Leone,2008,46.2
-2312,Sierra Leone,2007,45.3
-2313,Sierra Leone,2006,44.3
-2314,Sierra Leone,2005,43.3
-2315,Sierra Leone,2004,42.3
-2316,Sierra Leone,2003,41.5
-2317,Sierra Leone,2002,48.0
-2318,Sierra Leone,2001,41.0
-2319,Sierra Leone,2000,39.0
 2448,Spain,2015,82.8
 2449,Spain,2014,82.6
 2450,Spain,2013,82.4
@@ -303,19 +159,3 @@
 2541,Switzerland,2002,84.0
 2542,Switzerland,2001,82.0
 2543,Switzerland,2000,79.7
-2912,Zimbabwe,2015,67.0
-2913,Zimbabwe,2014,59.2
-2914,Zimbabwe,2013,58.0
-2915,Zimbabwe,2012,56.6
-2916,Zimbabwe,2011,54.9
-2917,Zimbabwe,2010,52.4
-2918,Zimbabwe,2009,50.0
-2919,Zimbabwe,2008,48.2
-2920,Zimbabwe,2007,46.6
-2921,Zimbabwe,2006,45.4
-2922,Zimbabwe,2005,44.6
-2923,Zimbabwe,2004,44.3
-2924,Zimbabwe,2003,44.5
-2925,Zimbabwe,2002,44.8
-2926,Zimbabwe,2001,45.3
-2927,Zimbabwe,2000,46.0
