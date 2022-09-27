@@ -1,0 +1,33 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": {
+      "text": "World Cup 2018: Group F Rankings",
+      "frame": "bounds"
+    },
+    "data": {
+      "url": "https://raw.githubusercontent.com/mingsheng2002/3179-Data-Visualisation-Project-2/main/line_chart/data/Life%20Expectancy%20Data_linechart.csv"
+    },
+    "transform": [{
+      "sort": [
+        {"field": "Life expectancy (age)", "order": "descending"}
+      ],
+      "window": [{
+        "op": "rank",
+        "as": "Rank (Life expectancy)"
+      }],
+      "groupby": ["Year"]
+    }],
+    "mark": {"type": "line", "orient": "vertical"},
+    "encoding": {
+      "x": {"field": "Year", "type": "ordinal"},
+      "y": {"field": "Rank (Life expectancy)", "type": "ordinal"},
+      "color": {
+        "field": "Country", "type": "nominal",
+        "scale": {
+            "domain": ["Japan","Australia","Sweden","Iceland","Switzerland","France","Italy","Spain","Norway","Canada"],
+            "range": ["black","blue","lightgray","lightgray","lightgray","lightgray","lightgray","lightgray","lightgray","lightgray"]
+          },
+        "legend":null
+      }
+    }
+  }
