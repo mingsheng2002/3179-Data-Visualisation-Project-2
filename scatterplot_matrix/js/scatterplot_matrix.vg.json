@@ -1,0 +1,73 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "repeat": {
+      "row": ["Life expectancy (age)",
+      "Alcohol consumption (litres)", 
+      "Percentage expenditure on health (%)",
+      "Hepatitis B immunization coverage (%)", 
+      "BMI",
+      "Polio immunization coverage (%)",
+      "Total expenditure on health by government (%)",
+      "Diphtheria immunization coverage (%)",
+      "GDP (USD)", 
+      "Population",
+      "Income composition of resources", 
+      "Schooling (years)"],
+      "column": ["Schooling (years)",
+      "Income composition of resources",
+      "Population",
+      "GDP (USD)",
+      "Diphtheria immunization coverage (%)",
+      "Total expenditure on health by government (%)",
+      "Polio immunization coverage (%)",
+      "BMI",
+      "Hepatitis B immunization coverage (%)",
+      "Percentage expenditure on health (%)",
+      "Alcohol consumption (litres)", 
+      "Life expectancy (age)"
+    ]
+    },
+    "spec": {
+      "data": {"url": "https://raw.githubusercontent.com/mingsheng2002/3179-Data-Visualisation-Project-2/main/scatterplot_matrix/data/Life%20Expectancy%20Data_scatterplotmatrix.csv"},
+      "mark": "point",
+      "params": [
+        {
+          "name": "brush",
+          "select": {
+            "type": "interval",
+            "resolve": "union",
+            "on": "[mousedown[event.shiftKey], window:mouseup] > window:mousemove!",
+            "translate": "[mousedown[event.shiftKey], window:mouseup] > window:mousemove!",
+            "zoom": "wheel![event.shiftKey]"
+          }
+        },
+        {
+          "name": "grid",
+          "select": {
+            "type": "interval",
+            "resolve": "global",
+            "translate": "[mousedown[!event.shiftKey], window:mouseup] > window:mousemove!",
+            "zoom": "wheel![!event.shiftKey]"
+          },
+          "bind": "scales"
+        }
+      ],
+      "encoding": {
+        "x": {"field": {"repeat": "column"}, "type": "quantitative"},
+        "y": {
+          "field": {"repeat": "row"},
+          "type": "quantitative",
+          "axis": {"minExtent": 30}
+        },
+        "color": {
+          "condition": {
+            "param": "brush",
+            "field": "Origin",
+            "type": "nominal"
+          },
+          "value": "grey"
+        }
+      }
+    }
+  }
+  
