@@ -1,1 +1,50 @@
-
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {"url": "https://raw.githubusercontent.com/mingsheng2002/3179-Data-Visualisation-Project-2/main/bar_chart/data/Life%20Expectancy%20Data_barchart.csv"},
+    "title": "Top and Bottom 10 Countries with the Highest and Lowest Average Life Expectancy",
+    "transform": [
+      {"filter": "datum['Average life expectancy (age)'] != null"},
+      {
+        "joinaggregate": [{
+          "op": "mean",
+          "field": "Average life expectancy (age)",
+          "as": "AverageRating"
+        }]
+      }
+    ],
+    "layer": [
+      {
+        "mark": "bar",
+        "encoding": {
+          "x": {
+            "field": "Average life expectancy (age)", "type": "quantitative",
+            "title": "Average life expectancy (age)"
+          },
+          "y": {"field": "Country", "type": "nominal","sort": "-x"},
+          "color": {
+            "field": "Country",
+            "type": "nominal",
+            "scale":{
+                "domain": ["Japan","Sweden","Iceland","Switzerland","France","Italy","Spain","Australia","Norway","Canada","Nigeria","eSwatini","Zimbabwe","Chad","Ivory Coast","Malawi","Angola","Lesotho","Central African Republic","Sierra Leone"],
+                "range": ["#2b8cbe","#2b8cbe","#2b8cbe","#2b8cbe","#2b8cbe","#2b8cbe","#2b8cbe","#2b8cbe","#2b8cbe","#2b8cbe","#f03b20","#f03b20","#f03b20","#f03b20","#f03b20","#f03b20","#f03b20","#f03b20","#f03b20","#f03b20"]
+            },
+            "legend":null
+          },
+          "tooltip": [
+            {"field": "Country", "type": "nominal"},
+            {"field": "Average life expectancy (age)", "type": "quantitative"}
+          ]
+        }
+      },
+      {
+        "mark": {"type": "rule", "color": "green"},
+        "encoding": {
+          "x": {
+            "aggregate": "average",
+            "field": "AverageRating",
+            "type": "quantitative"
+          }
+        }
+      }
+    ]
+  }
