@@ -1,4 +1,4 @@
-,Country,BMI,Alcohol consumption (litres),Adult mortality (cases per 1000 population),Life expectancy (age),Weight status based on BMI,
+,Country,BMI,Alcohol consumption (litres),Adult mortality (cases per 1000 population),Life expectancy (age),Weight status based on BMI,subid
 0,Afghanistan,15.51875,0.014375,269.0625,58.19375,Underweight,1
 1,Albania,49.06875,4.84875,45.0625,75.15625,Obese,1
 2,Algeria,48.74375,0.406666667,108.1875,73.61875,Obese,2
