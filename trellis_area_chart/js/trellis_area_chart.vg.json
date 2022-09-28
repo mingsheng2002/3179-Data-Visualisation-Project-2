@@ -1,1 +1,32 @@
-
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Comparison between the total expenditure spent on health by government in Australia and Malaysia.",
+    "width": 300,
+    "height": 100,
+    "data": {"url": "https://raw.githubusercontent.com/mingsheng2002/3179-Data-Visualisation-Project-2/main/trellis_area_chart/data/Life%20Expectancy%20Data_trellisareachart.csv"},
+    "mark": "area",
+    "encoding": {
+      "x": {
+        "field": "Year",
+        "type": "temporal",
+        "title": "Year",
+        "axis": {"grid": false}
+      },
+      "y": {
+        "field": "Total expenditure on health by government (%)",
+        "type": "quantitative",
+        "title": "Total expenditure (%)",
+        "axis": {"grid": false}
+      },
+      "color": {
+        "field": "Country",
+        "type": "nominal",
+        "legend": null
+      },
+      "row": {
+        "field": "Country",
+        "type": "nominal",
+        "title": "Country"
+      }
+    }
+  }
