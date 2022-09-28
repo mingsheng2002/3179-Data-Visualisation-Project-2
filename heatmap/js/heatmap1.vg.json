@@ -1,0 +1,34 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {"url": "https://raw.githubusercontent.com/mingsheng2002/3179-Data-Visualisation-Project-2/main/heatmap/data/Life%20Expectancy%20Data_heatmap.csv"},
+    "encoding": {
+      "y": {"field": "Country", "type": "nominal"},
+      "x": {"field": "Year", "type": "ordinal"}
+    },
+    "layer": [
+      {
+        "mark": "rect",
+        "encoding": {
+          "color": {
+            "field": "Hepatitis B immunization coverage (%)",
+            "type": "quantitative",
+            "title": "Hepatitis B immunization coverage (%)",
+            "legend": {"direction": "horizontal", "gradientLength": 120}
+          }
+        }
+      },
+      {
+        "mark": "text",
+        "encoding": {
+          "text": {"field": "Hepatitis B immunization coverage (%)", "type": "quantitative"},
+          "color": {
+            "condition": {"test": "datum['Hepatitis B immunization coverage (%)'] == 23", "value": "black"},
+            "value": "white"
+          }
+        }
+      }
+    ],
+    "config": {
+      "axis": {"grid": true, "tickBand": "extent"}
+    }
+  }
