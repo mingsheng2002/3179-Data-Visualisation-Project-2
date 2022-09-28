@@ -1,1 +1,26 @@
-
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {"url": "https://raw.githubusercontent.com/mingsheng2002/3179-Data-Visualisation-Project-2/main/bubble_plot/data/Life%20Expectancy%20Data_bubbleplot.csv"},
+  "mark": "point",
+  "encoding": {
+    "x": {"field": "Alcohol consumption (litres)", "type": "quantitative"},
+    "y": {"field": "BMI", "type": "quantitative"},
+    "size": {
+      "field": "Life expectancy (age)", 
+      "type": "quantitative",
+      "scale":{
+        "domain": [45,85]
+      }
+    },
+    "color":{
+      "field":"Weight status based on BMI", 
+      "type": "ordinal",
+      "scale":{
+        "domain": ["Underweight","Normal/Healthy","Overweight","Obese"],
+        "range": ["#08306b","#6baed6","#f4a582","#ca0020"]
+      }
+    },
+    "opacity": {"value":0.5}
+  },
+  "transform": [{"filter":"datum['Alcohol consumption (litres)'] > 0"}]
+}
