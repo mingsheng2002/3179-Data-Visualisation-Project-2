@@ -1,184 +1,184 @@
-,Country,Average life expectancy (age)
-0,Afghanistan,58.19375
-1,Albania,75.15625
-2,Algeria,73.61875
-3,Angola,49.01875
-4,Antigua and Barbuda,75.05625
-5,Argentina,75.15625
-6,Armenia,73.4
-7,Australia,81.8125
-8,Austria,81.48125
-9,Azerbaijan,70.73125
-10,Bahrain,75.725
-11,Bangladesh,69.3
-12,Barbados,74.35625
-13,Belarus,69.90625
-14,Belgium,80.68125
-15,Belize,69.26875
-16,Benin,57.56875
-17,Bhutan,66.1625
-18,Bolivia,67.70625
-19,Bosnia and Herzegovina,75.96875
-20,Botswana,56.05
-21,Brazil,73.38125
-22,Brunei,76.4875
-23,Bulgaria,72.85
-24,Burkina Faso,55.64375
-25,Burundi,55.5375
-26,Cambodia,64.34375
-27,Cameroon,54.01875
-28,Canada,81.6875
-29,Cape Verde,72.51875
-30,Central African Republic,48.5125
-31,Chad,50.3875
-32,Chile,79.45
-33,China,74.2625
-34,Colombia,73.2875
-35,Comoros,61.58125
-36,Costa Rica,78.59375
-37,Croatia,76.11875
-38,Cuba,77.975
-39,Cyprus,79.675
-40,Czechia,76.76875
-41,Democratic Republic of the Congo,55.6875
-42,Denmark,79.25625
-43,Djibouti,60.75625
-44,Dominican Republic,72.34375
-45,East Timor,64.75625
-46,Ecuador,74.725
-47,Egypt,71.5
-48,El Salvador,71.74375
-49,Equatorial Guinea,55.3125
-50,Eritrea,60.6875
-51,Estonia,74.94375
-52,Ethiopia,59.1125
-53,Federated States of Micronesia,68.2
-54,Fiji,68.7125
-55,Finland,80.7125
-56,France,82.21875
-57,Gabon,62.24375
-58,Gambia,59.4625
-59,Georgia,73.50625000000001
-60,Germany,81.175
-61,Ghana,60.8625
-62,Greece,81.21875
-63,Grenada,73.29375
-64,Guatemala,71.73125
-65,Guinea,56.0125
-66,Guinea-Bissau,55.36875
-67,Guyana,65.6375
-68,Haiti,59.86875
-69,Honduras,72.99375
-70,Hungary,73.825
-71,Iceland,82.44375
-72,India,65.41875
-73,Indonesia,67.55625
-74,Iran,73.85625
-75,Iraq,70.35625
-76,Ireland,80.15
-77,Israel,81.3
-78,Italy,82.1875
-79,Ivory Coast,50.3875
-80,Jamaica,74.29375
-81,Japan,82.5375
-82,Jordan,72.9875
-83,Kazakhstan,66.7625
-84,Kenya,57.48125
-85,Kiribati,65.15
-86,Kuwait,73.84375
-87,Kyrgyzstan,69.08125
-88,Laos,62.38125
-89,Latvia,73.73125
-90,Lebanon,74.2
-91,Lesotho,48.78125
-92,Liberia,57.525
-93,Libya,72.4875
-94,Lithuania,72.80625
-95,Luxembourg,80.78125
-96,Madagascar,62.74375
-97,Malawi,49.89375
-98,Malaysia,73.75625
-99,Maldives,75.5375
-100,Mali,54.9375
-101,Malta,80.3625
-102,Mauritania,62.8
-103,Mauritius,72.7125
-104,Mexico,75.71875
-105,Moldova,69.98125
-106,Mongolia,65.8875
-107,Montenegro,74.5
-108,Morocco,72.15625
-109,Mozambique,53.39375
-110,Myanmar,64.2
-111,Namibia,60.4
-112,Nepal,66.48125
-113,Netherlands,81.13125
-114,New Zealand,81.3375
-115,Nicaragua,73.45
-116,Niger,56.98125
-117,Nigeria,51.35625
-118,North Korea,69.19375
-119,North Macedonia,74.1125
-120,Norway,81.79375
-121,Oman,74.84375
-122,Pakistan,64.5
-123,Panama,76.4875
-124,Papua New Guinea,61.68125
-125,Paraguay,73.1125
-126,Peru,73.6625
-127,Philippines,67.575
-128,Poland,75.65
-129,Portugal,79.99375
-130,Qatar,77.03125
-131,Republic of Serbia,73.95625
-132,Republic of the Congo,59.04375
-133,Romania,74.05
-134,Russia,67.7625
-135,Rwanda,59.3125
-136,Saint Lucia,73.6
-137,Saint Vincent and the Grenadines,73.475
-138,Samoa,73.61875
-139,Sao Tome and Principe,65.1625
-140,Saudi Arabia,73.46875
-141,Senegal,62.56875
-142,Seychelles,72.375
-143,Sierra Leone,46.1125
-144,Singapore,81.475
-145,Slovakia,74.75
-146,Slovenia,79.73125
-147,Solomon Islands,67.7125
-148,Somalia,53.31875
-149,South Africa,57.5
-150,South Korea,80.4875
-151,South Sudan,53.875
-152,Spain,82.06875
-153,Sri Lanka,73.4
-154,Sudan,61.825
-155,Suriname,70.08125
-156,Sweden,82.51875
-157,Switzerland,82.33125
-158,Syria,70.85
-159,Tajikistan,66.65625
-160,Thailand,73.08125
-161,The Bahamas,74.2875
-162,Togo,56.6625
-163,Tonga,72.53125
-164,Trinidad and Tobago,71.06875
-165,Tunisia,74.35625
-166,Turkey,73.9125
-167,Turkmenistan,64.61874999999999
-168,Uganda,55.70625
-169,Ukraine,69.9375
-170,United Arab Emirates,75.7
-171,United Kingdom,80.79375
-172,United Republic of Tanzania,56.00625
-173,United States of America,78.0625
-174,Uruguay,76.075
-175,Uzbekistan,68.03125
-176,Vanuatu,71.3875
-177,Venezuela,73.3875
-178,Vietnam,74.775
-179,Yemen,63.8625
-180,Zambia,53.90625
-181,Zimbabwe,50.4875
-182,eSwatini,51.325
+,Country,Average life expectancy (age),boundary
+0,Afghanistan,58.19375,90
+1,Albania,75.15625,90
+2,Algeria,73.61875,90
+3,Angola,49.01875,90
+4,Antigua and Barbuda,75.05625,90
+5,Argentina,75.15625,90
+6,Armenia,73.4,90
+7,Australia,81.8125,90
+8,Austria,81.48125,90
+9,Azerbaijan,70.73125,90
+10,Bahrain,75.725,90
+11,Bangladesh,69.3,90
+12,Barbados,74.35625,90
+13,Belarus,69.90625,90
+14,Belgium,80.68125,90
+15,Belize,69.26875,90
+16,Benin,57.56875,90
+17,Bhutan,66.1625,90
+18,Bolivia,67.70625,90
+19,Bosnia and Herzegovina,75.96875,90
+20,Botswana,56.05,90
+21,Brazil,73.38125,90
+22,Brunei,76.4875,90
+23,Bulgaria,72.85,90
+24,Burkina Faso,55.64375,90
+25,Burundi,55.5375,90
+26,Cambodia,64.34375,90
+27,Cameroon,54.01875,90
+28,Canada,81.6875,90
+29,Cape Verde,72.51875,90
+30,Central African Republic,48.5125,90
+31,Chad,50.3875,90
+32,Chile,79.45,90
+33,China,74.2625,90
+34,Colombia,73.2875,90
+35,Comoros,61.58125,90
+36,Costa Rica,78.59375,90
+37,Croatia,76.11875,90
+38,Cuba,77.975,90
+39,Cyprus,79.675,90
+40,Czechia,76.76875,90
+41,Democratic Republic of the Congo,55.6875,90
+42,Denmark,79.25625,90
+43,Djibouti,60.75625,90
+44,Dominican Republic,72.34375,90
+45,East Timor,64.75625,90
+46,Ecuador,74.725,90
+47,Egypt,71.5,90
+48,El Salvador,71.74375,90
+49,Equatorial Guinea,55.3125,90
+50,Eritrea,60.6875,90
+51,Estonia,74.94375,90
+52,Ethiopia,59.1125,90
+53,Federated States of Micronesia,68.2,90
+54,Fiji,68.7125,90
+55,Finland,80.7125,90
+56,France,82.21875,90
+57,Gabon,62.24375,90
+58,Gambia,59.4625,90
+59,Georgia,73.50625,90
+60,Germany,81.175,90
+61,Ghana,60.8625,90
+62,Greece,81.21875,90
+63,Grenada,73.29375,90
+64,Guatemala,71.73125,90
+65,Guinea,56.0125,90
+66,Guinea-Bissau,55.36875,90
+67,Guyana,65.6375,90
+68,Haiti,59.86875,90
+69,Honduras,72.99375,90
+70,Hungary,73.825,90
+71,Iceland,82.44375,90
+72,India,65.41875,90
+73,Indonesia,67.55625,90
+74,Iran,73.85625,90
+75,Iraq,70.35625,90
+76,Ireland,80.15,90
+77,Israel,81.3,90
+78,Italy,82.1875,90
+79,Ivory Coast,50.3875,90
+80,Jamaica,74.29375,90
+81,Japan,82.5375,90
+82,Jordan,72.9875,90
+83,Kazakhstan,66.7625,90
+84,Kenya,57.48125,90
+85,Kiribati,65.15,90
+86,Kuwait,73.84375,90
+87,Kyrgyzstan,69.08125,90
+88,Laos,62.38125,90
+89,Latvia,73.73125,90
+90,Lebanon,74.2,90
+91,Lesotho,48.78125,90
+92,Liberia,57.525,90
+93,Libya,72.4875,90
+94,Lithuania,72.80625,90
+95,Luxembourg,80.78125,90
+96,Madagascar,62.74375,90
+97,Malawi,49.89375,90
+98,Malaysia,73.75625,90
+99,Maldives,75.5375,90
+100,Mali,54.9375,90
+101,Malta,80.3625,90
+102,Mauritania,62.8,90
+103,Mauritius,72.7125,90
+104,Mexico,75.71875,90
+105,Moldova,69.98125,90
+106,Mongolia,65.8875,90
+107,Montenegro,74.5,90
+108,Morocco,72.15625,90
+109,Mozambique,53.39375,90
+110,Myanmar,64.2,90
+111,Namibia,60.4,90
+112,Nepal,66.48125,90
+113,Netherlands,81.13125,90
+114,New Zealand,81.3375,90
+115,Nicaragua,73.45,90
+116,Niger,56.98125,90
+117,Nigeria,51.35625,90
+118,North Korea,69.19375,90
+119,North Macedonia,74.1125,90
+120,Norway,81.79375,90
+121,Oman,74.84375,90
+122,Pakistan,64.5,90
+123,Panama,76.4875,90
+124,Papua New Guinea,61.68125,90
+125,Paraguay,73.1125,90
+126,Peru,73.6625,90
+127,Philippines,67.575,90
+128,Poland,75.65,90
+129,Portugal,79.99375,90
+130,Qatar,77.03125,90
+131,Republic of Serbia,73.95625,90
+132,Republic of the Congo,59.04375,90
+133,Romania,74.05,90
+134,Russia,67.7625,90
+135,Rwanda,59.3125,90
+136,Saint Lucia,73.6,90
+137,Saint Vincent and the Grenadines,73.475,90
+138,Samoa,73.61875,90
+139,Sao Tome and Principe,65.1625,90
+140,Saudi Arabia,73.46875,90
+141,Senegal,62.56875,90
+142,Seychelles,72.375,90
+143,Sierra Leone,46.1125,90
+144,Singapore,81.475,90
+145,Slovakia,74.75,90
+146,Slovenia,79.73125,90
+147,Solomon Islands,67.7125,90
+148,Somalia,53.31875,90
+149,South Africa,57.5,90
+150,South Korea,80.4875,90
+151,South Sudan,53.875,90
+152,Spain,82.06875,90
+153,Sri Lanka,73.4,90
+154,Sudan,61.825,90
+155,Suriname,70.08125,90
+156,Sweden,82.51875,90
+157,Switzerland,82.33125,90
+158,Syria,70.85,90
+159,Tajikistan,66.65625,90
+160,Thailand,73.08125,90
+161,The Bahamas,74.2875,90
+162,Togo,56.6625,90
+163,Tonga,72.53125,90
+164,Trinidad and Tobago,71.06875,90
+165,Tunisia,74.35625,90
+166,Turkey,73.9125,90
+167,Turkmenistan,64.61875,90
+168,Uganda,55.70625,90
+169,Ukraine,69.9375,90
+170,United Arab Emirates,75.7,90
+171,United Kingdom,80.79375,90
+172,United Republic of Tanzania,56.00625,90
+173,United States of America,78.0625,90
+174,Uruguay,76.075,90
+175,Uzbekistan,68.03125,90
+176,Vanuatu,71.3875,90
+177,Venezuela,73.3875,90
+178,Vietnam,74.775,90
+179,Yemen,63.8625,90
+180,Zambia,53.90625,90
+181,Zimbabwe,50.4875,90
+182,eSwatini,51.325,90
