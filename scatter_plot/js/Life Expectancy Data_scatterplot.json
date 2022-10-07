@@ -6552,15 +6552,6 @@
    "cluster": 1
  },
  {
-   "Country": "East Timor",
-   "Year": 2000,
-   "BMI": 11.9,
-   "Schooling (years)": 0,
-   "Average life expectancy (age)": 64.75625,
-   "continent": "Asia",
-   "cluster": 1
- },
- {
    "Country": "Ecuador",
    "Year": 2015,
    "BMI": 54.2,
@@ -7690,15 +7681,6 @@
    "Year": 2001,
    "BMI": 62,
    "Schooling (years)": 10.1,
-   "Average life expectancy (age)": 68.2,
-   "continent": "Africa",
-   "cluster": 0
- },
- {
-   "Country": "Federated States of Micronesia",
-   "Year": 2000,
-   "BMI": 61.5,
-   "Schooling (years)": 0,
    "Average life expectancy (age)": 68.2,
    "continent": "Africa",
    "cluster": 0
