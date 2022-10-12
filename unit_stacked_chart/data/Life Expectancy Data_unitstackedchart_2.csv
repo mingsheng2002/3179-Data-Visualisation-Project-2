@@ -1,0 +1,184 @@
+,Country,continent_x,Status,subid
+32,Algeria,Africa,Above,55
+48,Angola,Africa,Below,54
+250,Benin,Africa,Below,53
+313,Botswana,Africa,Below,52
+377,Burkina Faso,Africa,Below,51
+393,Burundi,Africa,Below,50
+425,Cameroon,Africa,Below,49
+457,Cape Verde,Africa,Above,48
+473,Central African Republic,Africa,Below,47
+489,Chad,Africa,Below,46
+553,Comoros,Africa,Below,45
+649,Democratic Republic of the Congo,Africa,Below,44
+681,Djibouti,Africa,Below,43
+744,Egypt,Africa,Above,42
+776,Equatorial Guinea,Africa,Below,41
+791,Eritrea,Africa,Below,40
+2897,eSwatini,Africa,Below,39
+823,Ethiopia,Africa,Below,38
+839,Federated States of Micronesia,Africa,Below,37
+902,Gabon,Africa,Below,36
+918,Gambia,Africa,Below,35
+966,Ghana,Africa,Below,34
+1030,Guinea,Africa,Below,33
+1046,Guinea-Bissau,Africa,Below,32
+1254,Ivory Coast,Africa,Below,31
+1334,Kenya,Africa,Below,30
+1446,Lesotho,Africa,Below,29
+1462,Liberia,Africa,Below,28
+1478,Libya,Africa,Above,27
+1526,Madagascar,Africa,Below,26
+1542,Malawi,Africa,Below,25
+1590,Mali,Africa,Below,24
+1622,Mauritania,Africa,Below,23
+1638,Mauritius,Africa,Above,22
+1714,Morocco,Africa,Above,21
+1730,Mozambique,Africa,Below,20
+1762,Namibia,Africa,Below,19
+1842,Niger,Africa,Below,18
+1858,Nigeria,Africa,Below,17
+2098,Republic of the Congo,Africa,Below,16
+2146,Rwanda,Africa,Below,15
+2210,Sao Tome and Principe,Africa,Below,14
+2242,Senegal,Africa,Below,13
+2258,Seychelles,Africa,Above,12
+2274,Sierra Leone,Africa,Below,11
+2354,Somalia,Africa,Below,10
+2370,South Africa,Africa,Below,9
+2402,South Sudan,Africa,Below,8
+2450,Sudan,Africa,Below,7
+2578,Togo,Africa,Below,6
+2626,Tunisia,Africa,Above,5
+2673,Uganda,Africa,Below,4
+2737,United Republic of Tanzania,Africa,Below,3
+2865,Zambia,Africa,Below,2
+2881,Zimbabwe,Africa,Below,1
+0,Afghanistan,Asia,Below,48
+90,Armenia,Asia,Above,47
+138,Azerbaijan,Asia,Above,46
+154,Bahrain,Asia,Above,45
+170,Bangladesh,Asia,Above,44
+266,Bhutan,Asia,Below,43
+345,Brunei,Asia,Above,42
+409,Cambodia,Asia,Below,41
+521,China,Asia,Above,40
+617,Cyprus,Asia,Above,39
+713,East Timor,Asia,Below,38
+934,Georgia,Asia,Above,37
+1142,India,Asia,Below,36
+1158,Indonesia,Asia,Below,35
+1174,Iran,Asia,Above,34
+1190,Iraq,Asia,Above,33
+1222,Israel,Asia,Above,32
+1286,Japan,Asia,Above,31
+1302,Jordan,Asia,Above,30
+1318,Kazakhstan,Asia,Below,29
+1366,Kuwait,Asia,Above,28
+1382,Kyrgyzstan,Asia,Below,27
+1398,Laos,Asia,Below,26
+1430,Lebanon,Asia,Above,25
+1558,Malaysia,Asia,Above,24
+1574,Maldives,Asia,Above,23
+1670,Moldova,Asia,Above,22
+1686,Mongolia,Asia,Below,21
+1746,Myanmar,Asia,Below,20
+1778,Nepal,Asia,Below,19
+1874,North Korea,Asia,Below,18
+1922,Oman,Asia,Above,17
+1938,Pakistan,Asia,Below,16
+2018,Philippines,Asia,Below,15
+2066,Qatar,Asia,Above,14
+2226,Saudi Arabia,Asia,Above,13
+2290,Singapore,Asia,Above,12
+2386,South Korea,Asia,Above,11
+2434,Sri Lanka,Asia,Above,10
+2514,Syria,Asia,Above,9
+2530,Tajikistan,Asia,Below,8
+2546,Thailand,Asia,Above,7
+2642,Turkey,Asia,Above,6
+2658,Turkmenistan,Asia,Below,5
+2705,United Arab Emirates,Asia,Above,4
+2785,Uzbekistan,Asia,Below,3
+2833,Vietnam,Asia,Above,2
+2849,Yemen,Asia,Below,1
+106,Australia,Australia,Above,9
+854,Fiji,Australia,Below,8
+1350,Kiribati,Australia,Below,7
+1810,New Zealand,Australia,Above,6
+1970,Papua New Guinea,Australia,Below,5
+2194,Samoa,Australia,Above,4
+2338,Solomon Islands,Australia,Below,3
+2594,Tonga,Australia,Above,2
+2801,Vanuatu,Australia,Above,1
+16,Albania,Europe,Above,38
+122,Austria,Europe,Above,37
+202,Belarus,Europe,Above,36
+218,Belgium,Europe,Above,35
+298,Bosnia and Herzegovina,Europe,Above,34
+361,Bulgaria,Europe,Above,33
+585,Croatia,Europe,Above,32
+633,Czechia,Europe,Above,31
+665,Denmark,Europe,Above,30
+807,Estonia,Europe,Above,29
+870,Finland,Europe,Above,28
+886,France,Europe,Above,27
+950,Germany,Europe,Above,26
+982,Greece,Europe,Above,25
+1110,Hungary,Europe,Above,24
+1126,Iceland,Europe,Above,23
+1206,Ireland,Europe,Above,22
+1238,Italy,Europe,Above,21
+1414,Latvia,Europe,Above,20
+1494,Lithuania,Europe,Above,19
+1510,Luxembourg,Europe,Above,18
+1606,Malta,Europe,Above,17
+1702,Montenegro,Europe,Above,16
+1794,Netherlands,Europe,Above,15
+1890,North Macedonia,Europe,Above,14
+1906,Norway,Europe,Above,13
+2034,Poland,Europe,Above,12
+2050,Portugal,Europe,Above,11
+2082,Republic of Serbia,Europe,Above,10
+2114,Romania,Europe,Above,9
+2130,Russia,Europe,Below,8
+2306,Slovakia,Europe,Above,7
+2322,Slovenia,Europe,Above,6
+2418,Spain,Europe,Above,5
+2482,Sweden,Europe,Above,4
+2498,Switzerland,Europe,Above,3
+2689,Ukraine,Europe,Above,2
+2721,United Kingdom,Europe,Above,1
+64,Antigua and Barbuda,North America,Above,21
+186,Barbados,North America,Above,20
+234,Belize,North America,Above,19
+441,Canada,North America,Above,18
+569,Costa Rica,North America,Above,17
+601,Cuba,North America,Above,16
+697,Dominican Republic,North America,Above,15
+760,El Salvador,North America,Above,14
+998,Grenada,North America,Above,13
+1014,Guatemala,North America,Above,12
+1078,Haiti,North America,Below,11
+1094,Honduras,North America,Above,10
+1270,Jamaica,North America,Above,9
+1654,Mexico,North America,Above,8
+1826,Nicaragua,North America,Above,7
+1954,Panama,North America,Above,6
+2162,Saint Lucia,North America,Above,5
+2178,Saint Vincent and the Grenadines,North America,Above,4
+2562,The Bahamas,North America,Above,3
+2610,Trinidad and Tobago,North America,Above,2
+2753,United States of America,North America,Above,1
+74,Argentina,South America,Above,12
+282,Bolivia,South America,Below,11
+329,Brazil,South America,Above,10
+505,Chile,South America,Above,9
+537,Colombia,South America,Above,8
+728,Ecuador,South America,Above,7
+1062,Guyana,South America,Below,6
+1986,Paraguay,South America,Above,5
+2002,Peru,South America,Above,4
+2466,Suriname,South America,Above,3
+2769,Uruguay,South America,Above,2
+2817,Venezuela,South America,Above,1
