@@ -1,184 +1,184 @@
-,Country,BMI,Alcohol consumption (litres),Adult mortality (cases per 1000 population),Life expectancy (age),Weight status based on BMI,subid
-16,Benin,19.6125,1,269.375,57.56875,Normal/Healthy,19
-27,Cameroon,23.61875,4.141333333,294.875,54.01875,Normal/Healthy,18
-29,Cape Verde,24.375,3.448,116.1875,72.51875,Normal/Healthy,17
-33,China,21.80625,4.182,73.75,74.2625,Normal/Healthy,16
-58,Gambia,20.3,2.134666667,249.625,59.4625,Normal/Healthy,15
-61,Ghana,21.725,1.268666667,180.0625,60.8625,Normal/Healthy,14
-66,Guinea-Bissau,19.43125,2.26,158.3125,55.36875,Normal/Healthy,13
-73,Indonesia,19.95625,0.068666667,166.5625,67.55625,Normal/Healthy,12
-79,Ivory Coast,21.325,2.837333333,417.3125,50.3875,Normal/Healthy,11
-92,Liberia,19.9875,3.258,246.9375,57.525,Normal/Healthy,10
-99,Maldives,19.29375,1.407333333,83.1875,75.5375,Normal/Healthy,9
-102,Mauritania,22.475,0.013333333,159.9375,62.8,Normal/Healthy,8
-117,Nigeria,19.75,8.646666667,248.5,51.35625,Normal/Healthy,7
-127,Philippines,19.1875,4.510666667,217.9375,67.575,Normal/Healthy,6
-132,Republic of the Congo,20.925,2.173333333,322.75,59.04375,Normal/Healthy,5
-139,Sao Tome and Principe,20.85,4.191333333,164.9375,65.1625,Normal/Healthy,4
-148,Somalia,18.6875,0.01,316.75,53.31875,Normal/Healthy,3
-150,South Korea,23.24375,8.855333333,76.1875,80.4875,Normal/Healthy,2
-160,Thailand,21.59375,6.131333333,160.375,73.08125,Normal/Healthy,1
-1,Albania,49.06875,4.84875,45.0625,75.15625,Obese,113
-2,Algeria,48.74375,0.406666667,108.1875,73.61875,Obese,112
-4,Antigua and Barbuda,38.425,7.949333333,127.5,75.05625,Obese,111
-5,Argentina,54.98125,7.966666667,106,75.15625,Obese,110
-6,Armenia,44.70625,3.702666667,117.375,73.4,Obese,109
-7,Australia,55.8625,10.15533333,63.1875,81.8125,Obese,108
-8,Austria,48.2875,12.236,65.75,81.48125,Obese,107
-9,Azerbaijan,43.84375,0.992,115.1875,70.73125,Obese,106
-10,Bahrain,51.65625,1.934666667,65.375,75.725,Obese,105
-12,Barbados,45.975,8.206666667,77.625,74.35625,Obese,104
-13,Belarus,54.74375,13.49733333,218.75,69.90625,Obese,103
-14,Belgium,50.89375,11.04266667,70.1875,80.68125,Obese,102
-15,Belize,37.675,6.252666667,155.5,69.26875,Obese,101
-18,Bolivia,44.81875,3.212,177.5,67.70625,Obese,100
-19,Bosnia and Herzegovina,48.9625,4.405333333,64.9375,75.96875,Obese,99
-20,Botswana,32.24375,4.67,448.125,56.05,Obese,98
-21,Brazil,47.0625,7.213333333,150.6875,73.38125,Obese,97
-23,Bulgaria,54.5,10.86533333,125.5,72.85,Obese,96
-28,Canada,55.8625,8.053333333,64.625,81.6875,Obese,95
-32,Chile,55.5875,6.978,63.625,79.45,Obese,94
-34,Colombia,49.54375,4.419333333,124.25,73.2875,Obese,93
-36,Costa Rica,46.725,3.924666667,69.375,78.59375,Obese,92
-37,Croatia,52.35625,12.448,89,76.11875,Obese,91
-38,Cuba,49.4625,4.190666667,57.5625,77.975,Obese,90
-39,Cyprus,53.1625,10.26066667,54.125,79.675,Obese,89
-40,Czechia,55.7125,13.026,71.8125,76.76875,Obese,88
-42,Denmark,55.825,10.708,66.0625,79.25625,Obese,87
-44,Dominican Republic,48.14375,6.030666667,143.5,72.34375,Obese,86
-46,Ecuador,43.3125,3.807333333,132.125,74.725,Obese,85
-47,Egypt,49.2625,0.188666667,170.625,71.5,Obese,84
-48,El Salvador,45.325,2.692666667,155.0625,71.74375,Obese,83
-51,Estonia,56.68125,9.014666667,169.6875,74.94375,Obese,82
-53,Federated States of Micronesia,65.15,2.145333333,154.0625,68.2,Obese,81
-54,Fiji,50.5625,1.462666667,125,68.7125,Obese,80
-55,Finland,52.3,9.552666667,68.875,80.7125,Obese,79
-56,France,51.98125,12.40466667,73.125,82.21875,Obese,78
-59,Georgia,47.74375,5.623333333,114.9375,73.50625,Obese,77
-60,Germany,51.99375,11.62866667,71.25,81.175,Obese,76
-62,Greece,58.68125,8.803333333,73.625,81.21875,Obese,75
-63,Grenada,40.2125,8.843333333,153.75,73.29375,Obese,74
-64,Guatemala,40.44375,2.268666667,131.1875,71.73125,Obese,73
-67,Guyana,36.38125,7.406,203.9375,65.6375,Obese,72
-68,Haiti,39.275,5.486,168.3125,59.86875,Obese,71
-69,Honduras,39.74375,3.042,142,72.99375,Obese,70
-70,Hungary,56.93125,11.42733333,147.0625,73.825,Obese,69
-71,Iceland,51.075,7.466,49.375,82.44375,Obese,68
-74,Iran,48.63125,0.016,107,73.85625,Obese,67
-75,Iraq,48.59375,0.134666667,136.75,70.35625,Obese,66
-76,Ireland,53.6875,12.654,72.4375,80.15,Obese,65
-77,Israel,54.9875,2.497333333,59.5,81.3,Obese,64
-78,Italy,56.15,8.266666667,54.1875,82.1875,Obese,63
-80,Jamaica,45.425,3.624,141.25,74.29375,Obese,62
-82,Jordan,53,0.517333333,114.3125,72.9875,Obese,61
-83,Kazakhstan,45.15625,6.641333333,232.0625,66.7625,Obese,60
-85,Kiribati,69.43125,0.440666667,129.4375,65.15,Obese,59
-86,Kuwait,59.60625,0.021333333,83.25,73.84375,Obese,58
-87,Kyrgyzstan,35.1125,2.267333333,173.6875,69.08125,Obese,57
-89,Latvia,51.30625,8.864,161.8125,73.73125,Obese,56
-90,Lebanon,55.3375,1.785333333,65.3125,74.2,Obese,55
-93,Libya,54.8375,0.01,139.6875,72.4875,Obese,54
-94,Lithuania,49.23125,12.63266667,117.25,72.80625,Obese,53
-95,Luxembourg,47.825,11.922,67.5625,80.78125,Obese,52
-101,Malta,66.18125,7.13,60.75,80.3625,Obese,51
-104,Mexico,51.41875,5.114,111.0625,75.71875,Obese,50
-105,Moldova,43.90625,9.545333333,210.3125,69.98125,Obese,49
-106,Mongolia,39.79375,2.354,222.125,65.8875,Obese,48
-107,Montenegro,50.4875,2.584285714,92.75,74.5,Obese,47
-108,Morocco,48.61875,0.518666667,95.1875,72.15625,Obese,46
-113,Netherlands,53.96875,8.846666667,61.625,81.13125,Obese,45
-114,New Zealand,56.625,9.16625,71.5,81.3375,Obese,44
-115,Nicaragua,42.68125,3.596666667,162.375,73.45,Obese,43
-119,North Macedonia,52.90625,1.858666667,60.8125,74.1125,Obese,42
-120,Norway,50.8125,6.234375,66.25,81.79375,Obese,41
-121,Oman,44.78125,0.534666667,67.75,74.84375,Obese,40
-123,Panama,49.3125,6.212,115.875,76.4875,Obese,39
-124,Papua New Guinea,40.7875,0.580666667,266.5625,61.68125,Obese,38
-125,Paraguay,39.525,5.527333333,139.9375,73.1125,Obese,37
-126,Peru,44.86875,4.278666667,122.4375,73.6625,Obese,36
-128,Poland,53.73125,9.998666667,107.5625,75.65,Obese,35
-129,Portugal,43.63125,12.21133333,58.875,79.99375,Obese,34
-130,Qatar,65.65,1.081333333,75.375,77.03125,Obese,33
-131,Republic of Serbia,52.1375,8.682666667,130.4375,73.95625,Obese,32
-133,Romania,52.25,8.968666667,156.0625,74.05,Obese,31
-134,Russia,53.31875,11.128,224.5625,67.7625,Obese,30
-136,Saint Lucia,39.59375,11.51133333,146.25,73.6,Obese,29
-137,Saint Vincent and the Grenadines,41.99375,6.11,152.0625,73.475,Obese,28
-138,Samoa,62.90625,2.704,133.5625,73.61875,Obese,27
-140,Saudi Arabia,55.3125,0.074666667,52.125,73.46875,Obese,26
-145,Slovakia,51.81875,10.47333333,118.0625,74.75,Obese,25
-146,Slovenia,52.2,10.75466667,76.4375,79.73125,Obese,24
-147,Solomon Islands,39.175,0.800666667,140.0625,67.7125,Obese,23
-149,South Africa,38.15,7.588666667,412.75,57.5,Obese,22
-152,Spain,58.66875,10.024,63.625,82.06875,Obese,21
-155,Suriname,50.15625,4.984,166,70.08125,Obese,20
-156,Sweden,56.25,6.926666667,59.1875,82.51875,Obese,19
-157,Switzerland,51.4375,10.338,55.75,82.33125,Obese,18
-158,Syria,47.3125,0.804666667,139.625,70.85,Obese,17
-159,Tajikistan,33.1125,0.330666667,177.5625,66.65625,Obese,16
-161,The Bahamas,52.88125,10.27133333,152.0625,74.2875,Obese,15
-163,Tonga,62.94375,1.167333333,129.625,72.53125,Obese,14
-164,Trinidad and Tobago,37.73125,6.044666667,163.375,71.06875,Obese,13
-165,Tunisia,48.25625,1.310666667,18.75,74.35625,Obese,12
-166,Turkey,56.4125,1.421333333,98.375,73.9125,Obese,11
-167,Turkmenistan,38.11875,2.654666667,214.8125,64.61875,Obese,10
-169,Ukraine,50.89375,7.369333333,205.75,69.9375,Obese,9
-170,United Arab Emirates,53.80625,1.75,67.0625,75.7,Obese,8
-171,United Kingdom,55.3875,11.13125,70.375,80.79375,Obese,7
-173,United States of America,58.45,8.579333333,58.1875,78.0625,Obese,6
-174,Uruguay,52.925,6.172666667,119.9375,76.075,Obese,5
-175,Uzbekistan,34.80625,1.608666667,184.8125,68.03125,Obese,4
-176,Vanuatu,44.25625,0.806666667,137.875,71.3875,Obese,3
-177,Venezuela,54.4875,7.42,163,73.3875,Obese,2
-179,Yemen,33.4875,0.047333333,211.8125,63.8625,Obese,1
-22,Brunei,29.71875,0.378666667,67.0625,76.4875,Overweight,13
-43,Djibouti,26.25,0.764,274.6875,60.75625,Overweight,12
-182,eSwatini,25.5,4.463333333,339,51.325,Overweight,11
-57,Gabon,28.81875,7.877333333,220.4375,62.24375,Overweight,10
-81,Japan,25.60625,7.040666667,57.125,82.5375,Overweight,9
-91,Lesotho,25.2375,2.086666667,550.0625,48.78125,Overweight,8
-98,Malaysia,29.16875,0.490666667,118.5625,73.75625,Overweight,7
-103,Mauritius,25.98125,2.906666667,163.5625,72.7125,Overweight,6
-111,Namibia,28.225,4.710666667,313.1875,60.4,Overweight,5
-118,North Korea,25.625,3,160.8125,69.19375,Overweight,4
-142,Seychelles,28.40625,6.201333333,161.1875,72.375,Overweight,3
-144,Singapore,25.90625,1.7625,62,81.475,Overweight,2
-181,Zimbabwe,25.1375,4.482,462.375,50.4875,Overweight,1
-0,Afghanistan,15.51875,0.014375,269.0625,58.19375,Underweight,38
-3,Angola,18.01875,5.740666667,328.5625,49.01875,Underweight,37
-11,Bangladesh,12.875,0.01,141.375,69.3,Underweight,36
-17,Bhutan,17.58125,0.278666667,230.25,66.1625,Underweight,35
-24,Burkina Faso,15.5,4.241333333,252.5,55.64375,Underweight,34
-25,Burundi,15.3125,4.103333333,291.5625,55.5375,Underweight,33
-26,Cambodia,15.3625,1.486,196.375,64.34375,Underweight,32
-30,Central African Republic,17.0875,1.231333333,333.0625,48.5125,Underweight,31
-31,Chad,16.31875,0.411333333,227.75,50.3875,Underweight,30
-35,Comoros,18.25625,0.134666667,240.9375,61.58125,Underweight,29
-41,Democratic Republic of the Congo,15.8375,1.424,265.375,55.6875,Underweight,28
-45,East Timor,14.55,0.235333333,170.375,64.75625,Underweight,27
-49,Equatorial Guinea,17.85625,7.342,279.375,55.3125,Underweight,26
-50,Eritrea,15.15625,0.608,308.625,60.6875,Underweight,25
-52,Ethiopia,14.8,1.074666667,285.5625,59.1125,Underweight,24
-65,Guinea,17.46875,0.164666667,259.875,56.0125,Underweight,23
-72,India,14.79375,1.942,146.5625,65.41875,Underweight,22
-84,Kenya,15.5625,1.602,348.5625,57.48125,Underweight,21
-88,Laos,14.3625,3.505333333,197.1875,62.38125,Underweight,20
-96,Madagascar,14.76875,0.82,228.8125,62.74375,Underweight,19
-97,Malawi,16.78125,0.919333333,424.4375,49.89375,Underweight,18
-100,Mali,17.2125,0.438,202.125,54.9375,Underweight,17
-109,Mozambique,16.14375,1.266,226.25,53.39375,Underweight,16
-110,Myanmar,17.125,0.351333333,154.3125,64.2,Underweight,15
-112,Nepal,15.175,0.19,147.25,66.48125,Underweight,14
-116,Niger,16.3625,0.091333333,232.4375,56.98125,Underweight,13
-122,Pakistan,18.3125,0.026,154,64.5,Underweight,12
-135,Rwanda,14.75,5.636,246.8125,59.3125,Underweight,11
-141,Senegal,18.44375,0.309333333,174.1875,62.56875,Underweight,10
-143,Sierra Leone,18.30625,3.154666667,357.8125,46.1125,Underweight,9
-151,South Sudan,,,346.3125,53.875,Underweight,8
-153,Sri Lanka,17.275,2.096,144.375,73.4,Underweight,7
-154,Sudan,,1.458,240.3125,61.825,Underweight,6
-162,Togo,17.99375,0.947333333,311.3125,56.6625,Underweight,5
-168,Uganda,15.525,8.050666667,300.1875,55.70625,Underweight,4
-172,United Republic of Tanzania,17.31875,3.582666667,304.4375,56.00625,Underweight,3
-178,Vietnam,11.1875,3.087333333,126.5625,74.775,Underweight,2
-180,Zambia,17.45,2.239333333,354.3125,53.90625,Underweight,1
+,Country,continent_x,Status,subid
+32,Algeria,Africa,Above,55
+48,Angola,Africa,Below,54
+250,Benin,Africa,Below,53
+313,Botswana,Africa,Below,52
+377,Burkina Faso,Africa,Below,51
+393,Burundi,Africa,Below,50
+425,Cameroon,Africa,Below,49
+457,Cape Verde,Africa,Above,48
+473,Central African Republic,Africa,Below,47
+489,Chad,Africa,Below,46
+553,Comoros,Africa,Below,45
+649,Democratic Republic of the Congo,Africa,Below,44
+681,Djibouti,Africa,Below,43
+744,Egypt,Africa,Above,42
+776,Equatorial Guinea,Africa,Below,41
+791,Eritrea,Africa,Below,40
+2897,eSwatini,Africa,Below,39
+823,Ethiopia,Africa,Below,38
+839,Federated States of Micronesia,Africa,Below,37
+902,Gabon,Africa,Below,36
+918,Gambia,Africa,Below,35
+966,Ghana,Africa,Below,34
+1030,Guinea,Africa,Below,33
+1046,Guinea-Bissau,Africa,Below,32
+1254,Ivory Coast,Africa,Below,31
+1334,Kenya,Africa,Below,30
+1446,Lesotho,Africa,Below,29
+1462,Liberia,Africa,Below,28
+1478,Libya,Africa,Above,27
+1526,Madagascar,Africa,Below,26
+1542,Malawi,Africa,Below,25
+1590,Mali,Africa,Below,24
+1622,Mauritania,Africa,Below,23
+1638,Mauritius,Africa,Above,22
+1714,Morocco,Africa,Above,21
+1730,Mozambique,Africa,Below,20
+1762,Namibia,Africa,Below,19
+1842,Niger,Africa,Below,18
+1858,Nigeria,Africa,Below,17
+2098,Republic of the Congo,Africa,Below,16
+2146,Rwanda,Africa,Below,15
+2210,Sao Tome and Principe,Africa,Below,14
+2242,Senegal,Africa,Below,13
+2258,Seychelles,Africa,Above,12
+2274,Sierra Leone,Africa,Below,11
+2354,Somalia,Africa,Below,10
+2370,South Africa,Africa,Below,9
+2402,South Sudan,Africa,Below,8
+2450,Sudan,Africa,Below,7
+2578,Togo,Africa,Below,6
+2626,Tunisia,Africa,Above,5
+2673,Uganda,Africa,Below,4
+2737,United Republic of Tanzania,Africa,Below,3
+2865,Zambia,Africa,Below,2
+2881,Zimbabwe,Africa,Below,1
+0,Afghanistan,Asia,Below,48
+90,Armenia,Asia,Above,47
+138,Azerbaijan,Asia,Above,46
+154,Bahrain,Asia,Above,45
+170,Bangladesh,Asia,Above,44
+266,Bhutan,Asia,Below,43
+345,Brunei,Asia,Above,42
+409,Cambodia,Asia,Below,41
+521,China,Asia,Above,40
+617,Cyprus,Asia,Above,39
+713,East Timor,Asia,Below,38
+934,Georgia,Asia,Above,37
+1142,India,Asia,Below,36
+1158,Indonesia,Asia,Below,35
+1174,Iran,Asia,Above,34
+1190,Iraq,Asia,Above,33
+1222,Israel,Asia,Above,32
+1286,Japan,Asia,Above,31
+1302,Jordan,Asia,Above,30
+1318,Kazakhstan,Asia,Below,29
+1366,Kuwait,Asia,Above,28
+1382,Kyrgyzstan,Asia,Below,27
+1398,Laos,Asia,Below,26
+1430,Lebanon,Asia,Above,25
+1558,Malaysia,Asia,Above,24
+1574,Maldives,Asia,Above,23
+1670,Moldova,Asia,Above,22
+1686,Mongolia,Asia,Below,21
+1746,Myanmar,Asia,Below,20
+1778,Nepal,Asia,Below,19
+1874,North Korea,Asia,Below,18
+1922,Oman,Asia,Above,17
+1938,Pakistan,Asia,Below,16
+2018,Philippines,Asia,Below,15
+2066,Qatar,Asia,Above,14
+2226,Saudi Arabia,Asia,Above,13
+2290,Singapore,Asia,Above,12
+2386,South Korea,Asia,Above,11
+2434,Sri Lanka,Asia,Above,10
+2514,Syria,Asia,Above,9
+2530,Tajikistan,Asia,Below,8
+2546,Thailand,Asia,Above,7
+2642,Turkey,Asia,Above,6
+2658,Turkmenistan,Asia,Below,5
+2705,United Arab Emirates,Asia,Above,4
+2785,Uzbekistan,Asia,Below,3
+2833,Vietnam,Asia,Above,2
+2849,Yemen,Asia,Below,1
+106,Australia,Australia,Above,9
+854,Fiji,Australia,Below,8
+1350,Kiribati,Australia,Below,7
+1810,New Zealand,Australia,Above,6
+1970,Papua New Guinea,Australia,Below,5
+2194,Samoa,Australia,Above,4
+2338,Solomon Islands,Australia,Below,3
+2594,Tonga,Australia,Above,2
+2801,Vanuatu,Australia,Above,1
+16,Albania,Europe,Above,38
+122,Austria,Europe,Above,37
+202,Belarus,Europe,Above,36
+218,Belgium,Europe,Above,35
+298,Bosnia and Herzegovina,Europe,Above,34
+361,Bulgaria,Europe,Above,33
+585,Croatia,Europe,Above,32
+633,Czechia,Europe,Above,31
+665,Denmark,Europe,Above,30
+807,Estonia,Europe,Above,29
+870,Finland,Europe,Above,28
+886,France,Europe,Above,27
+950,Germany,Europe,Above,26
+982,Greece,Europe,Above,25
+1110,Hungary,Europe,Above,24
+1126,Iceland,Europe,Above,23
+1206,Ireland,Europe,Above,22
+1238,Italy,Europe,Above,21
+1414,Latvia,Europe,Above,20
+1494,Lithuania,Europe,Above,19
+1510,Luxembourg,Europe,Above,18
+1606,Malta,Europe,Above,17
+1702,Montenegro,Europe,Above,16
+1794,Netherlands,Europe,Above,15
+1890,North Macedonia,Europe,Above,14
+1906,Norway,Europe,Above,13
+2034,Poland,Europe,Above,12
+2050,Portugal,Europe,Above,11
+2082,Republic of Serbia,Europe,Above,10
+2114,Romania,Europe,Above,9
+2130,Russia,Europe,Below,8
+2306,Slovakia,Europe,Above,7
+2322,Slovenia,Europe,Above,6
+2418,Spain,Europe,Above,5
+2482,Sweden,Europe,Above,4
+2498,Switzerland,Europe,Above,3
+2689,Ukraine,Europe,Above,2
+2721,United Kingdom,Europe,Above,1
+64,Antigua and Barbuda,North America,Above,21
+186,Barbados,North America,Above,20
+234,Belize,North America,Above,19
+441,Canada,North America,Above,18
+569,Costa Rica,North America,Above,17
+601,Cuba,North America,Above,16
+697,Dominican Republic,North America,Above,15
+760,El Salvador,North America,Above,14
+998,Grenada,North America,Above,13
+1014,Guatemala,North America,Above,12
+1078,Haiti,North America,Below,11
+1094,Honduras,North America,Above,10
+1270,Jamaica,North America,Above,9
+1654,Mexico,North America,Above,8
+1826,Nicaragua,North America,Above,7
+1954,Panama,North America,Above,6
+2162,Saint Lucia,North America,Above,5
+2178,Saint Vincent and the Grenadines,North America,Above,4
+2562,The Bahamas,North America,Above,3
+2610,Trinidad and Tobago,North America,Above,2
+2753,United States of America,North America,Above,1
+74,Argentina,South America,Above,12
+282,Bolivia,South America,Below,11
+329,Brazil,South America,Above,10
+505,Chile,South America,Above,9
+537,Colombia,South America,Above,8
+728,Ecuador,South America,Above,7
+1062,Guyana,South America,Below,6
+1986,Paraguay,South America,Above,5
+2002,Peru,South America,Above,4
+2466,Suriname,South America,Above,3
+2769,Uruguay,South America,Above,2
+2817,Venezuela,South America,Above,1
