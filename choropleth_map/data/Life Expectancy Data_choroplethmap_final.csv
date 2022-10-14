@@ -1,2929 +1,2929 @@
-,Country,Year,Adult mortality (cases per 1000 population)
-0,Afghanistan,2015,263
-1,Afghanistan,2014,271
-2,Afghanistan,2013,268
-3,Afghanistan,2012,272
-4,Afghanistan,2011,275
-5,Afghanistan,2010,279
-6,Afghanistan,2009,281
-7,Afghanistan,2008,287
-8,Afghanistan,2007,295
-9,Afghanistan,2006,295
-10,Afghanistan,2005,291
-11,Afghanistan,2004,293
-12,Afghanistan,2003,295
-13,Afghanistan,2002,3
-14,Afghanistan,2001,316
-15,Afghanistan,2000,321
-16,Albania,2015,74
-17,Albania,2014,8
-18,Albania,2013,84
-19,Albania,2012,86
-20,Albania,2011,88
-21,Albania,2010,91
-22,Albania,2009,91
-23,Albania,2008,1
-24,Albania,2007,9
-25,Albania,2006,99
-26,Albania,2005,15
-27,Albania,2004,17
-28,Albania,2003,18
-29,Albania,2002,15
-30,Albania,2001,14
-31,Albania,2000,11
-32,Algeria,2015,19
-33,Algeria,2014,11
-34,Algeria,2013,112
-35,Algeria,2012,113
-36,Algeria,2011,116
-37,Algeria,2010,119
-38,Algeria,2009,123
-39,Algeria,2008,126
-40,Algeria,2007,129
-41,Algeria,2006,132
-42,Algeria,2005,136
-43,Algeria,2004,14
-44,Algeria,2003,146
-45,Algeria,2002,145
-46,Algeria,2001,145
-47,Algeria,2000,145
-48,Angola,2015,335
-49,Angola,2014,348
-50,Angola,2013,355
-51,Angola,2012,358
-52,Angola,2011,361
-53,Angola,2010,365
-54,Angola,2009,369
-55,Angola,2008,371
-56,Angola,2007,375
-57,Angola,2006,381
-58,Angola,2005,382
-59,Angola,2004,386
-60,Angola,2003,388
-61,Angola,2002,391
-62,Angola,2001,44
-63,Angola,2000,48
-64,Antigua and Barbuda,2015,13
-65,Antigua and Barbuda,2014,131
-66,Antigua and Barbuda,2013,133
-67,Antigua and Barbuda,2012,134
-68,Antigua and Barbuda,2011,136
-69,Antigua and Barbuda,2010,138
-70,Antigua and Barbuda,2009,14
-71,Antigua and Barbuda,2008,142
-72,Antigua and Barbuda,2007,144
-73,Antigua and Barbuda,2006,145
-74,Antigua and Barbuda,2005,147
-75,Antigua and Barbuda,2004,149
-76,Antigua and Barbuda,2003,151
-77,Antigua and Barbuda,2002,153
-78,Antigua and Barbuda,2001,154
-79,Antigua and Barbuda,2000,156
-80,Argentina,2015,116
-81,Argentina,2014,118
-82,Argentina,2013,119
-83,Argentina,2012,12
-84,Argentina,2011,12
-85,Argentina,2010,121
-86,Argentina,2009,126
-87,Argentina,2008,126
-88,Argentina,2007,129
-89,Argentina,2006,127
-90,Argentina,2005,127
-91,Argentina,2004,13
-92,Argentina,2003,137
-93,Argentina,2002,138
-94,Argentina,2001,138
-95,Argentina,2000,137
-96,Armenia,2015,118
-97,Armenia,2014,12
-98,Armenia,2013,123
-99,Armenia,2012,121
-100,Armenia,2011,128
-101,Armenia,2010,132
-102,Armenia,2009,137
-103,Armenia,2008,14
-104,Armenia,2007,132
-105,Armenia,2006,141
-106,Armenia,2005,137
-107,Armenia,2004,132
-108,Armenia,2003,134
-109,Armenia,2002,134
-110,Armenia,2001,141
-111,Armenia,2000,142
-112,Australia,2015,59
-113,Australia,2014,6
-114,Australia,2013,61
-115,Australia,2012,61
-116,Australia,2011,63
-117,Australia,2010,64
-118,Australia,2009,66
-119,Australia,2008,66
-120,Australia,2007,66
-121,Australia,2006,66
-122,Australia,2005,67
-123,Australia,2004,69
-124,Australia,2003,71
-125,Australia,2002,73
-126,Australia,2001,75
-127,Australia,2000,78
-128,Austria,2015,65
-129,Austria,2014,66
-130,Austria,2013,68
-131,Austria,2012,7
-132,Austria,2011,73
-133,Austria,2010,75
-134,Austria,2009,77
-135,Austria,2008,76
-136,Austria,2007,8
-137,Austria,2006,81
-138,Austria,2005,85
-139,Austria,2004,86
-140,Austria,2003,88
-141,Austria,2002,9
-142,Austria,2001,92
-143,Austria,2000,96
-144,Azerbaijan,2015,118
-145,Azerbaijan,2014,119
-146,Azerbaijan,2013,121
-147,Azerbaijan,2012,123
-148,Azerbaijan,2011,125
-149,Azerbaijan,2010,13
-150,Azerbaijan,2009,132
-151,Azerbaijan,2008,141
-152,Azerbaijan,2007,14
-153,Azerbaijan,2006,154
-154,Azerbaijan,2005,162
-155,Azerbaijan,2004,154
-156,Azerbaijan,2003,154
-157,Azerbaijan,2002,146
-158,Azerbaijan,2001,151
-159,Azerbaijan,2000,16
-160,Bahrain,2015,69
-161,Bahrain,2014,7
-162,Bahrain,2013,7
-163,Bahrain,2012,71
-164,Bahrain,2011,76
-165,Bahrain,2010,73
-166,Bahrain,2009,74
-167,Bahrain,2008,76
-168,Bahrain,2007,77
-169,Bahrain,2006,79
-170,Bahrain,2005,81
-171,Bahrain,2004,83
-172,Bahrain,2003,85
-173,Bahrain,2002,87
-174,Bahrain,2001,9
-175,Bahrain,2000,92
-176,Bangladesh,2015,129
-177,Bangladesh,2014,132
-178,Bangladesh,2013,135
-179,Bangladesh,2012,137
-180,Bangladesh,2011,14
-181,Bangladesh,2010,142
-182,Bangladesh,2009,144
-183,Bangladesh,2008,147
-184,Bangladesh,2007,151
-185,Bangladesh,2006,152
-186,Bangladesh,2005,155
-187,Bangladesh,2004,158
-188,Bangladesh,2003,161
-189,Bangladesh,2002,164
-190,Bangladesh,2001,168
-191,Bangladesh,2000,173
-192,Barbados,2015,98
-193,Barbados,2014,1
-194,Barbados,2013,11
-195,Barbados,2012,12
-196,Barbados,2011,14
-197,Barbados,2010,16
-198,Barbados,2009,19
-199,Barbados,2008,111
-200,Barbados,2007,113
-201,Barbados,2006,115
-202,Barbados,2005,117
-203,Barbados,2004,119
-204,Barbados,2003,121
-205,Barbados,2002,123
-206,Barbados,2001,125
-207,Barbados,2000,127
-208,Belarus,2015,196
-209,Belarus,2014,199
-210,Belarus,2013,23
-211,Belarus,2012,194
-212,Belarus,2011,232
-213,Belarus,2010,222
-214,Belarus,2009,226
-215,Belarus,2008,224
-216,Belarus,2007,226
-217,Belarus,2006,243
-218,Belarus,2005,252
-219,Belarus,2004,247
-220,Belarus,2003,253
-221,Belarus,2002,262
-222,Belarus,2001,254
-223,Belarus,2000,247
-224,Belgium,2015,74
-225,Belgium,2014,76
-226,Belgium,2013,77
-227,Belgium,2012,78
-228,Belgium,2011,8
-229,Belgium,2010,81
-230,Belgium,2009,85
-231,Belgium,2008,87
-232,Belgium,2007,86
-233,Belgium,2006,85
-234,Belgium,2005,89
-235,Belgium,2004,91
-236,Belgium,2003,95
-237,Belgium,2002,99
-238,Belgium,2001,1
-239,Belgium,2000,11
-240,Belize,2015,175
-241,Belize,2014,177
-242,Belize,2013,18
-243,Belize,2012,189
-244,Belize,2011,188
-245,Belize,2010,186
-246,Belize,2009,184
-247,Belize,2008,181
-248,Belize,2007,181
-249,Belize,2006,184
-250,Belize,2005,191
-251,Belize,2004,197
-252,Belize,2003,21
-253,Belize,2002,199
-254,Belize,2001,21
-255,Belize,2000,196
-256,Benin,2015,249
-257,Benin,2014,252
-258,Benin,2013,251
-259,Benin,2012,251
-260,Benin,2011,251
-261,Benin,2010,254
-262,Benin,2009,259
-263,Benin,2008,278
-264,Benin,2007,283
-265,Benin,2006,284
-266,Benin,2005,285
-267,Benin,2004,285
-268,Benin,2003,285
-269,Benin,2002,283
-270,Benin,2001,281
-271,Benin,2000,279
-272,Bhutan,2015,211
-273,Bhutan,2014,216
-274,Bhutan,2013,219
-275,Bhutan,2012,223
-276,Bhutan,2011,225
-277,Bhutan,2010,228
-278,Bhutan,2009,232
-279,Bhutan,2008,234
-280,Bhutan,2007,238
-281,Bhutan,2006,245
-282,Bhutan,2005,254
-283,Bhutan,2004,263
-284,Bhutan,2003,273
-285,Bhutan,2002,282
-286,Bhutan,2001,29
-287,Bhutan,2000,312
-288,Bolivia,2015,186
-289,Bolivia,2014,189
-290,Bolivia,2013,192
-291,Bolivia,2012,194
-292,Bolivia,2011,198
-293,Bolivia,2010,22
-294,Bolivia,2009,27
-295,Bolivia,2008,211
-296,Bolivia,2007,216
-297,Bolivia,2006,219
-298,Bolivia,2005,222
-299,Bolivia,2004,226
-300,Bolivia,2003,23
-301,Bolivia,2002,234
-302,Bolivia,2001,238
-303,Bolivia,2000,243
-304,Bosnia and Herz.,2015,88
-305,Bosnia and Herz.,2014,89
-306,Bosnia and Herz.,2013,9
-307,Bosnia and Herz.,2012,92
-308,Bosnia and Herz.,2011,92
-309,Bosnia and Herz.,2010,94
-310,Bosnia and Herz.,2009,97
-311,Bosnia and Herz.,2008,98
-312,Bosnia and Herz.,2007,16
-313,Bosnia and Herz.,2006,1
-314,Bosnia and Herz.,2005,12
-315,Bosnia and Herz.,2004,99
-316,Bosnia and Herz.,2003,12
-317,Bosnia and Herz.,2002,11
-318,Bosnia and Herz.,2001,113
-319,Bosnia and Herz.,2000,116
-320,Botswana,2015,256
-321,Botswana,2014,268
-322,Botswana,2013,286
-323,Botswana,2012,3
-324,Botswana,2011,325
-325,Botswana,2010,349
-326,Botswana,2009,393
-327,Botswana,2008,427
-328,Botswana,2007,436
-329,Botswana,2006,491
-330,Botswana,2005,566
-331,Botswana,2004,652
-332,Botswana,2003,693
-333,Botswana,2002,699
-334,Botswana,2001,679
-335,Botswana,2000,647
-336,Brazil,2015,142
-337,Brazil,2014,144
-338,Brazil,2013,146
-339,Brazil,2012,148
-340,Brazil,2011,152
-341,Brazil,2010,154
-342,Brazil,2009,157
-343,Brazil,2008,158
-344,Brazil,2007,159
-345,Brazil,2006,161
-346,Brazil,2005,163
-347,Brazil,2004,17
-348,Brazil,2003,172
-349,Brazil,2002,176
-350,Brazil,2001,179
-351,Brazil,2000,183
-352,Brunei,2015,78
-353,Brunei,2014,8
-354,Brunei,2013,84
-355,Brunei,2012,79
-356,Brunei,2011,79
-357,Brunei,2010,79
-358,Brunei,2009,88
-359,Brunei,2008,84
-360,Brunei,2007,1
-361,Brunei,2006,93
-362,Brunei,2005,92
-363,Brunei,2004,89
-364,Brunei,2003,89
-365,Brunei,2002,95
-366,Brunei,2001,19
-367,Brunei,2000,16
-368,Bulgaria,2015,137
-369,Bulgaria,2014,138
-370,Bulgaria,2013,14
-371,Bulgaria,2012,139
-372,Bulgaria,2011,144
-373,Bulgaria,2010,147
-374,Bulgaria,2009,152
-375,Bulgaria,2008,155
-376,Bulgaria,2007,157
-377,Bulgaria,2006,161
-378,Bulgaria,2005,16
-379,Bulgaria,2004,157
-380,Bulgaria,2003,155
-381,Bulgaria,2002,157
-382,Bulgaria,2001,16
-383,Bulgaria,2000,163
-384,Burkina Faso,2015,26
-385,Burkina Faso,2014,268
-386,Burkina Faso,2013,27
-387,Burkina Faso,2012,271
-388,Burkina Faso,2011,275
-389,Burkina Faso,2010,279
-390,Burkina Faso,2009,283
-391,Burkina Faso,2008,288
-392,Burkina Faso,2007,293
-393,Burkina Faso,2006,32
-394,Burkina Faso,2005,313
-395,Burkina Faso,2004,323
-396,Burkina Faso,2003,332
-397,Burkina Faso,2002,338
-398,Burkina Faso,2001,344
-399,Burkina Faso,2000,348
-400,Burundi,2015,288
-401,Burundi,2014,297
-402,Burundi,2013,33
-403,Burundi,2012,312
-404,Burundi,2011,321
-405,Burundi,2010,33
-406,Burundi,2009,338
-407,Burundi,2008,35
-408,Burundi,2007,355
-409,Burundi,2006,361
-410,Burundi,2005,369
-411,Burundi,2004,378
-412,Burundi,2003,387
-413,Burundi,2002,387
-414,Burundi,2001,385
-415,Burundi,2000,386
-416,Cambodia,2015,174
-417,Cambodia,2014,179
-418,Cambodia,2013,183
-419,Cambodia,2012,186
-420,Cambodia,2011,19
-421,Cambodia,2010,192
-422,Cambodia,2009,195
-423,Cambodia,2008,199
-424,Cambodia,2007,24
-425,Cambodia,2006,216
-426,Cambodia,2005,234
-427,Cambodia,2004,253
-428,Cambodia,2003,268
-429,Cambodia,2002,273
-430,Cambodia,2001,273
-431,Cambodia,2000,274
-432,Cameroon,2015,357
-433,Cameroon,2014,366
-434,Cameroon,2013,364
-435,Cameroon,2012,369
-436,Cameroon,2011,371
-437,Cameroon,2010,37
-438,Cameroon,2009,373
-439,Cameroon,2008,382
-440,Cameroon,2007,395
-441,Cameroon,2006,394
-442,Cameroon,2005,4
-443,Cameroon,2004,412
-444,Cameroon,2003,412
-445,Cameroon,2002,47
-446,Cameroon,2001,41
-447,Cameroon,2000,394
-448,Canada,2015,64
-449,Canada,2014,65
-450,Canada,2013,67
-451,Canada,2012,68
-452,Canada,2011,68
-453,Canada,2010,7
-454,Canada,2009,72
-455,Canada,2008,74
-456,Canada,2007,74
-457,Canada,2006,75
-458,Canada,2005,76
-459,Canada,2004,77
-460,Canada,2003,78
-461,Canada,2002,79
-462,Canada,2001,8
-463,Canada,2000,82
-464,Cape Verde,2015,114
-465,Cape Verde,2014,117
-466,Cape Verde,2013,12
-467,Cape Verde,2012,121
-468,Cape Verde,2011,122
-469,Cape Verde,2010,123
-470,Cape Verde,2009,124
-471,Cape Verde,2008,124
-472,Cape Verde,2007,126
-473,Cape Verde,2006,129
-474,Cape Verde,2005,134
-475,Cape Verde,2004,14
-476,Cape Verde,2003,144
-477,Cape Verde,2002,148
-478,Cape Verde,2001,152
-479,Cape Verde,2000,155
-480,Central African Rep.,2015,397
-481,Central African Rep.,2014,437
-482,Central African Rep.,2013,451
-483,Central African Rep.,2012,439
-484,Central African Rep.,2011,443
-485,Central African Rep.,2010,446
-486,Central African Rep.,2009,453
-487,Central African Rep.,2008,477
-488,Central African Rep.,2007,495
-489,Central African Rep.,2006,56
-490,Central African Rep.,2005,511
-491,Central African Rep.,2004,512
-492,Central African Rep.,2003,51
-493,Central African Rep.,2002,58
-494,Central African Rep.,2001,54
-495,Central African Rep.,2000,49
-496,Chad,2015,356
-497,Chad,2014,362
-498,Chad,2013,366
-499,Chad,2012,367
-500,Chad,2011,365
-501,Chad,2010,364
-502,Chad,2009,37
-503,Chad,2008,394
-504,Chad,2007,394
-505,Chad,2006,414
-506,Chad,2005,46
-507,Chad,2004,45
-508,Chad,2003,43
-509,Chad,2002,43
-510,Chad,2001,4
-511,Chad,2000,44
-512,Chile,2015,82
-513,Chile,2014,83
-514,Chile,2013,84
-515,Chile,2012,84
-516,Chile,2011,86
-517,Chile,2010,89
-518,Chile,2009,91
-519,Chile,2008,88
-520,Chile,2007,9
-521,Chile,2006,91
-522,Chile,2005,93
-523,Chile,2004,97
-524,Chile,2003,1
-525,Chile,2002,11
-526,Chile,2001,16
-527,Chile,2000,13
-528,China,2015,85
-529,China,2014,86
-530,China,2013,88
-531,China,2012,89
-532,China,2011,91
-533,China,2010,92
-534,China,2009,93
-535,China,2008,97
-536,China,2007,96
-537,China,2006,98
-538,China,2005,99
-539,China,2004,11
-540,China,2003,13
-541,China,2002,16
-542,China,2001,11
-543,China,2000,115
-544,Colombia,2015,143
-545,Colombia,2014,144
-546,Colombia,2013,145
-547,Colombia,2012,143
-548,Colombia,2011,144
-549,Colombia,2010,15
-550,Colombia,2009,15
-551,Colombia,2008,146
-552,Colombia,2007,144
-553,Colombia,2006,147
-554,Colombia,2005,144
-555,Colombia,2004,148
-556,Colombia,2003,15
-557,Colombia,2002,163
-558,Colombia,2001,165
-559,Colombia,2000,167
-560,Comoros,2015,227
-561,Comoros,2014,23
-562,Comoros,2013,233
-563,Comoros,2012,237
-564,Comoros,2011,241
-565,Comoros,2010,246
-566,Comoros,2009,251
-567,Comoros,2008,255
-568,Comoros,2007,259
-569,Comoros,2006,262
-570,Comoros,2005,266
-571,Comoros,2004,269
-572,Comoros,2003,271
-573,Comoros,2002,271
-574,Comoros,2001,272
-575,Comoros,2000,272
-2128,Congo,2015,267
-2129,Congo,2014,275
-2130,Congo,2013,274
-2131,Congo,2012,273
-2132,Congo,2011,285
-2133,Congo,2010,298
-2134,Congo,2009,314
-2135,Congo,2008,338
-2136,Congo,2007,354
-2137,Congo,2006,368
-2138,Congo,2005,394
-2139,Congo,2004,48
-2140,Congo,2003,417
-2141,Congo,2002,424
-2142,Congo,2001,419
-2143,Congo,2000,416
-576,Costa Rica,2015,95
-577,Costa Rica,2014,96
-578,Costa Rica,2013,96
-579,Costa Rica,2012,97
-580,Costa Rica,2011,98
-581,Costa Rica,2010,16
-582,Costa Rica,2009,96
-583,Costa Rica,2008,99
-584,Costa Rica,2007,93
-585,Costa Rica,2006,16
-586,Costa Rica,2005,97
-587,Costa Rica,2004,12
-588,Costa Rica,2003,1
-589,Costa Rica,2002,99
-590,Costa Rica,2001,1
-591,Costa Rica,2000,98
-1280,C?te d'Ivoire,2015,397
-1281,C?te d'Ivoire,2014,47
-1282,C?te d'Ivoire,2013,412
-1283,C?te d'Ivoire,2012,415
-1284,C?te d'Ivoire,2011,419
-1285,C?te d'Ivoire,2010,417
-1286,C?te d'Ivoire,2009,426
-1287,C?te d'Ivoire,2008,437
-1288,C?te d'Ivoire,2007,443
-1289,C?te d'Ivoire,2006,452
-1290,C?te d'Ivoire,2005,466
-1291,C?te d'Ivoire,2004,472
-1292,C?te d'Ivoire,2003,473
-1293,C?te d'Ivoire,2002,473
-1294,C?te d'Ivoire,2001,467
-1295,C?te d'Ivoire,2000,461
-592,Croatia,2015,95
-593,Croatia,2014,97
-594,Croatia,2013,97
-595,Croatia,2012,14
-596,Croatia,2011,14
-597,Croatia,2010,16
-598,Croatia,2009,19
-599,Croatia,2008,116
-600,Croatia,2007,114
-601,Croatia,2006,113
-602,Croatia,2005,116
-603,Croatia,2004,114
-604,Croatia,2003,122
-605,Croatia,2002,124
-606,Croatia,2001,126
-607,Croatia,2000,127
-608,Cuba,2015,92
-609,Cuba,2014,93
-610,Cuba,2013,96
-611,Cuba,2012,96
-612,Cuba,2011,92
-613,Cuba,2010,98
-614,Cuba,2009,11
-615,Cuba,2008,12
-616,Cuba,2007,14
-617,Cuba,2006,14
-618,Cuba,2005,19
-619,Cuba,2004,17
-620,Cuba,2003,18
-621,Cuba,2002,19
-622,Cuba,2001,115
-623,Cuba,2000,115
-624,Cyprus,2015,52
-625,Cyprus,2014,53
-626,Cyprus,2013,54
-627,Cyprus,2012,56
-628,Cyprus,2011,57
-629,Cyprus,2010,59
-630,Cyprus,2009,6
-631,Cyprus,2008,62
-632,Cyprus,2007,63
-633,Cyprus,2006,64
-634,Cyprus,2005,65
-635,Cyprus,2004,65
-636,Cyprus,2003,66
-637,Cyprus,2002,68
-638,Cyprus,2001,69
-639,Cyprus,2000,7
-640,Czechia,2015,86
-641,Czechia,2014,88
-642,Czechia,2013,9
-643,Czechia,2012,93
-644,Czechia,2011,97
-645,Czechia,2010,99
-646,Czechia,2009,12
-647,Czechia,2008,16
-648,Czechia,2007,17
-649,Czechia,2006,19
-650,Czechia,2005,114
-651,Czechia,2004,116
-652,Czechia,2003,122
-653,Czechia,2002,12
-654,Czechia,2001,123
-655,Czechia,2000,126
-656,Dem. Rep. Congo,2015,258
-657,Dem. Rep. Congo,2014,266
-658,Dem. Rep. Congo,2013,272
-659,Dem. Rep. Congo,2012,277
-660,Dem. Rep. Congo,2011,278
-661,Dem. Rep. Congo,2010,283
-662,Dem. Rep. Congo,2009,292
-663,Dem. Rep. Congo,2008,295
-664,Dem. Rep. Congo,2007,299
-665,Dem. Rep. Congo,2006,36
-666,Dem. Rep. Congo,2005,314
-667,Dem. Rep. Congo,2004,323
-668,Dem. Rep. Congo,2003,332
-669,Dem. Rep. Congo,2002,341
-670,Dem. Rep. Congo,2001,34
-671,Dem. Rep. Congo,2000,346
-688,Djibouti,2015,241
-689,Djibouti,2014,252
-690,Djibouti,2013,256
-691,Djibouti,2012,263
-692,Djibouti,2011,268
-693,Djibouti,2010,273
-694,Djibouti,2009,279
-695,Djibouti,2008,289
-696,Djibouti,2007,296
-697,Djibouti,2006,39
-698,Djibouti,2005,318
-699,Djibouti,2004,326
-700,Djibouti,2003,325
-701,Djibouti,2002,322
-702,Djibouti,2001,323
-703,Djibouti,2000,325
-704,Dominican Rep.,2015,152
-705,Dominican Rep.,2014,154
-706,Dominican Rep.,2013,157
-707,Dominican Rep.,2012,174
-708,Dominican Rep.,2011,16
-709,Dominican Rep.,2010,166
-710,Dominican Rep.,2009,157
-711,Dominican Rep.,2008,161
-712,Dominican Rep.,2007,164
-713,Dominican Rep.,2006,178
-714,Dominican Rep.,2005,28
-715,Dominican Rep.,2004,214
-716,Dominican Rep.,2003,22
-717,Dominican Rep.,2002,189
-718,Dominican Rep.,2001,188
-719,Dominican Rep.,2000,176
-736,Ecuador,2015,118
-737,Ecuador,2014,121
-738,Ecuador,2013,121
-739,Ecuador,2012,127
-740,Ecuador,2011,131
-741,Ecuador,2010,134
-742,Ecuador,2009,137
-743,Ecuador,2008,139
-744,Ecuador,2007,14
-745,Ecuador,2006,144
-746,Ecuador,2005,151
-747,Ecuador,2004,148
-748,Ecuador,2003,151
-749,Ecuador,2002,157
-750,Ecuador,2001,158
-751,Ecuador,2000,163
-752,Egypt,2015,159
-753,Egypt,2014,161
-754,Egypt,2013,159
-755,Egypt,2012,165
-756,Egypt,2011,168
-757,Egypt,2010,173
-758,Egypt,2009,174
-759,Egypt,2008,172
-760,Egypt,2007,171
-761,Egypt,2006,175
-762,Egypt,2005,174
-763,Egypt,2004,176
-764,Egypt,2003,178
-765,Egypt,2002,177
-766,Egypt,2001,177
-767,Egypt,2000,171
-768,El Salvador,2015,178
-769,El Salvador,2014,181
-770,El Salvador,2013,184
-771,El Salvador,2012,181
-772,El Salvador,2011,197
-773,El Salvador,2010,191
-774,El Salvador,2009,23
-775,El Salvador,2008,194
-776,El Salvador,2007,23
-777,El Salvador,2006,211
-778,El Salvador,2005,213
-779,El Salvador,2004,215
-780,El Salvador,2003,29
-781,El Salvador,2002,24
-782,El Salvador,2001,219
-783,El Salvador,2000,218
-784,Equatorial Guinea,2015,32
-785,Equatorial Guinea,2014,32
-786,Equatorial Guinea,2013,327
-787,Equatorial Guinea,2012,337
-788,Equatorial Guinea,2011,344
-789,Equatorial Guinea,2010,339
-790,Equatorial Guinea,2009,34
-791,Equatorial Guinea,2008,338
-792,Equatorial Guinea,2007,339
-793,Equatorial Guinea,2006,337
-794,Equatorial Guinea,2005,337
-795,Equatorial Guinea,2004,336
-796,Equatorial Guinea,2003,334
-797,Equatorial Guinea,2002,334
-798,Equatorial Guinea,2001,334
-799,Equatorial Guinea,2000,336
-800,Eritrea,2015,255
-801,Eritrea,2014,261
-802,Eritrea,2013,266
-803,Eritrea,2012,274
-804,Eritrea,2011,286
-805,Eritrea,2010,298
-806,Eritrea,2009,311
-807,Eritrea,2008,322
-808,Eritrea,2007,329
-809,Eritrea,2006,336
-810,Eritrea,2005,34
-811,Eritrea,2004,342
-812,Eritrea,2003,343
-813,Eritrea,2002,343
-814,Eritrea,2001,345
-815,Eritrea,2000,593
-816,Estonia,2015,119
-817,Estonia,2014,122
-818,Estonia,2013,127
-819,Estonia,2012,135
-820,Estonia,2011,138
-821,Estonia,2010,137
-822,Estonia,2009,156
-823,Estonia,2008,167
-824,Estonia,2007,189
-825,Estonia,2006,188
-826,Estonia,2005,189
-827,Estonia,2004,195
-828,Estonia,2003,199
-829,Estonia,2002,211
-830,Estonia,2001,225
-831,Estonia,2000,218
-832,eSwatini,2015,373
-833,eSwatini,2014,382
-834,eSwatini,2013,393
-835,eSwatini,2012,412
-836,eSwatini,2011,438
-837,eSwatini,2010,459
-838,eSwatini,2009,46
-839,eSwatini,2008,477
-840,eSwatini,2007,51
-841,eSwatini,2006,564
-842,eSwatini,2005,63
-843,eSwatini,2004,69
-844,eSwatini,2003,6
-845,eSwatini,2002,587
-846,eSwatini,2001,568
-847,eSwatini,2000,536
-848,Ethiopia,2015,225
-849,Ethiopia,2014,234
-850,Ethiopia,2013,237
-851,Ethiopia,2012,241
-852,Ethiopia,2011,249
-853,Ethiopia,2010,261
-854,Ethiopia,2009,274
-855,Ethiopia,2008,289
-856,Ethiopia,2007,39
-857,Ethiopia,2006,328
-858,Ethiopia,2005,343
-859,Ethiopia,2004,354
-860,Ethiopia,2003,363
-861,Ethiopia,2002,369
-862,Ethiopia,2001,372
-863,Ethiopia,2000,391
-864,Federated States of Micronesia,2015,166
-865,Federated States of Micronesia,2014,164
-866,Federated States of Micronesia,2013,166
-867,Federated States of Micronesia,2012,168
-868,Federated States of Micronesia,2011,169
-869,Federated States of Micronesia,2010,171
-870,Federated States of Micronesia,2009,172
-871,Federated States of Micronesia,2008,174
-872,Federated States of Micronesia,2007,175
-873,Federated States of Micronesia,2006,176
-874,Federated States of Micronesia,2005,178
-875,Federated States of Micronesia,2004,179
-876,Federated States of Micronesia,2003,18
-877,Federated States of Micronesia,2002,21
-878,Federated States of Micronesia,2001,183
-879,Federated States of Micronesia,2000,185
-880,Fiji,2015,188
-881,Fiji,2014,19
-882,Fiji,2013,192
-883,Fiji,2012,195
-884,Fiji,2011,197
-885,Fiji,2010,2
-886,Fiji,2009,23
-887,Fiji,2008,26
-888,Fiji,2007,29
-889,Fiji,2006,211
-890,Fiji,2005,214
-891,Fiji,2004,218
-892,Fiji,2003,22
-893,Fiji,2002,22
-894,Fiji,2001,221
-895,Fiji,2000,221
-896,Finland,2015,76
-897,Finland,2014,78
-898,Finland,2013,79
-899,Finland,2012,82
-900,Finland,2011,86
-901,Finland,2010,89
-902,Finland,2009,91
-903,Finland,2008,94
-904,Finland,2007,96
-905,Finland,2006,96
-906,Finland,2005,11
-907,Finland,2004,12
-908,Finland,2003,98
-909,Finland,2002,98
-910,Finland,2001,1
-911,Finland,2000,15
-912,France,2015,78
-913,France,2014,79
-914,France,2013,81
-915,France,2012,83
-916,France,2011,83
-917,France,2010,86
-918,France,2009,88
-919,France,2008,88
-920,France,2007,89
-921,France,2006,92
-922,France,2005,93
-923,France,2004,94
-924,France,2003,99
-925,France,2002,11
-926,France,2001,13
-927,France,2000,13
-928,Gabon,2015,229
-929,Gabon,2014,237
-930,Gabon,2013,255
-931,Gabon,2012,276
-932,Gabon,2011,289
-933,Gabon,2010,294
-934,Gabon,2009,31
-935,Gabon,2008,298
-936,Gabon,2007,291
-937,Gabon,2006,288
-938,Gabon,2005,37
-939,Gabon,2004,322
-940,Gabon,2003,32
-941,Gabon,2002,315
-942,Gabon,2001,37
-943,Gabon,2000,296
-944,Gambia,2015,262
-945,Gambia,2014,266
-946,Gambia,2013,266
-947,Gambia,2012,269
-948,Gambia,2011,277
-949,Gambia,2010,284
-950,Gambia,2009,286
-951,Gambia,2008,287
-952,Gambia,2007,288
-953,Gambia,2006,288
-954,Gambia,2005,294
-955,Gambia,2004,296
-956,Gambia,2003,297
-957,Gambia,2002,298
-958,Gambia,2001,3
-959,Gambia,2000,33
-960,Georgia,2015,129
-961,Georgia,2014,125
-962,Georgia,2013,128
-963,Georgia,2012,13
-964,Georgia,2011,127
-965,Georgia,2010,132
-966,Georgia,2009,133
-967,Georgia,2008,128
-968,Georgia,2007,12
-969,Georgia,2006,126
-970,Georgia,2005,128
-971,Georgia,2004,134
-972,Georgia,2003,132
-973,Georgia,2002,142
-974,Georgia,2001,121
-975,Georgia,2000,129
-976,Germany,2015,68
-977,Germany,2014,69
-978,Germany,2013,71
-979,Germany,2012,71
-980,Germany,2011,74
-981,Germany,2010,76
-982,Germany,2009,79
-983,Germany,2008,8
-984,Germany,2007,82
-985,Germany,2006,84
-986,Germany,2005,85
-987,Germany,2004,86
-988,Germany,2003,9
-989,Germany,2002,91
-990,Germany,2001,92
-991,Germany,2000,95
-992,Ghana,2015,249
-993,Ghana,2014,253
-994,Ghana,2013,254
-995,Ghana,2012,257
-996,Ghana,2011,263
-997,Ghana,2010,267
-998,Ghana,2009,271
-999,Ghana,2008,275
-1000,Ghana,2007,28
-1001,Ghana,2006,288
-1002,Ghana,2005,296
-1003,Ghana,2004,34
-1004,Ghana,2003,38
-1005,Ghana,2002,31
-1006,Ghana,2001,39
-1007,Ghana,2000,38
-1008,Greece,2015,72
-1009,Greece,2014,73
-1010,Greece,2013,74
-1011,Greece,2012,76
-1012,Greece,2011,76
-1013,Greece,2010,76
-1014,Greece,2009,78
-1015,Greece,2008,77
-1016,Greece,2007,8
-1017,Greece,2006,77
-1018,Greece,2005,81
-1019,Greece,2004,81
-1020,Greece,2003,81
-1021,Greece,2002,81
-1022,Greece,2001,83
-1023,Greece,2000,84
-672,Greenland,2015,71
-673,Greenland,2014,73
-674,Greenland,2013,75
-675,Greenland,2012,76
-676,Greenland,2011,79
-677,Greenland,2010,84
-678,Greenland,2009,86
-679,Greenland,2008,88
-680,Greenland,2007,93
-681,Greenland,2006,93
-682,Greenland,2005,92
-683,Greenland,2004,98
-684,Greenland,2003,11
-685,Greenland,2002,14
-686,Greenland,2001,12
-687,Greenland,2000,12
-1024,Grenada,2015,142
-1025,Grenada,2014,143
-1026,Grenada,2013,144
-1027,Grenada,2012,146
-1028,Grenada,2011,15
-1029,Grenada,2010,154
-1030,Grenada,2009,158
-1031,Grenada,2008,162
-1032,Grenada,2007,164
-1033,Grenada,2006,167
-1034,Grenada,2005,169
-1035,Grenada,2004,187
-1036,Grenada,2003,173
-1037,Grenada,2002,176
-1038,Grenada,2001,178
-1039,Grenada,2000,182
-1040,Guatemala,2015,186
-1041,Guatemala,2014,187
-1042,Guatemala,2013,189
-1043,Guatemala,2012,189
-1044,Guatemala,2011,193
-1045,Guatemala,2010,196
-1046,Guatemala,2009,198
-1047,Guatemala,2008,19
-1048,Guatemala,2007,192
-1049,Guatemala,2006,24
-1050,Guatemala,2005,28
-1051,Guatemala,2004,21
-1052,Guatemala,2003,24
-1053,Guatemala,2002,21
-1054,Guatemala,2001,211
-1055,Guatemala,2000,221
-1056,Guinea,2015,284
-1057,Guinea,2014,299
-1058,Guinea,2013,284
-1059,Guinea,2012,288
-1060,Guinea,2011,29
-1061,Guinea,2010,291
-1062,Guinea,2009,297
-1063,Guinea,2008,33
-1064,Guinea,2007,36
-1065,Guinea,2006,317
-1066,Guinea,2005,327
-1067,Guinea,2004,334
-1068,Guinea,2003,338
-1069,Guinea,2002,337
-1070,Guinea,2001,336
-1071,Guinea,2000,328
-1072,Guinea-Bissau,2015,275
-1073,Guinea-Bissau,2014,282
-1074,Guinea-Bissau,2013,279
-1075,Guinea-Bissau,2012,285
-1076,Guinea-Bissau,2011,289
-1077,Guinea-Bissau,2010,287
-1078,Guinea-Bissau,2009,288
-1079,Guinea-Bissau,2008,297
-1080,Guinea-Bissau,2007,32
-1081,Guinea-Bissau,2006,36
-1082,Guinea-Bissau,2005,37
-1083,Guinea-Bissau,2004,38
-1084,Guinea-Bissau,2003,38
-1085,Guinea-Bissau,2002,35
-1086,Guinea-Bissau,2001,32
-1087,Guinea-Bissau,2000,3
-1088,Guyana,2015,215
-1089,Guyana,2014,217
-1090,Guyana,2013,218
-1091,Guyana,2012,22
-1092,Guyana,2011,229
-1093,Guyana,2010,221
-1094,Guyana,2009,218
-1095,Guyana,2008,218
-1096,Guyana,2007,232
-1097,Guyana,2006,24
-1098,Guyana,2005,238
-1099,Guyana,2004,237
-1100,Guyana,2003,237
-1101,Guyana,2002,244
-1102,Guyana,2001,247
-1103,Guyana,2000,246
-1104,Haiti,2015,24
-1105,Haiti,2014,245
-1106,Haiti,2013,253
-1107,Haiti,2012,259
-1108,Haiti,2011,259
-1109,Haiti,2010,682
-1110,Haiti,2009,251
-1111,Haiti,2008,259
-1112,Haiti,2007,266
-1113,Haiti,2006,28
-1114,Haiti,2005,29
-1115,Haiti,2004,32
-1116,Haiti,2003,3
-1117,Haiti,2002,33
-1118,Haiti,2001,35
-1119,Haiti,2000,35
-1120,Honduras,2015,147
-1121,Honduras,2014,149
-1122,Honduras,2013,15
-1123,Honduras,2012,151
-1124,Honduras,2011,153
-1125,Honduras,2010,156
-1126,Honduras,2009,157
-1127,Honduras,2008,159
-1128,Honduras,2007,16
-1129,Honduras,2006,161
-1130,Honduras,2005,163
-1131,Honduras,2004,165
-1132,Honduras,2003,166
-1133,Honduras,2002,169
-1134,Honduras,2001,171
-1135,Honduras,2000,174
-1136,Hungary,2015,134
-1137,Hungary,2014,137
-1138,Hungary,2013,139
-1139,Hungary,2012,146
-1140,Hungary,2011,15
-1141,Hungary,2010,156
-1142,Hungary,2009,162
-1143,Hungary,2008,165
-1144,Hungary,2007,176
-1145,Hungary,2006,177
-1146,Hungary,2005,182
-1147,Hungary,2004,18
-1148,Hungary,2003,184
-1149,Hungary,2002,184
-1150,Hungary,2001,185
-1151,Hungary,2000,193
-1152,Iceland,2015,49
-1153,Iceland,2014,49
-1154,Iceland,2013,5
-1155,Iceland,2012,5
-1156,Iceland,2011,51
-1157,Iceland,2010,53
-1158,Iceland,2009,55
-1159,Iceland,2008,58
-1160,Iceland,2007,59
-1161,Iceland,2006,61
-1162,Iceland,2005,62
-1163,Iceland,2004,65
-1164,Iceland,2003,65
-1165,Iceland,2002,7
-1166,Iceland,2001,72
-1167,Iceland,2000,74
-1168,India,2015,181
-1169,India,2014,184
-1170,India,2013,187
-1171,India,2012,19
-1172,India,2011,193
-1173,India,2010,196
-1174,India,2009,2
-1175,India,2008,23
-1176,India,2007,26
-1177,India,2006,28
-1178,India,2005,211
-1179,India,2004,214
-1180,India,2003,216
-1181,India,2002,219
-1182,India,2001,222
-1183,India,2000,224
-1184,Indonesia,2015,176
-1185,Indonesia,2014,179
-1186,Indonesia,2013,181
-1187,Indonesia,2012,183
-1188,Indonesia,2011,185
-1189,Indonesia,2010,187
-1190,Indonesia,2009,189
-1191,Indonesia,2008,189
-1192,Indonesia,2007,19
-1193,Indonesia,2006,191
-1194,Indonesia,2005,19
-1195,Indonesia,2004,213
-1196,Indonesia,2003,189
-1197,Indonesia,2002,189
-1198,Indonesia,2001,188
-1199,Indonesia,2000,188
-1200,Iran,2015,83
-1201,Iran,2014,83
-1202,Iran,2013,83
-1203,Iran,2012,85
-1204,Iran,2011,93
-1205,Iran,2010,16
-1206,Iran,2009,122
-1207,Iran,2008,135
-1208,Iran,2007,138
-1209,Iran,2006,139
-1210,Iran,2005,139
-1211,Iran,2004,139
-1212,Iran,2003,154
-1213,Iran,2002,142
-1214,Iran,2001,146
-1215,Iran,2000,15
-1216,Iraq,2015,182
-1217,Iraq,2014,199
-1218,Iraq,2013,17
-1219,Iraq,2012,147
-1220,Iraq,2011,144
-1221,Iraq,2010,145
-1222,Iraq,2009,148
-1223,Iraq,2008,167
-1224,Iraq,2007,227
-1225,Iraq,2006,249
-1226,Iraq,2005,29
-1227,Iraq,2004,21
-1228,Iraq,2003,213
-1229,Iraq,2002,14
-1230,Iraq,2001,142
-1231,Iraq,2000,144
-1232,Ireland,2015,64
-1233,Ireland,2014,66
-1234,Ireland,2013,67
-1235,Ireland,2012,69
-1236,Ireland,2011,7
-1237,Ireland,2010,68
-1238,Ireland,2009,77
-1239,Ireland,2008,75
-1240,Ireland,2007,75
-1241,Ireland,2006,78
-1242,Ireland,2005,78
-1243,Ireland,2004,82
-1244,Ireland,2003,82
-1245,Ireland,2002,88
-1246,Ireland,2001,89
-1247,Ireland,2000,94
-1248,Israel,2015,58
-1249,Israel,2014,6
-1250,Israel,2013,61
-1251,Israel,2012,6
-1252,Israel,2011,61
-1253,Israel,2010,61
-1254,Israel,2009,63
-1255,Israel,2008,65
-1256,Israel,2007,68
-1257,Israel,2006,68
-1258,Israel,2005,71
-1259,Israel,2004,69
-1260,Israel,2003,71
-1261,Israel,2002,74
-1262,Israel,2001,74
-1263,Israel,2000,76
-1264,Italy,2015,56
-1265,Italy,2014,57
-1266,Italy,2013,58
-1267,Italy,2012,6
-1268,Italy,2011,6
-1269,Italy,2010,6
-1270,Italy,2009,61
-1271,Italy,2008,61
-1272,Italy,2007,63
-1273,Italy,2006,65
-1274,Italy,2005,66
-1275,Italy,2004,66
-1276,Italy,2003,72
-1277,Italy,2002,72
-1278,Italy,2001,75
-1279,Italy,2000,77
-1296,Jamaica,2015,125
-1297,Jamaica,2014,133
-1298,Jamaica,2013,136
-1299,Jamaica,2012,138
-1300,Jamaica,2011,139
-1301,Jamaica,2010,138
-1302,Jamaica,2009,142
-1303,Jamaica,2008,145
-1304,Jamaica,2007,148
-1305,Jamaica,2006,15
-1306,Jamaica,2005,161
-1307,Jamaica,2004,165
-1308,Jamaica,2003,166
-1309,Jamaica,2002,167
-1310,Jamaica,2001,171
-1311,Jamaica,2000,171
-1312,Japan,2015,55
-1313,Japan,2014,57
-1314,Japan,2013,56
-1315,Japan,2012,58
-1316,Japan,2011,64
-1317,Japan,2010,62
-1318,Japan,2009,64
-1319,Japan,2008,66
-1320,Japan,2007,67
-1321,Japan,2006,68
-1322,Japan,2005,69
-1323,Japan,2004,68
-1324,Japan,2003,7
-1325,Japan,2002,7
-1326,Japan,2001,72
-1327,Japan,2000,74
-1328,Jordan,2015,112
-1329,Jordan,2014,113
-1330,Jordan,2013,114
-1331,Jordan,2012,115
-1332,Jordan,2011,116
-1333,Jordan,2010,117
-1334,Jordan,2009,118
-1335,Jordan,2008,119
-1336,Jordan,2007,12
-1337,Jordan,2006,121
-1338,Jordan,2005,127
-1339,Jordan,2004,125
-1340,Jordan,2003,127
-1341,Jordan,2002,129
-1342,Jordan,2001,131
-1343,Jordan,2000,133
-1344,Kazakhstan,2015,198
-1345,Kazakhstan,2014,22
-1346,Kazakhstan,2013,28
-1347,Kazakhstan,2012,214
-1348,Kazakhstan,2011,224
-1349,Kazakhstan,2010,236
-1350,Kazakhstan,2009,235
-1351,Kazakhstan,2008,258
-1352,Kazakhstan,2007,288
-1353,Kazakhstan,2006,295
-1354,Kazakhstan,2005,294
-1355,Kazakhstan,2004,287
-1356,Kazakhstan,2003,282
-1357,Kazakhstan,2002,276
-1358,Kazakhstan,2001,284
-1359,Kazakhstan,2000,292
-1360,Kenya,2015,249
-1361,Kenya,2014,255
-1362,Kenya,2013,258
-1363,Kenya,2012,263
-1364,Kenya,2011,278
-1365,Kenya,2010,294
-1366,Kenya,2009,317
-1367,Kenya,2008,339
-1368,Kenya,2007,356
-1369,Kenya,2006,388
-1370,Kenya,2005,412
-1371,Kenya,2004,432
-1372,Kenya,2003,437
-1373,Kenya,2002,437
-1374,Kenya,2001,434
-1375,Kenya,2000,428
-1376,Kiribati,2015,198
-1377,Kiribati,2014,2
-1378,Kiribati,2013,22
-1379,Kiribati,2012,24
-1380,Kiribati,2011,26
-1381,Kiribati,2010,27
-1382,Kiribati,2009,28
-1383,Kiribati,2008,21
-1384,Kiribati,2007,211
-1385,Kiribati,2006,212
-1386,Kiribati,2005,213
-1387,Kiribati,2004,214
-1388,Kiribati,2003,215
-1389,Kiribati,2002,217
-1390,Kiribati,2001,219
-1391,Kiribati,2000,222
-1392,Kuwait,2015,81
-1393,Kuwait,2014,82
-1394,Kuwait,2013,83
-1395,Kuwait,2012,84
-1396,Kuwait,2011,85
-1397,Kuwait,2010,86
-1398,Kuwait,2009,87
-1399,Kuwait,2008,88
-1400,Kuwait,2007,89
-1401,Kuwait,2006,89
-1402,Kuwait,2005,9
-1403,Kuwait,2004,91
-1404,Kuwait,2003,93
-1405,Kuwait,2002,94
-1406,Kuwait,2001,95
-1407,Kuwait,2000,96
-1408,Kyrgyzstan,2015,166
-1409,Kyrgyzstan,2014,17
-1410,Kyrgyzstan,2013,174
-1411,Kyrgyzstan,2012,18
-1412,Kyrgyzstan,2011,188
-1413,Kyrgyzstan,2010,199
-1414,Kyrgyzstan,2009,21
-1415,Kyrgyzstan,2008,217
-1416,Kyrgyzstan,2007,229
-1417,Kyrgyzstan,2006,234
-1418,Kyrgyzstan,2005,224
-1419,Kyrgyzstan,2004,218
-1420,Kyrgyzstan,2003,217
-1421,Kyrgyzstan,2002,215
-1422,Kyrgyzstan,2001,217
-1423,Kyrgyzstan,2000,225
-1424,Laos,2015,194
-1425,Laos,2014,199
-1426,Laos,2013,23
-1427,Laos,2012,28
-1428,Laos,2011,213
-1429,Laos,2010,218
-1430,Laos,2009,223
-1431,Laos,2008,228
-1432,Laos,2007,234
-1433,Laos,2006,24
-1434,Laos,2005,246
-1435,Laos,2004,252
-1436,Laos,2003,259
-1437,Laos,2002,265
-1438,Laos,2001,271
-1439,Laos,2000,278
-1440,Latvia,2015,153
-1441,Latvia,2014,156
-1442,Latvia,2013,161
-1443,Latvia,2012,163
-1444,Latvia,2011,169
-1445,Latvia,2010,18
-1446,Latvia,2009,184
-1447,Latvia,2008,199
-1448,Latvia,2007,221
-1449,Latvia,2006,229
-1450,Latvia,2005,216
-1451,Latvia,2004,26
-1452,Latvia,2003,29
-1453,Latvia,2002,219
-1454,Latvia,2001,228
-1455,Latvia,2000,218
-1456,Lebanon,2015,98
-1457,Lebanon,2014,99
-1458,Lebanon,2013,97
-1459,Lebanon,2012,93
-1460,Lebanon,2011,93
-1461,Lebanon,2010,94
-1462,Lebanon,2009,95
-1463,Lebanon,2008,98
-1464,Lebanon,2007,98
-1465,Lebanon,2006,1
-1466,Lebanon,2005,11
-1467,Lebanon,2004,13
-1468,Lebanon,2003,15
-1469,Lebanon,2002,17
-1470,Lebanon,2001,11
-1471,Lebanon,2000,112
-1472,Lesotho,2015,484
-1473,Lesotho,2014,522
-1474,Lesotho,2013,518
-1475,Lesotho,2012,513
-1476,Lesotho,2011,52
-1477,Lesotho,2010,527
-1478,Lesotho,2009,566
-1479,Lesotho,2008,592
-1480,Lesotho,2007,633
-1481,Lesotho,2006,654
-1482,Lesotho,2005,675
-1483,Lesotho,2004,666
-1484,Lesotho,2003,648
-1485,Lesotho,2002,622
-1486,Lesotho,2001,586
-1487,Lesotho,2000,543
-1488,Liberia,2015,259
-1489,Liberia,2014,329
-1490,Liberia,2013,258
-1491,Liberia,2012,261
-1492,Liberia,2011,266
-1493,Liberia,2010,272
-1494,Liberia,2009,277
-1495,Liberia,2008,281
-1496,Liberia,2007,286
-1497,Liberia,2006,32
-1498,Liberia,2005,316
-1499,Liberia,2004,329
-1500,Liberia,2003,42
-1501,Liberia,2002,371
-1502,Liberia,2001,333
-1503,Liberia,2000,39
-1504,Libya,2015,138
-1505,Libya,2014,143
-1506,Libya,2013,134
-1507,Libya,2012,133
-1508,Libya,2011,161
-1509,Libya,2010,132
-1510,Libya,2009,132
-1511,Libya,2008,132
-1512,Libya,2007,132
-1513,Libya,2006,134
-1514,Libya,2005,138
-1515,Libya,2004,141
-1516,Libya,2003,144
-1517,Libya,2002,146
-1518,Libya,2001,147
-1519,Libya,2000,148
-1520,Lithuania,2015,165
-1521,Lithuania,2014,169
-1522,Lithuania,2013,178
-1523,Lithuania,2012,176
-1524,Lithuania,2011,18
-1525,Lithuania,2010,188
-1526,Lithuania,2009,192
-1527,Lithuania,2008,224
-1528,Lithuania,2007,24
-1529,Lithuania,2006,229
-1530,Lithuania,2005,222
-1531,Lithuania,2004,24
-1532,Lithuania,2003,22
-1533,Lithuania,2002,22
-1534,Lithuania,2001,21
-1535,Lithuania,2000,2
-1536,Luxembourg,2015,63
-1537,Luxembourg,2014,65
-1538,Luxembourg,2013,68
-1539,Luxembourg,2012,7
-1540,Luxembourg,2011,72
-1541,Luxembourg,2010,73
-1542,Luxembourg,2009,76
-1543,Luxembourg,2008,8
-1544,Luxembourg,2007,82
-1545,Luxembourg,2006,85
-1546,Luxembourg,2005,9
-1547,Luxembourg,2004,92
-1548,Luxembourg,2003,92
-1549,Luxembourg,2002,95
-1550,Luxembourg,2001,96
-1551,Luxembourg,2000,98
-1921,Macedonia,2014,12
-1922,Macedonia,2013,14
-1923,Macedonia,2012,15
-1924,Macedonia,2011,17
-1925,Macedonia,2010,18
-1926,Macedonia,2009,111
-1927,Macedonia,2008,111
-1928,Macedonia,2007,12
-1929,Macedonia,2006,122
-1930,Macedonia,2005,12
-1931,Macedonia,2004,12
-1932,Macedonia,2003,126
-1933,Macedonia,2002,128
-1934,Macedonia,2001,126
-1935,Macedonia,2000,125
-1552,Madagascar,2015,22
-1553,Madagascar,2014,225
-1554,Madagascar,2013,23
-1555,Madagascar,2012,235
-1556,Madagascar,2011,241
-1557,Madagascar,2010,248
-1558,Madagascar,2009,254
-1559,Madagascar,2008,259
-1560,Madagascar,2007,261
-1561,Madagascar,2006,263
-1562,Madagascar,2005,265
-1563,Madagascar,2004,267
-1564,Madagascar,2003,268
-1565,Madagascar,2002,271
-1566,Madagascar,2001,276
-1567,Madagascar,2000,283
-1568,Malawi,2015,365
-1569,Malawi,2014,377
-1570,Malawi,2013,394
-1571,Malawi,2012,42
-1572,Malawi,2011,441
-1573,Malawi,2010,462
-1574,Malawi,2009,491
-1575,Malawi,2008,525
-1576,Malawi,2007,559
-1577,Malawi,2006,587
-1578,Malawi,2005,66
-1579,Malawi,2004,615
-1580,Malawi,2003,613
-1581,Malawi,2002,67
-1582,Malawi,2001,599
-1583,Malawi,2000,588
-1584,Malaysia,2015,123
-1585,Malaysia,2014,126
-1586,Malaysia,2013,128
-1587,Malaysia,2012,129
-1588,Malaysia,2011,13
-1589,Malaysia,2010,131
-1590,Malaysia,2009,131
-1591,Malaysia,2008,132
-1592,Malaysia,2007,133
-1593,Malaysia,2006,134
-1594,Malaysia,2005,135
-1595,Malaysia,2004,137
-1596,Malaysia,2003,138
-1597,Malaysia,2002,14
-1598,Malaysia,2001,144
-1599,Malaysia,2000,149
-1600,Maldives,2015,61
-1601,Maldives,2014,62
-1602,Maldives,2013,64
-1603,Maldives,2012,65
-1604,Maldives,2011,67
-1605,Maldives,2010,73
-1606,Maldives,2009,75
-1607,Maldives,2008,81
-1608,Maldives,2007,82
-1609,Maldives,2006,88
-1610,Maldives,2005,93
-1611,Maldives,2004,16
-1612,Maldives,2003,112
-1613,Maldives,2002,124
-1614,Maldives,2001,129
-1615,Maldives,2000,139
-1616,Mali,2015,266
-1617,Mali,2014,272
-1618,Mali,2013,275
-1619,Mali,2012,27
-1620,Mali,2011,271
-1621,Mali,2010,273
-1622,Mali,2009,276
-1623,Mali,2008,278
-1624,Mali,2007,282
-1625,Mali,2006,288
-1626,Mali,2005,29
-1627,Mali,2004,296
-1628,Mali,2003,299
-1629,Mali,2002,31
-1630,Mali,2001,34
-1631,Mali,2000,37
-1632,Malta,2015,54
-1633,Malta,2014,55
-1634,Malta,2013,57
-1635,Malta,2012,58
-1636,Malta,2011,59
-1637,Malta,2010,62
-1638,Malta,2009,63
-1639,Malta,2008,64
-1640,Malta,2007,65
-1641,Malta,2006,66
-1642,Malta,2005,67
-1643,Malta,2004,69
-1644,Malta,2003,71
-1645,Malta,2002,75
-1646,Malta,2001,79
-1647,Malta,2000,8
-1648,Mauritania,2015,25
-1649,Mauritania,2014,26
-1650,Mauritania,2013,28
-1651,Mauritania,2012,29
-1652,Mauritania,2011,212
-1653,Mauritania,2010,214
-1654,Mauritania,2009,215
-1655,Mauritania,2008,217
-1656,Mauritania,2007,219
-1657,Mauritania,2006,221
-1658,Mauritania,2005,223
-1659,Mauritania,2004,224
-1660,Mauritania,2003,226
-1661,Mauritania,2002,228
-1662,Mauritania,2001,229
-1663,Mauritania,2000,23
-1664,Mauritius,2015,146
-1665,Mauritius,2014,148
-1666,Mauritius,2013,147
-1667,Mauritius,2012,154
-1668,Mauritius,2011,158
-1669,Mauritius,2010,163
-1670,Mauritius,2009,166
-1671,Mauritius,2008,166
-1672,Mauritius,2007,161
-1673,Mauritius,2006,165
-1674,Mauritius,2005,168
-1675,Mauritius,2004,168
-1676,Mauritius,2003,174
-1677,Mauritius,2002,179
-1678,Mauritius,2001,177
-1679,Mauritius,2000,177
-1680,Mexico,2015,122
-1681,Mexico,2014,122
-1682,Mexico,2013,12
-1683,Mexico,2012,123
-1684,Mexico,2011,124
-1685,Mexico,2010,127
-1686,Mexico,2009,13
-1687,Mexico,2008,127
-1688,Mexico,2007,123
-1689,Mexico,2006,125
-1690,Mexico,2005,126
-1691,Mexico,2004,124
-1692,Mexico,2003,127
-1693,Mexico,2002,127
-1694,Mexico,2001,126
-1695,Mexico,2000,129
-1696,Moldova,2015,157
-1697,Moldova,2014,162
-1698,Moldova,2013,163
-1699,Moldova,2012,175
-1700,Moldova,2011,177
-1701,Moldova,2010,219
-1702,Moldova,2009,218
-1703,Moldova,2008,228
-1704,Moldova,2007,237
-1705,Moldova,2006,242
-1706,Moldova,2005,248
-1707,Moldova,2004,225
-1708,Moldova,2003,226
-1709,Moldova,2002,225
-1710,Moldova,2001,228
-1711,Moldova,2000,235
-1712,Mongolia,2015,222
-1713,Mongolia,2014,225
-1714,Mongolia,2013,227
-1715,Mongolia,2012,231
-1716,Mongolia,2011,235
-1717,Mongolia,2010,25
-1718,Mongolia,2009,235
-1719,Mongolia,2008,225
-1720,Mongolia,2007,26
-1721,Mongolia,2006,271
-1722,Mongolia,2005,274
-1723,Mongolia,2004,284
-1724,Mongolia,2003,271
-1725,Mongolia,2002,263
-1726,Mongolia,2001,266
-1727,Mongolia,2000,274
-1728,Montenegro,2015,16
-1729,Montenegro,2014,17
-1730,Montenegro,2013,19
-1731,Montenegro,2012,11
-1732,Montenegro,2011,113
-1733,Montenegro,2010,115
-1734,Montenegro,2009,117
-1735,Montenegro,2008,121
-1736,Montenegro,2007,125
-1737,Montenegro,2006,13
-1738,Montenegro,2005,133
-1739,Montenegro,2004,134
-1740,Montenegro,2003,134
-1741,Montenegro,2002,136
-1742,Montenegro,2001,136
-1743,Montenegro,2000,144
-1744,Morocco,2015,95
-1745,Morocco,2014,96
-1746,Morocco,2013,97
-1747,Morocco,2012,99
-1748,Morocco,2011,14
-1749,Morocco,2010,11
-1750,Morocco,2009,116
-1751,Morocco,2008,123
-1752,Morocco,2007,128
-1753,Morocco,2006,133
-1754,Morocco,2005,137
-1755,Morocco,2004,142
-1756,Morocco,2003,146
-1757,Morocco,2002,15
-1758,Morocco,2001,155
-1759,Morocco,2000,16
-1760,Mozambique,2015,355
-1761,Mozambique,2014,375
-1762,Mozambique,2013,46
-1763,Mozambique,2012,48
-1764,Mozambique,2011,47
-1765,Mozambique,2010,47
-1766,Mozambique,2009,4
-1767,Mozambique,2008,45
-1768,Mozambique,2007,425
-1769,Mozambique,2006,434
-1770,Mozambique,2005,434
-1771,Mozambique,2004,429
-1772,Mozambique,2003,424
-1773,Mozambique,2002,416
-1774,Mozambique,2001,48
-1775,Mozambique,2000,43
-1776,Myanmar,2015,199
-1777,Myanmar,2014,21
-1778,Myanmar,2013,22
-1779,Myanmar,2012,25
-1780,Myanmar,2011,27
-1781,Myanmar,2010,29
-1782,Myanmar,2009,211
-1783,Myanmar,2008,296
-1784,Myanmar,2007,217
-1785,Myanmar,2006,22
-1786,Myanmar,2005,224
-1787,Myanmar,2004,228
-1788,Myanmar,2003,231
-1789,Myanmar,2002,235
-1790,Myanmar,2001,239
-1791,Myanmar,2000,243
-1792,Namibia,2015,248
-1793,Namibia,2014,242
-1794,Namibia,2013,232
-1795,Namibia,2012,232
-1796,Namibia,2011,268
-1797,Namibia,2010,299
-1798,Namibia,2009,36
-1799,Namibia,2008,317
-1800,Namibia,2007,356
-1801,Namibia,2006,431
-1802,Namibia,2005,477
-1803,Namibia,2004,483
-1804,Namibia,2003,471
-1805,Namibia,2002,452
-1806,Namibia,2001,426
-1807,Namibia,2000,41
-1808,Nepal,2015,165
-1809,Nepal,2014,158
-1810,Nepal,2013,162
-1811,Nepal,2012,167
-1812,Nepal,2011,172
-1813,Nepal,2010,178
-1814,Nepal,2009,183
-1815,Nepal,2008,189
-1816,Nepal,2007,194
-1817,Nepal,2006,21
-1818,Nepal,2005,28
-1819,Nepal,2004,218
-1820,Nepal,2003,22
-1821,Nepal,2002,238
-1822,Nepal,2001,23
-1823,Nepal,2000,238
-1824,Netherlands,2015,57
-1825,Netherlands,2014,58
-1826,Netherlands,2013,6
-1827,Netherlands,2012,62
-1828,Netherlands,2011,63
-1829,Netherlands,2010,64
-1830,Netherlands,2009,65
-1831,Netherlands,2008,68
-1832,Netherlands,2007,68
-1833,Netherlands,2006,71
-1834,Netherlands,2005,72
-1835,Netherlands,2004,77
-1836,Netherlands,2003,8
-1837,Netherlands,2002,81
-1838,Netherlands,2001,82
-1839,Netherlands,2000,84
-1840,New Zealand,2015,66
-1841,New Zealand,2014,67
-1842,New Zealand,2013,69
-1843,New Zealand,2012,7
-1844,New Zealand,2011,72
-1845,New Zealand,2010,71
-1846,New Zealand,2009,73
-1847,New Zealand,2008,75
-1848,New Zealand,2007,76
-1849,New Zealand,2006,76
-1850,New Zealand,2005,78
-1851,New Zealand,2004,79
-1852,New Zealand,2003,82
-1853,New Zealand,2002,83
-1854,New Zealand,2001,83
-1855,New Zealand,2000,87
-1856,Nicaragua,2015,145
-1857,Nicaragua,2014,148
-1858,Nicaragua,2013,157
-1859,Nicaragua,2012,157
-1860,Nicaragua,2011,147
-1861,Nicaragua,2010,154
-1862,Nicaragua,2009,163
-1863,Nicaragua,2008,169
-1864,Nicaragua,2007,173
-1865,Nicaragua,2006,17
-1866,Nicaragua,2005,194
-1867,Nicaragua,2004,194
-1868,Nicaragua,2003,198
-1869,Nicaragua,2002,197
-1870,Nicaragua,2001,193
-1871,Nicaragua,2000,192
-1872,Niger,2015,22
-1873,Niger,2014,223
-1874,Niger,2013,227
-1875,Niger,2012,232
-1876,Niger,2011,241
-1877,Niger,2010,252
-1878,Niger,2009,263
-1879,Niger,2008,272
-1880,Niger,2007,276
-1881,Niger,2006,277
-1882,Niger,2005,278
-1883,Niger,2004,279
-1884,Niger,2003,28
-1885,Niger,2002,282
-1886,Niger,2001,283
-1887,Niger,2000,284
-1888,Nigeria,2015,344
-1889,Nigeria,2014,362
-1890,Nigeria,2013,367
-1891,Nigeria,2012,374
-1892,Nigeria,2011,375
-1893,Nigeria,2010,374
-1894,Nigeria,2009,376
-1895,Nigeria,2008,386
-1896,Nigeria,2007,388
-1897,Nigeria,2006,396
-1898,Nigeria,2005,4
-1899,Nigeria,2004,47
-1900,Nigeria,2003,41
-1901,Nigeria,2002,49
-1902,Nigeria,2001,48
-1903,Nigeria,2000,45
-1904,North Korea,2015,139
-1905,North Korea,2014,142
-1906,North Korea,2013,146
-1907,North Korea,2012,149
-1908,North Korea,2011,153
-1909,North Korea,2010,157
-1910,North Korea,2009,161
-1911,North Korea,2008,164
-1912,North Korea,2007,166
-1913,North Korea,2006,165
-1914,North Korea,2005,165
-1915,North Korea,2004,165
-1916,North Korea,2003,165
-1917,North Korea,2002,167
-1918,North Korea,2001,177
-1919,North Korea,2000,192
-1920,North Macedonia,2015,12
-1936,Norway,2015,59
-1937,Norway,2014,61
-1938,Norway,2013,62
-1939,Norway,2012,61
-1940,Norway,2011,67
-1941,Norway,2010,66
-1942,Norway,2009,67
-1943,Norway,2008,67
-1944,Norway,2007,67
-1945,Norway,2006,7
-1946,Norway,2005,73
-1947,Norway,2004,77
-1948,Norway,2003,78
-1949,Norway,2002,81
-1950,Norway,2001,82
-1951,Norway,2000,85
-1952,Oman,2015,99
-1953,Oman,2014,11
-1954,Oman,2013,12
-1955,Oman,2012,14
-1956,Oman,2011,15
-1957,Oman,2010,16
-1958,Oman,2009,18
-1959,Oman,2008,19
-1960,Oman,2007,113
-1961,Oman,2006,115
-1962,Oman,2005,118
-1963,Oman,2004,122
-1964,Oman,2003,127
-1965,Oman,2002,13
-1966,Oman,2001,134
-1967,Oman,2000,138
-1968,Pakistan,2015,161
-1969,Pakistan,2014,162
-1970,Pakistan,2013,163
-1971,Pakistan,2012,165
-1972,Pakistan,2011,167
-1973,Pakistan,2010,172
-1974,Pakistan,2009,175
-1975,Pakistan,2008,177
-1976,Pakistan,2007,178
-1977,Pakistan,2006,179
-1978,Pakistan,2005,2
-1979,Pakistan,2004,183
-1980,Pakistan,2003,185
-1981,Pakistan,2002,187
-1982,Pakistan,2001,189
-1983,Pakistan,2000,19
-1984,Panama,2015,118
-1985,Panama,2014,119
-1986,Panama,2013,118
-1987,Panama,2012,12
-1988,Panama,2011,121
-1989,Panama,2010,122
-1990,Panama,2009,127
-1991,Panama,2008,127
-1992,Panama,2007,124
-1993,Panama,2006,125
-1994,Panama,2005,122
-1995,Panama,2004,123
-1996,Panama,2003,126
-1997,Panama,2002,125
-1998,Panama,2001,124
-1999,Panama,2000,121
-2000,Papua New Guinea,2015,275
-2001,Papua New Guinea,2014,278
-2002,Papua New Guinea,2013,281
-2003,Papua New Guinea,2012,284
-2004,Papua New Guinea,2011,285
-2005,Papua New Guinea,2010,286
-2006,Papua New Guinea,2009,288
-2007,Papua New Guinea,2008,29
-2008,Papua New Guinea,2007,295
-2009,Papua New Guinea,2006,299
-2010,Papua New Guinea,2005,37
-2011,Papua New Guinea,2004,314
-2012,Papua New Guinea,2003,321
-2013,Papua New Guinea,2002,327
-2014,Papua New Guinea,2001,331
-2015,Papua New Guinea,2000,335
-2016,Paraguay,2015,146
-2017,Paraguay,2014,147
-2018,Paraguay,2013,148
-2019,Paraguay,2012,148
-2020,Paraguay,2011,15
-2021,Paraguay,2010,152
-2022,Paraguay,2009,155
-2023,Paraguay,2008,157
-2024,Paraguay,2007,159
-2025,Paraguay,2006,161
-2026,Paraguay,2005,163
-2027,Paraguay,2004,165
-2028,Paraguay,2003,166
-2029,Paraguay,2002,168
-2030,Paraguay,2001,17
-2031,Paraguay,2000,172
-2032,Peru,2015,123
-2033,Peru,2014,125
-2034,Peru,2013,125
-2035,Peru,2012,129
-2036,Peru,2011,133
-2037,Peru,2010,14
-2038,Peru,2009,14
-2039,Peru,2008,138
-2040,Peru,2007,133
-2041,Peru,2006,134
-2042,Peru,2005,148
-2043,Peru,2004,151
-2044,Peru,2003,152
-2045,Peru,2002,144
-2046,Peru,2001,142
-2047,Peru,2000,154
-2048,Philippines,2015,211
-2049,Philippines,2014,214
-2050,Philippines,2013,219
-2051,Philippines,2012,217
-2052,Philippines,2011,218
-2053,Philippines,2010,218
-2054,Philippines,2009,219
-2055,Philippines,2008,217
-2056,Philippines,2007,216
-2057,Philippines,2006,219
-2058,Philippines,2005,223
-2059,Philippines,2004,218
-2060,Philippines,2003,217
-2061,Philippines,2002,221
-2062,Philippines,2001,221
-2063,Philippines,2000,219
-2064,Poland,2015,117
-2065,Poland,2014,12
-2066,Poland,2013,12
-2067,Poland,2012,125
-2068,Poland,2011,128
-2069,Poland,2010,13
-2070,Poland,2009,136
-2071,Poland,2008,14
-2072,Poland,2007,144
-2073,Poland,2006,144
-2074,Poland,2005,144
-2075,Poland,2004,143
-2076,Poland,2003,142
-2077,Poland,2002,145
-2078,Poland,2001,149
-2079,Poland,2000,153
-2080,Portugal,2015,76
-2081,Portugal,2014,78
-2082,Portugal,2013,79
-2083,Portugal,2012,81
-2084,Portugal,2011,85
-2085,Portugal,2010,88
-2086,Portugal,2009,9
-2087,Portugal,2008,92
-2088,Portugal,2007,94
-2089,Portugal,2006,96
-2090,Portugal,2005,11
-2091,Portugal,2004,99
-2092,Portugal,2003,15
-2093,Portugal,2002,17
-2094,Portugal,2001,11
-2095,Portugal,2000,11
-2096,Qatar,2015,68
-2097,Qatar,2014,69
-2098,Qatar,2013,7
-2099,Qatar,2012,72
-2100,Qatar,2011,74
-2101,Qatar,2010,76
-2102,Qatar,2009,79
-2103,Qatar,2008,82
-2104,Qatar,2007,83
-2105,Qatar,2006,83
-2106,Qatar,2005,84
-2107,Qatar,2004,84
-2108,Qatar,2003,85
-2109,Qatar,2002,85
-2110,Qatar,2001,87
-2111,Qatar,2000,88
-2144,Romania,2015,133
-2145,Romania,2014,135
-2146,Romania,2013,138
-2147,Romania,2012,138
-2148,Romania,2011,139
-2149,Romania,2010,153
-2150,Romania,2009,158
-2151,Romania,2008,159
-2152,Romania,2007,154
-2153,Romania,2006,157
-2154,Romania,2005,162
-2155,Romania,2004,165
-2156,Romania,2003,174
-2157,Romania,2002,178
-2158,Romania,2001,179
-2159,Romania,2000,175
-2160,Russia,2015,222
-2161,Russia,2014,225
-2162,Russia,2013,229
-2163,Russia,2012,237
-2164,Russia,2011,242
-2165,Russia,2010,256
-2166,Russia,2009,261
-2167,Russia,2008,278
-2168,Russia,2007,282
-2169,Russia,2006,3
-2170,Russia,2005,327
-2171,Russia,2004,321
-2172,Russia,2003,322
-2173,Russia,2002,313
-2174,Russia,2001,38
-2175,Russia,2000,37
-2176,Rwanda,2015,227
-2177,Rwanda,2014,23
-2178,Rwanda,2013,233
-2179,Rwanda,2012,239
-2180,Rwanda,2011,247
-2181,Rwanda,2010,26
-2182,Rwanda,2009,288
-2183,Rwanda,2008,282
-2184,Rwanda,2007,295
-2185,Rwanda,2006,328
-2186,Rwanda,2005,37
-2187,Rwanda,2004,397
-2188,Rwanda,2003,48
-2189,Rwanda,2002,415
-2190,Rwanda,2001,438
-2191,Rwanda,2000,426
-2432,S. Sudan,2015,332
-2433,S. Sudan,2014,343
-2434,S. Sudan,2013,345
-2435,S. Sudan,2012,347
-2436,S. Sudan,2011,355
-2437,S. Sudan,2010,359
-2438,S. Sudan,2009,369
-2439,S. Sudan,2008,377
-2440,S. Sudan,2007,381
-2441,S. Sudan,2006,383
-2442,S. Sudan,2005,383
-2443,S. Sudan,2004,383
-2444,S. Sudan,2003,383
-2445,S. Sudan,2002,382
-2446,S. Sudan,2001,381
-2447,S. Sudan,2000,38
-2192,Saint Lucia,2015,138
-2193,Saint Lucia,2014,139
-2194,Saint Lucia,2013,141
-2195,Saint Lucia,2012,142
-2196,Saint Lucia,2011,143
-2197,Saint Lucia,2010,147
-2198,Saint Lucia,2009,147
-2199,Saint Lucia,2008,149
-2200,Saint Lucia,2007,151
-2201,Saint Lucia,2006,155
-2202,Saint Lucia,2005,16
-2203,Saint Lucia,2004,166
-2204,Saint Lucia,2003,171
-2205,Saint Lucia,2002,174
-2206,Saint Lucia,2001,178
-2207,Saint Lucia,2000,183
-2208,Saint Vincent and the Grenadines,2015,156
-2209,Saint Vincent and the Grenadines,2014,157
-2210,Saint Vincent and the Grenadines,2013,161
-2211,Saint Vincent and the Grenadines,2012,159
-2212,Saint Vincent and the Grenadines,2011,16
-2213,Saint Vincent and the Grenadines,2010,162
-2214,Saint Vincent and the Grenadines,2009,165
-2215,Saint Vincent and the Grenadines,2008,167
-2216,Saint Vincent and the Grenadines,2007,17
-2217,Saint Vincent and the Grenadines,2006,173
-2218,Saint Vincent and the Grenadines,2005,177
-2219,Saint Vincent and the Grenadines,2004,181
-2220,Saint Vincent and the Grenadines,2003,184
-2221,Saint Vincent and the Grenadines,2002,186
-2222,Saint Vincent and the Grenadines,2001,186
-2223,Saint Vincent and the Grenadines,2000,186
-2224,Samoa,2015,125
-2225,Samoa,2014,128
-2226,Samoa,2013,131
-2227,Samoa,2012,136
-2228,Samoa,2011,139
-2229,Samoa,2010,144
-2230,Samoa,2009,172
-2231,Samoa,2008,146
-2232,Samoa,2007,149
-2233,Samoa,2006,153
-2234,Samoa,2005,16
-2235,Samoa,2004,162
-2236,Samoa,2003,169
-2237,Samoa,2002,174
-2238,Samoa,2001,175
-2239,Samoa,2000,18
-2240,Sao Tome and Principe,2015,19
-2241,Sao Tome and Principe,2014,191
-2242,Sao Tome and Principe,2013,192
-2243,Sao Tome and Principe,2012,194
-2244,Sao Tome and Principe,2011,198
-2245,Sao Tome and Principe,2010,24
-2246,Sao Tome and Principe,2009,21
-2247,Sao Tome and Principe,2008,215
-2248,Sao Tome and Principe,2007,217
-2249,Sao Tome and Principe,2006,22
-2250,Sao Tome and Principe,2005,222
-2251,Sao Tome and Principe,2004,224
-2252,Sao Tome and Principe,2003,225
-2253,Sao Tome and Principe,2002,226
-2254,Sao Tome and Principe,2001,225
-2255,Sao Tome and Principe,2000,224
-2256,Saudi Arabia,2015,88
-2257,Saudi Arabia,2014,88
-2258,Saudi Arabia,2013,89
-2259,Saudi Arabia,2012,9
-2260,Saudi Arabia,2011,92
-2261,Saudi Arabia,2010,94
-2262,Saudi Arabia,2009,97
-2263,Saudi Arabia,2008,98
-2264,Saudi Arabia,2007,99
-2265,Saudi Arabia,2006,1
-2266,Saudi Arabia,2005,11
-2267,Saudi Arabia,2004,12
-2268,Saudi Arabia,2003,13
-2269,Saudi Arabia,2002,15
-2270,Saudi Arabia,2001,17
-2271,Saudi Arabia,2000,11
-2272,Senegal,2015,188
-2273,Senegal,2014,192
-2274,Senegal,2013,196
-2275,Senegal,2012,2
-2276,Senegal,2011,26
-2277,Senegal,2010,212
-2278,Senegal,2009,219
-2279,Senegal,2008,225
-2280,Senegal,2007,23
-2281,Senegal,2006,236
-2282,Senegal,2005,242
-2283,Senegal,2004,247
-2284,Senegal,2003,251
-2285,Senegal,2002,252
-2286,Senegal,2001,251
-2287,Senegal,2000,25
-2112,Serbia,2015,121
-2113,Serbia,2014,123
-2114,Serbia,2013,122
-2115,Serbia,2012,126
-2116,Serbia,2011,127
-2117,Serbia,2010,128
-2118,Serbia,2009,131
-2119,Serbia,2008,132
-2120,Serbia,2007,132
-2121,Serbia,2006,133
-2122,Serbia,2005,135
-2123,Serbia,2004,134
-2124,Serbia,2003,134
-2125,Serbia,2002,133
-2126,Serbia,2001,135
-2127,Serbia,2000,141
-2288,Seychelles,2015,168
-2289,Seychelles,2014,17
-2290,Seychelles,2013,172
-2291,Seychelles,2012,174
-2292,Seychelles,2011,177
-2293,Seychelles,2010,18
-2294,Seychelles,2009,182
-2295,Seychelles,2008,184
-2296,Seychelles,2007,185
-2297,Seychelles,2006,185
-2298,Seychelles,2005,185
-2299,Seychelles,2004,186
-2300,Seychelles,2003,185
-2301,Seychelles,2002,186
-2302,Seychelles,2001,187
-2303,Seychelles,2000,188
-2304,Sierra Leone,2015,413
-2305,Sierra Leone,2014,463
-2306,Sierra Leone,2013,47
-2307,Sierra Leone,2012,411
-2308,Sierra Leone,2011,418
-2309,Sierra Leone,2010,424
-2310,Sierra Leone,2009,433
-2311,Sierra Leone,2008,441
-2312,Sierra Leone,2007,45
-2313,Sierra Leone,2006,464
-2314,Sierra Leone,2005,48
-2315,Sierra Leone,2004,496
-2316,Sierra Leone,2003,57
-2317,Sierra Leone,2002,513
-2318,Sierra Leone,2001,519
-2319,Sierra Leone,2000,533
-2320,Singapore,2015,55
-2321,Singapore,2014,56
-2322,Singapore,2013,57
-2323,Singapore,2012,59
-2324,Singapore,2011,6
-2325,Singapore,2010,61
-2326,Singapore,2009,62
-2327,Singapore,2008,64
-2328,Singapore,2007,65
-2329,Singapore,2006,66
-2330,Singapore,2005,69
-2331,Singapore,2004,71
-2332,Singapore,2003,73
-2333,Singapore,2002,74
-2334,Singapore,2001,76
-2335,Singapore,2000,78
-2336,Slovakia,2015,19
-2337,Slovakia,2014,113
-2338,Slovakia,2013,114
-2339,Slovakia,2012,118
-2340,Slovakia,2011,122
-2341,Slovakia,2010,124
-2342,Slovakia,2009,131
-2343,Slovakia,2008,136
-2344,Slovakia,2007,14
-2345,Slovakia,2006,138
-2346,Slovakia,2005,141
-2347,Slovakia,2004,138
-2348,Slovakia,2003,144
-2349,Slovakia,2002,145
-2350,Slovakia,2001,145
-2351,Slovakia,2000,147
-2352,Slovenia,2015,74
-2353,Slovenia,2014,76
-2354,Slovenia,2013,78
-2355,Slovenia,2012,81
-2356,Slovenia,2011,84
-2357,Slovenia,2010,87
-2358,Slovenia,2009,9
-2359,Slovenia,2008,96
-2360,Slovenia,2007,12
-2361,Slovenia,2006,17
-2362,Slovenia,2005,14
-2363,Slovenia,2004,113
-2364,Slovenia,2003,119
-2365,Slovenia,2002,117
-2366,Slovenia,2001,124
-2367,Slovenia,2000,122
-2880,Yemen,2015,224
-2881,Yemen,2014,228
-2882,Yemen,2013,226
-2883,Yemen,2012,236
-2884,Yemen,2011,234
-2885,Yemen,2010,233
-2886,Yemen,2009,235
-2887,Yemen,2008,238
-2888,Yemen,2007,24
-2889,Yemen,2006,242
-2890,Yemen,2005,245
-2891,Yemen,2004,247
-2892,Yemen,2003,249
-2893,Yemen,2002,25
-2894,Yemen,2001,251
-2895,Yemen,2000,252
-2368,Solomon Is.,2015,177
-2369,Solomon Is.,2014,183
-2370,Solomon Is.,2013,182
-2371,Solomon Is.,2012,184
-2372,Solomon Is.,2011,186
-2373,Solomon Is.,2010,188
-2374,Solomon Is.,2009,192
-2375,Solomon Is.,2008,193
-2376,Solomon Is.,2007,2
-2377,Solomon Is.,2006,2
-2378,Solomon Is.,2005,24
-2379,Solomon Is.,2004,29
-2380,Solomon Is.,2003,215
-2381,Solomon Is.,2002,22
-2382,Solomon Is.,2001,227
-2383,Solomon Is.,2000,235
-2384,Somalia,2015,312
-2385,Somalia,2014,321
-2386,Somalia,2013,318
-2387,Somalia,2012,336
-2388,Somalia,2011,329
-2389,Somalia,2010,336
-2390,Somalia,2009,335
-2391,Somalia,2008,336
-2392,Somalia,2007,34
-2393,Somalia,2006,337
-2394,Somalia,2005,334
-2395,Somalia,2004,341
-2396,Somalia,2003,344
-2397,Somalia,2002,348
-2398,Somalia,2001,352
-2399,Somalia,2000,355
-2400,South Africa,2015,328
-2401,South Africa,2014,347
-2402,South Africa,2013,371
-2403,South Africa,2012,48
-2404,South Africa,2011,413
-2405,South Africa,2010,428
-2406,South Africa,2009,449
-2407,South Africa,2008,473
-2408,South Africa,2007,486
-2409,South Africa,2006,496
-2410,South Africa,2005,498
-2411,South Africa,2004,497
-2412,South Africa,2003,485
-2413,South Africa,2002,459
-2414,South Africa,2001,429
-2415,South Africa,2000,397
-2416,South Korea,2015,64
-2417,South Korea,2014,66
-2418,South Korea,2013,68
-2419,South Korea,2012,69
-2420,South Korea,2011,72
-2421,South Korea,2010,74
-2422,South Korea,2009,75
-2423,South Korea,2008,75
-2424,South Korea,2007,77
-2425,South Korea,2006,79
-2426,South Korea,2005,84
-2427,South Korea,2004,89
-2428,South Korea,2003,95
-2429,South Korea,2002,99
-2430,South Korea,2001,17
-2431,South Korea,2000,116
-2448,Spain,2015,56
-2449,Spain,2014,58
-2450,Spain,2013,6
-2451,Spain,2012,61
-2452,Spain,2011,63
-2453,Spain,2010,64
-2454,Spain,2009,66
-2455,Spain,2008,7
-2456,Spain,2007,72
-2457,Spain,2006,73
-2458,Spain,2005,77
-2459,Spain,2004,79
-2460,Spain,2003,83
-2461,Spain,2002,83
-2462,Spain,2001,84
-2463,Spain,2000,86
-2464,Sri Lanka,2015,138
-2465,Sri Lanka,2014,141
-2466,Sri Lanka,2013,142
-2467,Sri Lanka,2012,143
-2468,Sri Lanka,2011,141
-2469,Sri Lanka,2010,138
-2470,Sri Lanka,2009,183
-2471,Sri Lanka,2008,172
-2472,Sri Lanka,2007,146
-2473,Sri Lanka,2006,145
-2474,Sri Lanka,2005,138
-2475,Sri Lanka,2004,197
-2476,Sri Lanka,2003,146
-2477,Sri Lanka,2002,149
-2478,Sri Lanka,2001,16
-2479,Sri Lanka,2000,175
-2480,Sudan,2015,225
-2481,Sudan,2014,229
-2482,Sudan,2013,232
-2483,Sudan,2012,235
-2484,Sudan,2011,241
-2485,Sudan,2010,243
-2486,Sudan,2009,248
-2487,Sudan,2008,251
-2488,Sudan,2007,254
-2489,Sudan,2006,26
-2490,Sudan,2005,261
-2491,Sudan,2004,278
-2492,Sudan,2003,278
-2493,Sudan,2002,277
-2494,Sudan,2001,283
-2495,Sudan,2000,284
-2496,Suriname,2015,176
-2497,Suriname,2014,178
-2498,Suriname,2013,179
-2499,Suriname,2012,178
-2500,Suriname,2011,187
-2501,Suriname,2010,19
-2502,Suriname,2009,196
-2503,Suriname,2008,196
-2504,Suriname,2007,22
-2505,Suriname,2006,199
-2506,Suriname,2005,25
-2507,Suriname,2004,214
-2508,Suriname,2003,223
-2509,Suriname,2002,221
-2510,Suriname,2001,219
-2511,Suriname,2000,224
-2512,Sweden,2015,53
-2513,Sweden,2014,54
-2514,Sweden,2013,57
-2515,Sweden,2012,57
-2516,Sweden,2011,58
-2517,Sweden,2010,58
-2518,Sweden,2009,62
-2519,Sweden,2008,62
-2520,Sweden,2007,63
-2521,Sweden,2006,64
-2522,Sweden,2005,66
-2523,Sweden,2004,7
-2524,Sweden,2003,69
-2525,Sweden,2002,71
-2526,Sweden,2001,73
-2527,Sweden,2000,73
-2528,Switzerland,2015,49
-2529,Switzerland,2014,51
-2530,Switzerland,2013,52
-2531,Switzerland,2012,54
-2532,Switzerland,2011,55
-2533,Switzerland,2010,57
-2534,Switzerland,2009,6
-2535,Switzerland,2008,6
-2536,Switzerland,2007,63
-2537,Switzerland,2006,65
-2538,Switzerland,2005,66
-2539,Switzerland,2004,69
-2540,Switzerland,2003,72
-2541,Switzerland,2002,74
-2542,Switzerland,2001,75
-2543,Switzerland,2000,78
-2544,Syria,2015,293
-2545,Syria,2014,294
-2546,Syria,2013,37
-2547,Syria,2012,32
-2548,Syria,2011,163
-2549,Syria,2010,127
-2550,Syria,2009,124
-2551,Syria,2008,122
-2552,Syria,2007,121
-2553,Syria,2006,123
-2554,Syria,2005,127
-2555,Syria,2004,131
-2556,Syria,2003,134
-2557,Syria,2002,135
-2558,Syria,2001,135
-2559,Syria,2000,136
-2560,Tajikistan,2015,161
-2561,Tajikistan,2014,162
-2562,Tajikistan,2013,163
-2563,Tajikistan,2012,164
-2564,Tajikistan,2011,166
-2565,Tajikistan,2010,171
-2566,Tajikistan,2009,174
-2567,Tajikistan,2008,178
-2568,Tajikistan,2007,181
-2569,Tajikistan,2006,183
-2570,Tajikistan,2005,194
-2571,Tajikistan,2004,177
-2572,Tajikistan,2003,182
-2573,Tajikistan,2002,193
-2574,Tajikistan,2001,194
-2575,Tajikistan,2000,198
-2768,Tanzania,2015,279
-2769,Tanzania,2014,34
-2770,Tanzania,2013,323
-2771,Tanzania,2012,348
-2772,Tanzania,2011,348
-2773,Tanzania,2010,36
-2774,Tanzania,2009,368
-2775,Tanzania,2008,376
-2776,Tanzania,2007,411
-2777,Tanzania,2006,437
-2778,Tanzania,2005,449
-2779,Tanzania,2004,454
-2780,Tanzania,2003,459
-2781,Tanzania,2002,46
-2782,Tanzania,2001,46
-2783,Tanzania,2000,457
-2576,Thailand,2015,148
-2577,Thailand,2014,152
-2578,Thailand,2013,153
-2579,Thailand,2012,154
-2580,Thailand,2011,155
-2581,Thailand,2010,158
-2582,Thailand,2009,16
-2583,Thailand,2008,162
-2584,Thailand,2007,165
-2585,Thailand,2006,168
-2586,Thailand,2005,177
-2587,Thailand,2004,189
-2588,Thailand,2003,189
-2589,Thailand,2002,192
-2590,Thailand,2001,194
-2591,Thailand,2000,194
-2592,The Bahamas,2015,147
-2593,The Bahamas,2014,16
-2594,The Bahamas,2013,172
-2595,The Bahamas,2012,167
-2596,The Bahamas,2011,162
-2597,The Bahamas,2010,161
-2598,The Bahamas,2009,168
-2599,The Bahamas,2008,167
-2600,The Bahamas,2007,167
-2601,The Bahamas,2006,171
-2602,The Bahamas,2005,172
-2603,The Bahamas,2004,174
-2604,The Bahamas,2003,189
-2605,The Bahamas,2002,19
-2606,The Bahamas,2001,189
-2607,The Bahamas,2000,192
-720,Timor-Leste,2015,152
-721,Timor-Leste,2014,155
-722,Timor-Leste,2013,158
-723,Timor-Leste,2012,159
-724,Timor-Leste,2011,161
-725,Timor-Leste,2010,163
-726,Timor-Leste,2009,165
-727,Timor-Leste,2008,168
-728,Timor-Leste,2007,173
-729,Timor-Leste,2006,186
-730,Timor-Leste,2005,26
-731,Timor-Leste,2004,229
-732,Timor-Leste,2003,25
-733,Timor-Leste,2002,261
-734,Timor-Leste,2001,269
-735,Timor-Leste,2000,276
-2608,Togo,2015,287
-2609,Togo,2014,285
-2610,Togo,2013,287
-2611,Togo,2012,294
-2612,Togo,2011,34
-2613,Togo,2010,323
-2614,Togo,2009,336
-2615,Togo,2008,344
-2616,Togo,2007,344
-2617,Togo,2006,345
-2618,Togo,2005,357
-2619,Togo,2004,355
-2620,Togo,2003,355
-2621,Togo,2002,351
-2622,Togo,2001,345
-2623,Togo,2000,339
-2624,Tonga,2015,133
-2625,Tonga,2014,135
-2626,Tonga,2013,137
-2627,Tonga,2012,138
-2628,Tonga,2011,14
-2629,Tonga,2010,142
-2630,Tonga,2009,147
-2631,Tonga,2008,145
-2632,Tonga,2007,146
-2633,Tonga,2006,148
-2634,Tonga,2005,15
-2635,Tonga,2004,151
-2636,Tonga,2003,153
-2637,Tonga,2002,155
-2638,Tonga,2001,157
-2639,Tonga,2000,158
-2640,Trinidad and Tobago,2015,17
-2641,Trinidad and Tobago,2014,171
-2642,Trinidad and Tobago,2013,172
-2643,Trinidad and Tobago,2012,174
-2644,Trinidad and Tobago,2011,176
-2645,Trinidad and Tobago,2010,179
-2646,Trinidad and Tobago,2009,183
-2647,Trinidad and Tobago,2008,185
-2648,Trinidad and Tobago,2007,187
-2649,Trinidad and Tobago,2006,188
-2650,Trinidad and Tobago,2005,189
-2651,Trinidad and Tobago,2004,19
-2652,Trinidad and Tobago,2003,191
-2653,Trinidad and Tobago,2002,192
-2654,Trinidad and Tobago,2001,194
-2655,Trinidad and Tobago,2000,197
-2656,Tunisia,2015,1
-2657,Tunisia,2014,12
-2658,Tunisia,2013,13
-2659,Tunisia,2012,13
-2660,Tunisia,2011,13
-2661,Tunisia,2010,12
-2662,Tunisia,2009,12
-2663,Tunisia,2008,12
-2664,Tunisia,2007,12
-2665,Tunisia,2006,12
-2666,Tunisia,2005,14
-2667,Tunisia,2004,15
-2668,Tunisia,2003,17
-2669,Tunisia,2002,19
-2670,Tunisia,2001,11
-2671,Tunisia,2000,112
-2672,Turkey,2015,16
-2673,Turkey,2014,17
-2674,Turkey,2013,19
-2675,Turkey,2012,112
-2676,Turkey,2011,114
-2677,Turkey,2010,116
-2678,Turkey,2009,118
-2679,Turkey,2008,121
-2680,Turkey,2007,124
-2681,Turkey,2006,126
-2682,Turkey,2005,129
-2683,Turkey,2004,132
-2684,Turkey,2003,135
-2685,Turkey,2002,138
-2686,Turkey,2001,14
-2687,Turkey,2000,143
-2688,Turkmenistan,2015,215
-2689,Turkmenistan,2014,217
-2690,Turkmenistan,2013,228
-2691,Turkmenistan,2012,22
-2692,Turkmenistan,2011,217
-2693,Turkmenistan,2010,211
-2694,Turkmenistan,2009,215
-2695,Turkmenistan,2008,235
-2696,Turkmenistan,2007,241
-2697,Turkmenistan,2006,245
-2698,Turkmenistan,2005,248
-2699,Turkmenistan,2004,238
-2700,Turkmenistan,2003,231
-2701,Turkmenistan,2002,229
-2702,Turkmenistan,2001,221
-2703,Turkmenistan,2000,224
-2704,Uganda,2015,291
-2705,Uganda,2014,38
-2706,Uganda,2013,325
-2707,Uganda,2012,339
-2708,Uganda,2011,347
-2709,Uganda,2010,362
-2710,Uganda,2009,378
-2711,Uganda,2008,41
-2712,Uganda,2007,41
-2713,Uganda,2006,41
-2714,Uganda,2005,446
-2715,Uganda,2004,485
-2716,Uganda,2003,53
-2717,Uganda,2002,523
-2718,Uganda,2001,539
-2719,Uganda,2000,554
-2720,Ukraine,2015,195
-2721,Ukraine,2014,23
-2722,Ukraine,2013,198
-2723,Ukraine,2012,25
-2724,Ukraine,2011,24
-2725,Ukraine,2010,212
-2726,Ukraine,2009,231
-2727,Ukraine,2008,273
-2728,Ukraine,2007,277
-2729,Ukraine,2006,267
-2730,Ukraine,2005,278
-2731,Ukraine,2004,267
-2732,Ukraine,2003,256
-2733,Ukraine,2002,256
-2734,Ukraine,2001,253
-2735,Ukraine,2000,257
-2736,United Arab Emirates,2015,75
-2737,United Arab Emirates,2014,77
-2738,United Arab Emirates,2013,78
-2739,United Arab Emirates,2012,8
-2740,United Arab Emirates,2011,81
-2741,United Arab Emirates,2010,82
-2742,United Arab Emirates,2009,84
-2743,United Arab Emirates,2008,85
-2744,United Arab Emirates,2007,87
-2745,United Arab Emirates,2006,89
-2746,United Arab Emirates,2005,92
-2747,United Arab Emirates,2004,95
-2748,United Arab Emirates,2003,98
-2749,United Arab Emirates,2002,11
-2750,United Arab Emirates,2001,14
-2751,United Arab Emirates,2000,17
-2752,United Kingdom,2015,69
-2753,United Kingdom,2014,71
-2754,United Kingdom,2013,72
-2755,United Kingdom,2012,72
-2756,United Kingdom,2011,74
-2757,United Kingdom,2010,77
-2758,United Kingdom,2009,78
-2759,United Kingdom,2008,8
-2760,United Kingdom,2007,8
-2761,United Kingdom,2006,82
-2762,United Kingdom,2005,82
-2763,United Kingdom,2004,83
-2764,United Kingdom,2003,86
-2765,United Kingdom,2002,87
-2766,United Kingdom,2001,88
-2767,United Kingdom,2000,89
-2784,United States of America,2015,13
-2785,United States of America,2014,14
-2786,United States of America,2013,16
-2787,United States of America,2012,16
-2788,United States of America,2011,16
-2789,United States of America,2010,15
-2790,United States of America,2009,18
-2791,United States of America,2008,18
-2792,United States of America,2007,11
-2793,United States of America,2006,113
-2794,United States of America,2005,112
-2795,United States of America,2004,111
-2796,United States of America,2003,114
-2797,United States of America,2002,115
-2798,United States of America,2001,115
-2799,United States of America,2000,114
-2800,Uruguay,2015,116
-2801,Uruguay,2014,117
-2802,Uruguay,2013,117
-2803,Uruguay,2012,118
-2804,Uruguay,2011,111
-2805,Uruguay,2010,118
-2806,Uruguay,2009,118
-2807,Uruguay,2008,119
-2808,Uruguay,2007,124
-2809,Uruguay,2006,117
-2810,Uruguay,2005,123
-2811,Uruguay,2004,122
-2812,Uruguay,2003,121
-2813,Uruguay,2002,124
-2814,Uruguay,2001,123
-2815,Uruguay,2000,131
-2816,Uzbekistan,2015,184
-2817,Uzbekistan,2014,184
-2818,Uzbekistan,2013,185
-2819,Uzbekistan,2012,184
-2820,Uzbekistan,2011,183
-2821,Uzbekistan,2010,183
-2822,Uzbekistan,2009,183
-2823,Uzbekistan,2008,184
-2824,Uzbekistan,2007,184
-2825,Uzbekistan,2006,185
-2826,Uzbekistan,2005,192
-2827,Uzbekistan,2004,183
-2828,Uzbekistan,2003,183
-2829,Uzbekistan,2002,186
-2830,Uzbekistan,2001,185
-2831,Uzbekistan,2000,189
-2832,Vanuatu,2015,13
-2833,Vanuatu,2014,134
-2834,Vanuatu,2013,135
-2835,Vanuatu,2012,138
-2836,Vanuatu,2011,141
-2837,Vanuatu,2010,145
-2838,Vanuatu,2009,149
-2839,Vanuatu,2008,153
-2840,Vanuatu,2007,157
-2841,Vanuatu,2006,161
-2842,Vanuatu,2005,165
-2843,Vanuatu,2004,169
-2844,Vanuatu,2003,173
-2845,Vanuatu,2002,176
-2846,Vanuatu,2001,179
-2847,Vanuatu,2000,18
-2848,Venezuela,2015,157
-2849,Venezuela,2014,158
-2850,Venezuela,2013,159
-2851,Venezuela,2012,161
-2852,Venezuela,2011,158
-2853,Venezuela,2010,158
-2854,Venezuela,2009,166
-2855,Venezuela,2008,168
-2856,Venezuela,2007,165
-2857,Venezuela,2006,163
-2858,Venezuela,2005,158
-2859,Venezuela,2004,161
-2860,Venezuela,2003,172
-2861,Venezuela,2002,167
-2862,Venezuela,2001,169
-2863,Venezuela,2000,168
-2864,Vietnam,2015,127
-2865,Vietnam,2014,128
-2866,Vietnam,2013,129
-2867,Vietnam,2012,13
-2868,Vietnam,2011,131
-2869,Vietnam,2010,133
-2870,Vietnam,2009,134
-2871,Vietnam,2008,135
-2872,Vietnam,2007,136
-2873,Vietnam,2006,136
-2874,Vietnam,2005,136
-2875,Vietnam,2004,136
-2876,Vietnam,2003,137
-2877,Vietnam,2002,137
-2878,Vietnam,2001,138
-2879,Vietnam,2000,139
-2896,Zambia,2015,33
-2897,Zambia,2014,314
-2898,Zambia,2013,328
-2899,Zambia,2012,349
-2900,Zambia,2011,366
-2901,Zambia,2010,363
-2902,Zambia,2009,368
-2903,Zambia,2008,45
-2904,Zambia,2007,487
-2905,Zambia,2006,526
-2906,Zambia,2005,554
-2907,Zambia,2004,578
-2908,Zambia,2003,64
-2909,Zambia,2002,69
-2910,Zambia,2001,611
-2911,Zambia,2000,614
-2912,Zimbabwe,2015,336
-2913,Zimbabwe,2014,371
-2914,Zimbabwe,2013,399
-2915,Zimbabwe,2012,429
-2916,Zimbabwe,2011,464
-2917,Zimbabwe,2010,527
-2918,Zimbabwe,2009,587
-2919,Zimbabwe,2008,632
-2920,Zimbabwe,2007,67
-2921,Zimbabwe,2006,7
-2922,Zimbabwe,2005,717
-2923,Zimbabwe,2004,723
-2924,Zimbabwe,2003,715
-2925,Zimbabwe,2002,73
-2926,Zimbabwe,2001,686
-2927,Zimbabwe,2000,665
+,Country,Year,Adult mortality (cases per 1000 population),,,,,,,,,
+0,Afghanistan,2015,263,,,,,,,,,
+1,Afghanistan,2014,271,,,,,,,,,
+2,Afghanistan,2013,268,,,,,,,,,
+3,Afghanistan,2012,272,,,,,,,,,
+4,Afghanistan,2011,275,,,,,,,,,
+5,Afghanistan,2010,279,,,,,,,,,
+6,Afghanistan,2009,281,,,,,,,,,
+7,Afghanistan,2008,287,,,,,,,,,
+8,Afghanistan,2007,295,,,,,,,,,
+9,Afghanistan,2006,295,,,,,,,,,
+10,Afghanistan,2005,291,,,,,,,,,
+11,Afghanistan,2004,293,,,,,,,,,
+12,Afghanistan,2003,295,,,,,,,,,
+13,Afghanistan,2002,3,,,,,,,,,
+14,Afghanistan,2001,316,,,,,,,,,
+15,Afghanistan,2000,321,,,,,,,,,
+16,Albania,2015,74,,,,,,,,,
+17,Albania,2014,8,,,,,,,,,
+18,Albania,2013,84,,,,,,,,,
+19,Albania,2012,86,,,,,,,,,
+20,Albania,2011,88,,,,,,,,,
+21,Albania,2010,91,,,,,,,,,
+22,Albania,2009,91,,,,,,,,,
+23,Albania,2008,1,,,,,,,,,
+24,Albania,2007,9,,,,,,,,,
+25,Albania,2006,99,,,,,,,,,
+26,Albania,2005,15,,,,,,,,,
+27,Albania,2004,17,,,,,,,,,
+28,Albania,2003,18,,,,,,,,,
+29,Albania,2002,15,,,,,,,,,
+30,Albania,2001,14,,,,,,,,,
+31,Albania,2000,11,,,,,,,,,
+32,Algeria,2015,19,,,,,,,,,
+33,Algeria,2014,11,,,,,,,,,
+34,Algeria,2013,112,,,,,,,,,
+35,Algeria,2012,113,,,,,,,,,
+36,Algeria,2011,116,,,,,,,,,
+37,Algeria,2010,119,,,,,,,,,
+38,Algeria,2009,123,,,,,,,,,
+39,Algeria,2008,126,,,,,,,,,
+40,Algeria,2007,129,,,,,,,,,
+41,Algeria,2006,132,,,,,,,,,
+42,Algeria,2005,136,,,,,,,,,
+43,Algeria,2004,14,,,,,,,,,
+44,Algeria,2003,146,,,,,,,,,
+45,Algeria,2002,145,,,,,,,,,
+46,Algeria,2001,145,,,,,,,,,
+47,Algeria,2000,145,,,,,,,,,
+48,Angola,2015,335,,,,,,,,,
+49,Angola,2014,348,,,,,,,,,
+50,Angola,2013,355,,,,,,,,,
+51,Angola,2012,358,,,,,,,,,
+52,Angola,2011,361,,,,,,,,,
+53,Angola,2010,365,,,,,,,,,
+54,Angola,2009,369,,,,,,,,,
+55,Angola,2008,371,,,,,,,,,
+56,Angola,2007,375,,,,,,,,,
+57,Angola,2006,381,,,,,,,,,
+58,Angola,2005,382,,,,,,,,,
+59,Angola,2004,386,,,,,,,,,
+60,Angola,2003,388,,,,,,,,,
+61,Angola,2002,391,,,,,,,,,
+62,Angola,2001,44,,,,,,,,,
+63,Angola,2000,48,,,,,,,,,
+64,Antigua and Barbuda,2015,13,,,,,,,,,
+65,Antigua and Barbuda,2014,131,,,,,,,,,
+66,Antigua and Barbuda,2013,133,,,,,,,,,
+67,Antigua and Barbuda,2012,134,,,,,,,,,
+68,Antigua and Barbuda,2011,136,,,,,,,,,
+69,Antigua and Barbuda,2010,138,,,,,,,,,
+70,Antigua and Barbuda,2009,14,,,,,,,,,
+71,Antigua and Barbuda,2008,142,,,,,,,,,
+72,Antigua and Barbuda,2007,144,,,,,,,,,
+73,Antigua and Barbuda,2006,145,,,,,,,,,
+74,Antigua and Barbuda,2005,147,,,,,,,,,
+75,Antigua and Barbuda,2004,149,,,,,,,,,
+76,Antigua and Barbuda,2003,151,,,,,,,,,
+77,Antigua and Barbuda,2002,153,,,,,,,,,
+78,Antigua and Barbuda,2001,154,,,,,,,,,
+79,Antigua and Barbuda,2000,156,,,,,,,,,
+80,Argentina,2015,116,,,,,,,,,
+81,Argentina,2014,118,,,,,,,,,
+82,Argentina,2013,119,,,,,,,,,
+83,Argentina,2012,12,,,,,,,,,
+84,Argentina,2011,12,,,,,,,,,
+85,Argentina,2010,121,,,,,,,,,
+86,Argentina,2009,126,,,,,,,,,
+87,Argentina,2008,126,,,,,,,,,
+88,Argentina,2007,129,,,,,,,,,
+89,Argentina,2006,127,,,,,,,,,
+90,Argentina,2005,127,,,,,,,,,
+91,Argentina,2004,13,,,,,,,,,
+92,Argentina,2003,137,,,,,,,,,
+93,Argentina,2002,138,,,,,,,,,
+94,Argentina,2001,138,,,,,,,,,
+95,Argentina,2000,137,,,,,,,,,
+96,Armenia,2015,118,,,,,,,,,
+97,Armenia,2014,12,,,,,,,,,
+98,Armenia,2013,123,,,,,,,,,
+99,Armenia,2012,121,,,,,,,,,
+100,Armenia,2011,128,,,,,,,,,
+101,Armenia,2010,132,,,,,,,,,
+102,Armenia,2009,137,,,,,,,,,
+103,Armenia,2008,14,,,,,,,,,
+104,Armenia,2007,132,,,,,,,,,
+105,Armenia,2006,141,,,,,,,,,
+106,Armenia,2005,137,,,,,,,,,
+107,Armenia,2004,132,,,,,,,,,
+108,Armenia,2003,134,,,,,,,,,
+109,Armenia,2002,134,,,,,,,,,
+110,Armenia,2001,141,,,,,,,,,
+111,Armenia,2000,142,,,,,,,,,
+112,Australia,2015,59,,,,,,,,,
+113,Australia,2014,6,,,,,,,,,
+114,Australia,2013,61,,,,,,,,,
+115,Australia,2012,61,,,,,,,,,
+116,Australia,2011,63,,,,,,,,,
+117,Australia,2010,64,,,,,,,,,
+118,Australia,2009,66,,,,,,,,,
+119,Australia,2008,66,,,,,,,,,
+120,Australia,2007,66,,,,,,,,,
+121,Australia,2006,66,,,,,,,,,
+122,Australia,2005,67,,,,,,,,,
+123,Australia,2004,69,,,,,,,,,
+124,Australia,2003,71,,,,,,,,,
+125,Australia,2002,73,,,,,,,,,
+126,Australia,2001,75,,,,,,,,,
+127,Australia,2000,78,,,,,,,,,
+128,Austria,2015,65,,,,,,,,,
+129,Austria,2014,66,,,,,,,,,
+130,Austria,2013,68,,,,,,,,,
+131,Austria,2012,7,,,,,,,,,
+132,Austria,2011,73,,,,,,,,,
+133,Austria,2010,75,,,,,,,,,
+134,Austria,2009,77,,,,,,,,,
+135,Austria,2008,76,,,,,,,,,
+136,Austria,2007,8,,,,,,,,,
+137,Austria,2006,81,,,,,,,,,
+138,Austria,2005,85,,,,,,,,,
+139,Austria,2004,86,,,,,,,,,
+140,Austria,2003,88,,,,,,,,,
+141,Austria,2002,9,,,,,,,,,
+142,Austria,2001,92,,,,,,,,,
+143,Austria,2000,96,,,,,,,,,
+144,Azerbaijan,2015,118,,,,,,,,,
+145,Azerbaijan,2014,119,,,,,,,,,
+146,Azerbaijan,2013,121,,,,,,,,,
+147,Azerbaijan,2012,123,,,,,,,,,
+148,Azerbaijan,2011,125,,,,,,,,,
+149,Azerbaijan,2010,13,,,,,,,,,
+150,Azerbaijan,2009,132,,,,,,,,,
+151,Azerbaijan,2008,141,,,,,,,,,
+152,Azerbaijan,2007,14,,,,,,,,,
+153,Azerbaijan,2006,154,,,,,,,,,
+154,Azerbaijan,2005,162,,,,,,,,,
+155,Azerbaijan,2004,154,,,,,,,,,
+156,Azerbaijan,2003,154,,,,,,,,,
+157,Azerbaijan,2002,146,,,,,,,,,
+158,Azerbaijan,2001,151,,,,,,,,,
+159,Azerbaijan,2000,16,,,,,,,,,
+160,Bahrain,2015,69,,,,,,,,,
+161,Bahrain,2014,7,,,,,,,,,
+162,Bahrain,2013,7,,,,,,,,,
+163,Bahrain,2012,71,,,,,,,,,
+164,Bahrain,2011,76,,,,,,,,,
+165,Bahrain,2010,73,,,,,,,,,
+166,Bahrain,2009,74,,,,,,,,,
+167,Bahrain,2008,76,,,,,,,,,
+168,Bahrain,2007,77,,,,,,,,,
+169,Bahrain,2006,79,,,,,,,,,
+170,Bahrain,2005,81,,,,,,,,,
+171,Bahrain,2004,83,,,,,,,,,
+172,Bahrain,2003,85,,,,,,,,,
+173,Bahrain,2002,87,,,,,,,,,
+174,Bahrain,2001,9,,,,,,,,,
+175,Bahrain,2000,92,,,,,,,,,
+176,Bangladesh,2015,129,,,,,,,,,
+177,Bangladesh,2014,132,,,,,,,,,
+178,Bangladesh,2013,135,,,,,,,,,
+179,Bangladesh,2012,137,,,,,,,,,
+180,Bangladesh,2011,14,,,,,,,,,
+181,Bangladesh,2010,142,,,,,,,,,
+182,Bangladesh,2009,144,,,,,,,,,
+183,Bangladesh,2008,147,,,,,,,,,
+184,Bangladesh,2007,151,,,,,,,,,
+185,Bangladesh,2006,152,,,,,,,,,
+186,Bangladesh,2005,155,,,,,,,,,
+187,Bangladesh,2004,158,,,,,,,,,
+188,Bangladesh,2003,161,,,,,,,,,
+189,Bangladesh,2002,164,,,,,,,,,
+190,Bangladesh,2001,168,,,,,,,,,
+191,Bangladesh,2000,173,,,,,,,,,
+192,Barbados,2015,98,,,,,,,,,
+193,Barbados,2014,1,,,,,,,,,
+194,Barbados,2013,11,,,,,,,,,
+195,Barbados,2012,12,,,,,,,,,
+196,Barbados,2011,14,,,,,,,,,
+197,Barbados,2010,16,,,,,,,,,
+198,Barbados,2009,19,,,,,,,,,
+199,Barbados,2008,111,,,,,,,,,
+200,Barbados,2007,113,,,,,,,,,
+201,Barbados,2006,115,,,,,,,,,
+202,Barbados,2005,117,,,,,,,,,
+203,Barbados,2004,119,,,,,,,,,
+204,Barbados,2003,121,,,,,,,,,
+205,Barbados,2002,123,,,,,,,,,
+206,Barbados,2001,125,,,,,,,,,
+207,Barbados,2000,127,,,,,,,,,
+208,Belarus,2015,196,,,,,,,,,
+209,Belarus,2014,199,,,,,,,,,
+210,Belarus,2013,23,,,,,,,,,
+211,Belarus,2012,194,,,,,,,,,
+212,Belarus,2011,232,,,,,,,,,
+213,Belarus,2010,222,,,,,,,,,
+214,Belarus,2009,226,,,,,,,,,
+215,Belarus,2008,224,,,,,,,,,
+216,Belarus,2007,226,,,,,,,,,
+217,Belarus,2006,243,,,,,,,,,
+218,Belarus,2005,252,,,,,,,,,
+219,Belarus,2004,247,,,,,,,,,
+220,Belarus,2003,253,,,,,,,,,
+221,Belarus,2002,262,,,,,,,,,
+222,Belarus,2001,254,,,,,,,,,
+223,Belarus,2000,247,,,,,,,,,
+224,Belgium,2015,74,,,,,,,,,
+225,Belgium,2014,76,,,,,,,,,
+226,Belgium,2013,77,,,,,,,,,
+227,Belgium,2012,78,,,,,,,,,
+228,Belgium,2011,8,,,,,,,,,
+229,Belgium,2010,81,,,,,,,,,
+230,Belgium,2009,85,,,,,,,,,
+231,Belgium,2008,87,,,,,,,,,
+232,Belgium,2007,86,,,,,,,,,
+233,Belgium,2006,85,,,,,,,,,
+234,Belgium,2005,89,,,,,,,,,
+235,Belgium,2004,91,,,,,,,,,
+236,Belgium,2003,95,,,,,,,,,
+237,Belgium,2002,99,,,,,,,,,
+238,Belgium,2001,1,,,,,,,,,
+239,Belgium,2000,11,,,,,,,,,
+240,Belize,2015,175,,,,,,,,,
+241,Belize,2014,177,,,,,,,,,
+242,Belize,2013,18,,,,,,,,,
+243,Belize,2012,189,,,,,,,,,
+244,Belize,2011,188,,,,,,,,,
+245,Belize,2010,186,,,,,,,,,
+246,Belize,2009,184,,,,,,,,,
+247,Belize,2008,181,,,,,,,,,
+248,Belize,2007,181,,,,,,,,,
+249,Belize,2006,184,,,,,,,,,
+250,Belize,2005,191,,,,,,,,,
+251,Belize,2004,197,,,,,,,,,
+252,Belize,2003,21,,,,,,,,,
+253,Belize,2002,199,,,,,,,,,
+254,Belize,2001,21,,,,,,,,,
+255,Belize,2000,196,,,,,,,,,
+256,Benin,2015,249,,,,,,,,,
+257,Benin,2014,252,,,,,,,,,
+258,Benin,2013,251,,,,,,,,,
+259,Benin,2012,251,,,,,,,,,
+260,Benin,2011,251,,,,,,,,,
+261,Benin,2010,254,,,,,,,,,
+262,Benin,2009,259,,,,,,,,,
+263,Benin,2008,278,,,,,,,,,
+264,Benin,2007,283,,,,,,,,,
+265,Benin,2006,284,,,,,,,,,
+266,Benin,2005,285,,,,,,,,,
+267,Benin,2004,285,,,,,,,,,
+268,Benin,2003,285,,,,,,,,,
+269,Benin,2002,283,,,,,,,,,
+270,Benin,2001,281,,,,,,,,,
+271,Benin,2000,279,,,,,,,,,
+272,Bhutan,2015,211,,,,,,,,,
+273,Bhutan,2014,216,,,,,,,,,
+274,Bhutan,2013,219,,,,,,,,,
+275,Bhutan,2012,223,,,,,,,,,
+276,Bhutan,2011,225,,,,,,,,,
+277,Bhutan,2010,228,,,,,,,,,
+278,Bhutan,2009,232,,,,,,,,,
+279,Bhutan,2008,234,,,,,,,,,
+280,Bhutan,2007,238,,,,,,,,,
+281,Bhutan,2006,245,,,,,,,,,
+282,Bhutan,2005,254,,,,,,,,,
+283,Bhutan,2004,263,,,,,,,,,
+284,Bhutan,2003,273,,,,,,,,,
+285,Bhutan,2002,282,,,,,,,,,
+286,Bhutan,2001,29,,,,,,,,,
+287,Bhutan,2000,312,,,,,,,,,
+288,Bolivia,2015,186,,,,,,,,,
+289,Bolivia,2014,189,,,,,,,,,
+290,Bolivia,2013,192,,,,,,,,,
+291,Bolivia,2012,194,,,,,,,,,
+292,Bolivia,2011,198,,,,,,,,,
+293,Bolivia,2010,22,,,,,,,,,
+294,Bolivia,2009,27,,,,,,,,,
+295,Bolivia,2008,211,,,,,,,,,
+296,Bolivia,2007,216,,,,,,,,,
+297,Bolivia,2006,219,,,,,,,,,
+298,Bolivia,2005,222,,,,,,,,,
+299,Bolivia,2004,226,,,,,,,,,
+300,Bolivia,2003,23,,,,,,,,,
+301,Bolivia,2002,234,,,,,,,,,
+302,Bolivia,2001,238,,,,,,,,,
+303,Bolivia,2000,243,,,,,,,,,
+304,Bosnia and Herz.,2015,88,,,,,,,,,
+305,Bosnia and Herz.,2014,89,,,,,,,,,
+306,Bosnia and Herz.,2013,9,,,,,,,,,
+307,Bosnia and Herz.,2012,92,,,,,,,,,
+308,Bosnia and Herz.,2011,92,,,,,,,,,
+309,Bosnia and Herz.,2010,94,,,,,,,,,
+310,Bosnia and Herz.,2009,97,,,,,,,,,
+311,Bosnia and Herz.,2008,98,,,,,,,,,
+312,Bosnia and Herz.,2007,16,,,,,,,,,
+313,Bosnia and Herz.,2006,1,,,,,,,,,
+314,Bosnia and Herz.,2005,12,,,,,,,,,
+315,Bosnia and Herz.,2004,99,,,,,,,,,
+316,Bosnia and Herz.,2003,12,,,,,,,,,
+317,Bosnia and Herz.,2002,11,,,,,,,,,
+318,Bosnia and Herz.,2001,113,,,,,,,,,
+319,Bosnia and Herz.,2000,116,,,,,,,,,
+320,Botswana,2015,256,,,,,,,,,
+321,Botswana,2014,268,,,,,,,,,
+322,Botswana,2013,286,,,,,,,,,
+323,Botswana,2012,3,,,,,,,,,
+324,Botswana,2011,325,,,,,,,,,
+325,Botswana,2010,349,,,,,,,,,
+326,Botswana,2009,393,,,,,,,,,
+327,Botswana,2008,427,,,,,,,,,
+328,Botswana,2007,436,,,,,,,,,
+329,Botswana,2006,491,,,,,,,,,
+330,Botswana,2005,566,,,,,,,,,
+331,Botswana,2004,652,,,,,,,,,
+332,Botswana,2003,693,,,,,,,,,
+333,Botswana,2002,699,,,,,,,,,
+334,Botswana,2001,679,,,,,,,,,
+335,Botswana,2000,647,,,,,,,,,
+336,Brazil,2015,142,,,,,,,,,
+337,Brazil,2014,144,,,,,,,,,
+338,Brazil,2013,146,,,,,,,,,
+339,Brazil,2012,148,,,,,,,,,
+340,Brazil,2011,152,,,,,,,,,
+341,Brazil,2010,154,,,,,,,,,
+342,Brazil,2009,157,,,,,,,,,
+343,Brazil,2008,158,,,,,,,,,
+344,Brazil,2007,159,,,,,,,,,
+345,Brazil,2006,161,,,,,,,,,
+346,Brazil,2005,163,,,,,,,,,
+347,Brazil,2004,17,,,,,,,,,
+348,Brazil,2003,172,,,,,,,,,
+349,Brazil,2002,176,,,,,,,,,
+350,Brazil,2001,179,,,,,,,,,
+351,Brazil,2000,183,,,,,,,,,
+352,Brunei,2015,78,,,,,,,,,
+353,Brunei,2014,8,,,,,,,,,
+354,Brunei,2013,84,,,,,,,,,
+355,Brunei,2012,79,,,,,,,,,
+356,Brunei,2011,79,,,,,,,,,
+357,Brunei,2010,79,,,,,,,,,
+358,Brunei,2009,88,,,,,,,,,
+359,Brunei,2008,84,,,,,,,,,
+360,Brunei,2007,1,,,,,,,,,
+361,Brunei,2006,93,,,,,,,,,
+362,Brunei,2005,92,,,,,,,,,
+363,Brunei,2004,89,,,,,,,,,
+364,Brunei,2003,89,,,,,,,,,
+365,Brunei,2002,95,,,,,,,,,
+366,Brunei,2001,19,,,,,,,,,
+367,Brunei,2000,16,,,,,,,,,
+368,Bulgaria,2015,137,,,,,,,,,
+369,Bulgaria,2014,138,,,,,,,,,
+370,Bulgaria,2013,14,,,,,,,,,
+371,Bulgaria,2012,139,,,,,,,,,
+372,Bulgaria,2011,144,,,,,,,,,
+373,Bulgaria,2010,147,,,,,,,,,
+374,Bulgaria,2009,152,,,,,,,,,
+375,Bulgaria,2008,155,,,,,,,,,
+376,Bulgaria,2007,157,,,,,,,,,
+377,Bulgaria,2006,161,,,,,,,,,
+378,Bulgaria,2005,16,,,,,,,,,
+379,Bulgaria,2004,157,,,,,,,,,
+380,Bulgaria,2003,155,,,,,,,,,
+381,Bulgaria,2002,157,,,,,,,,,
+382,Bulgaria,2001,16,,,,,,,,,
+383,Bulgaria,2000,163,,,,,,,,,
+384,Burkina Faso,2015,26,,,,,,,,,
+385,Burkina Faso,2014,268,,,,,,,,,
+386,Burkina Faso,2013,27,,,,,,,,,
+387,Burkina Faso,2012,271,,,,,,,,,
+388,Burkina Faso,2011,275,,,,,,,,,
+389,Burkina Faso,2010,279,,,,,,,,,
+390,Burkina Faso,2009,283,,,,,,,,,
+391,Burkina Faso,2008,288,,,,,,,,,
+392,Burkina Faso,2007,293,,,,,,,,,
+393,Burkina Faso,2006,32,,,,,,,,,
+394,Burkina Faso,2005,313,,,,,,,,,
+395,Burkina Faso,2004,323,,,,,,,,,
+396,Burkina Faso,2003,332,,,,,,,,,
+397,Burkina Faso,2002,338,,,,,,,,,
+398,Burkina Faso,2001,344,,,,,,,,,
+399,Burkina Faso,2000,348,,,,,,,,,
+400,Burundi,2015,288,,,,,,,,,
+401,Burundi,2014,297,,,,,,,,,
+402,Burundi,2013,33,,,,,,,,,
+403,Burundi,2012,312,,,,,,,,,
+404,Burundi,2011,321,,,,,,,,,
+405,Burundi,2010,33,,,,,,,,,
+406,Burundi,2009,338,,,,,,,,,
+407,Burundi,2008,35,,,,,,,,,
+408,Burundi,2007,355,,,,,,,,,
+409,Burundi,2006,361,,,,,,,,,
+410,Burundi,2005,369,,,,,,,,,
+411,Burundi,2004,378,,,,,,,,,
+412,Burundi,2003,387,,,,,,,,,
+413,Burundi,2002,387,,,,,,,,,
+414,Burundi,2001,385,,,,,,,,,
+415,Burundi,2000,386,,,,,,,,,
+1280,C?te d'Ivoire,2015,397,,,,,,,,,
+1281,C?te d'Ivoire,2014,47,,,,,,,,,
+1282,C?te d'Ivoire,2013,412,,,,,,,,,
+1283,C?te d'Ivoire,2012,415,,,,,,,,,
+1284,C?te d'Ivoire,2011,419,,,,,,,,,
+1285,C?te d'Ivoire,2010,417,,,,,,,,,
+1286,C?te d'Ivoire,2009,426,,,,,,,,,
+1287,C?te d'Ivoire,2008,437,,,,,,,,,
+1288,C?te d'Ivoire,2007,443,,,,,,,,,
+1289,C?te d'Ivoire,2006,452,,,,,,,,,
+1290,C?te d'Ivoire,2005,466,,,,,,,,,
+1291,C?te d'Ivoire,2004,472,,,,,,,,,
+1292,C?te d'Ivoire,2003,473,,,,,,,,,
+1293,C?te d'Ivoire,2002,473,,,,,,,,,
+1294,C?te d'Ivoire,2001,467,,,,,,,,,
+1295,C?te d'Ivoire,2000,461,,,,,,,,,
+416,Cambodia,2015,174,,,,,,,,,
+417,Cambodia,2014,179,,,,,,,,,
+418,Cambodia,2013,183,,,,,,,,,
+419,Cambodia,2012,186,,,,,,,,,
+420,Cambodia,2011,19,,,,,,,,,
+421,Cambodia,2010,192,,,,,,,,,
+422,Cambodia,2009,195,,,,,,,,,
+423,Cambodia,2008,199,,,,,,,,,
+424,Cambodia,2007,24,,,,,,,,,
+425,Cambodia,2006,216,,,,,,,,,
+426,Cambodia,2005,234,,,,,,,,,
+427,Cambodia,2004,253,,,,,,,,,
+428,Cambodia,2003,268,,,,,,,,,
+429,Cambodia,2002,273,,,,,,,,,
+430,Cambodia,2001,273,,,,,,,,,
+431,Cambodia,2000,274,,,,,,,,,
+432,Cameroon,2015,357,,,,,,,,,
+433,Cameroon,2014,366,,,,,,,,,
+434,Cameroon,2013,364,,,,,,,,,
+435,Cameroon,2012,369,,,,,,,,,
+436,Cameroon,2011,371,,,,,,,,,
+437,Cameroon,2010,37,,,,,,,,,
+438,Cameroon,2009,373,,,,,,,,,
+439,Cameroon,2008,382,,,,,,,,,
+440,Cameroon,2007,395,,,,,,,,,
+441,Cameroon,2006,394,,,,,,,,,
+442,Cameroon,2005,4,,,,,,,,,
+443,Cameroon,2004,412,,,,,,,,,
+444,Cameroon,2003,412,,,,,,,,,
+445,Cameroon,2002,47,,,,,,,,,
+446,Cameroon,2001,41,,,,,,,,,
+447,Cameroon,2000,394,,,,,,,,,
+448,Canada,2015,64,,,,,,,,,
+449,Canada,2014,65,,,,,,,,,
+450,Canada,2013,67,,,,,,,,,
+451,Canada,2012,68,,,,,,,,,
+452,Canada,2011,68,,,,,,,,,
+453,Canada,2010,7,,,,,,,,,
+454,Canada,2009,72,,,,,,,,,
+455,Canada,2008,74,,,,,,,,,
+456,Canada,2007,74,,,,,,,,,
+457,Canada,2006,75,,,,,,,,,
+458,Canada,2005,76,,,,,,,,,
+459,Canada,2004,77,,,,,,,,,
+460,Canada,2003,78,,,,,,,,,
+461,Canada,2002,79,,,,,,,,,
+462,Canada,2001,8,,,,,,,,,
+463,Canada,2000,82,,,,,,,,,
+464,Cape Verde,2015,114,,,,,,,,,
+465,Cape Verde,2014,117,,,,,,,,,
+466,Cape Verde,2013,12,,,,,,,,,
+467,Cape Verde,2012,121,,,,,,,,,
+468,Cape Verde,2011,122,,,,,,,,,
+469,Cape Verde,2010,123,,,,,,,,,
+470,Cape Verde,2009,124,,,,,,,,,
+471,Cape Verde,2008,124,,,,,,,,,
+472,Cape Verde,2007,126,,,,,,,,,
+473,Cape Verde,2006,129,,,,,,,,,
+474,Cape Verde,2005,134,,,,,,,,,
+475,Cape Verde,2004,14,,,,,,,,,
+476,Cape Verde,2003,144,,,,,,,,,
+477,Cape Verde,2002,148,,,,,,,,,
+478,Cape Verde,2001,152,,,,,,,,,
+479,Cape Verde,2000,155,,,,,,,,,
+480,Central African Rep.,2015,397,,,,,,,,,
+481,Central African Rep.,2014,437,,,,,,,,,
+482,Central African Rep.,2013,451,,,,,,,,,
+483,Central African Rep.,2012,439,,,,,,,,,
+484,Central African Rep.,2011,443,,,,,,,,,
+485,Central African Rep.,2010,446,,,,,,,,,
+486,Central African Rep.,2009,453,,,,,,,,,
+487,Central African Rep.,2008,477,,,,,,,,,
+488,Central African Rep.,2007,495,,,,,,,,,
+489,Central African Rep.,2006,56,,,,,,,,,
+490,Central African Rep.,2005,511,,,,,,,,,
+491,Central African Rep.,2004,512,,,,,,,,,
+492,Central African Rep.,2003,51,,,,,,,,,
+493,Central African Rep.,2002,58,,,,,,,,,
+494,Central African Rep.,2001,54,,,,,,,,,
+495,Central African Rep.,2000,49,,,,,,,,,
+496,Chad,2015,356,,,,,,,,,
+497,Chad,2014,362,,,,,,,,,
+498,Chad,2013,366,,,,,,,,,
+499,Chad,2012,367,,,,,,,,,
+500,Chad,2011,365,,,,,,,,,
+501,Chad,2010,364,,,,,,,,,
+502,Chad,2009,37,,,,,,,,,
+503,Chad,2008,394,,,,,,,,,
+504,Chad,2007,394,,,,,,,,,
+505,Chad,2006,414,,,,,,,,,
+506,Chad,2005,46,,,,,,,,,
+507,Chad,2004,45,,,,,,,,,
+508,Chad,2003,43,,,,,,,,,
+509,Chad,2002,43,,,,,,,,,
+510,Chad,2001,4,,,,,,,,,
+511,Chad,2000,44,,,,,,,,,
+512,Chile,2015,82,,,,,,,,,
+513,Chile,2014,83,,,,,,,,,
+514,Chile,2013,84,,,,,,,,,
+515,Chile,2012,84,,,,,,,,,
+516,Chile,2011,86,,,,,,,,,
+517,Chile,2010,89,,,,,,,,,
+518,Chile,2009,91,,,,,,,,,
+519,Chile,2008,88,,,,,,,,,
+520,Chile,2007,9,,,,,,,,,
+521,Chile,2006,91,,,,,,,,,
+522,Chile,2005,93,,,,,,,,,
+523,Chile,2004,97,,,,,,,,,
+524,Chile,2003,1,,,,,,,,,
+525,Chile,2002,11,,,,,,,,,
+526,Chile,2001,16,,,,,,,,,
+527,Chile,2000,13,,,,,,,,,
+528,China,2015,85,,,,,,,,,
+529,China,2014,86,,,,,,,,,
+530,China,2013,88,,,,,,,,,
+531,China,2012,89,,,,,,,,,
+532,China,2011,91,,,,,,,,,
+533,China,2010,92,,,,,,,,,
+534,China,2009,93,,,,,,,,,
+535,China,2008,97,,,,,,,,,
+536,China,2007,96,,,,,,,,,
+537,China,2006,98,,,,,,,,,
+538,China,2005,99,,,,,,,,,
+539,China,2004,11,,,,,,,,,
+540,China,2003,13,,,,,,,,,
+541,China,2002,16,,,,,,,,,
+542,China,2001,11,,,,,,,,,
+543,China,2000,115,,,,,,,,,
+544,Colombia,2015,143,,,,,,,,,
+545,Colombia,2014,144,,,,,,,,,
+546,Colombia,2013,145,,,,,,,,,
+547,Colombia,2012,143,,,,,,,,,
+548,Colombia,2011,144,,,,,,,,,
+549,Colombia,2010,15,,,,,,,,,
+550,Colombia,2009,15,,,,,,,,,
+551,Colombia,2008,146,,,,,,,,,
+552,Colombia,2007,144,,,,,,,,,
+553,Colombia,2006,147,,,,,,,,,
+554,Colombia,2005,144,,,,,,,,,
+555,Colombia,2004,148,,,,,,,,,
+556,Colombia,2003,15,,,,,,,,,
+557,Colombia,2002,163,,,,,,,,,
+558,Colombia,2001,165,,,,,,,,,
+559,Colombia,2000,167,,,,,,,,,
+560,Comoros,2015,227,,,,,,,,,
+561,Comoros,2014,23,,,,,,,,,
+562,Comoros,2013,233,,,,,,,,,
+563,Comoros,2012,237,,,,,,,,,
+564,Comoros,2011,241,,,,,,,,,
+565,Comoros,2010,246,,,,,,,,,
+566,Comoros,2009,251,,,,,,,,,
+567,Comoros,2008,255,,,,,,,,,
+568,Comoros,2007,259,,,,,,,,,
+569,Comoros,2006,262,,,,,,,,,
+570,Comoros,2005,266,,,,,,,,,
+571,Comoros,2004,269,,,,,,,,,
+572,Comoros,2003,271,,,,,,,,,
+573,Comoros,2002,271,,,,,,,,,
+574,Comoros,2001,272,,,,,,,,,
+575,Comoros,2000,272,,,,,,,,,
+2128,Congo,2015,267,,,,,,,,,
+2129,Congo,2014,275,,,,,,,,,
+2130,Congo,2013,274,,,,,,,,,
+2131,Congo,2012,273,,,,,,,,,
+2132,Congo,2011,285,,,,,,,,,
+2133,Congo,2010,298,,,,,,,,,
+2134,Congo,2009,314,,,,,,,,,
+2135,Congo,2008,338,,,,,,,,,
+2136,Congo,2007,354,,,,,,,,,
+2137,Congo,2006,368,,,,,,,,,
+2138,Congo,2005,394,,,,,,,,,
+2139,Congo,2004,48,,,,,,,,,
+2140,Congo,2003,417,,,,,,,,,
+2141,Congo,2002,424,,,,,,,,,
+2142,Congo,2001,419,,,,,,,,,
+2143,Congo,2000,416,,,,,,,,,
+576,Costa Rica,2015,95,,,,,,,,,
+577,Costa Rica,2014,96,,,,,,,,,
+578,Costa Rica,2013,96,,,,,,,,,
+579,Costa Rica,2012,97,,,,,,,,,
+580,Costa Rica,2011,98,,,,,,,,,
+581,Costa Rica,2010,16,,,,,,,,,
+582,Costa Rica,2009,96,,,,,,,,,
+583,Costa Rica,2008,99,,,,,,,,,
+584,Costa Rica,2007,93,,,,,,,,,
+585,Costa Rica,2006,16,,,,,,,,,
+586,Costa Rica,2005,97,,,,,,,,,
+587,Costa Rica,2004,12,,,,,,,,,
+588,Costa Rica,2003,1,,,,,,,,,
+589,Costa Rica,2002,99,,,,,,,,,
+590,Costa Rica,2001,1,,,,,,,,,
+591,Costa Rica,2000,98,,,,,,,,,
+592,Croatia,2015,95,,,,,,,,,
+593,Croatia,2014,97,,,,,,,,,
+594,Croatia,2013,97,,,,,,,,,
+595,Croatia,2012,14,,,,,,,,,
+596,Croatia,2011,14,,,,,,,,,
+597,Croatia,2010,16,,,,,,,,,
+598,Croatia,2009,19,,,,,,,,,
+599,Croatia,2008,116,,,,,,,,,
+600,Croatia,2007,114,,,,,,,,,
+601,Croatia,2006,113,,,,,,,,,
+602,Croatia,2005,116,,,,,,,,,
+603,Croatia,2004,114,,,,,,,,,
+604,Croatia,2003,122,,,,,,,,,
+605,Croatia,2002,124,,,,,,,,,
+606,Croatia,2001,126,,,,,,,,,
+607,Croatia,2000,127,,,,,,,,,
+608,Cuba,2015,92,,,,,,,,,
+609,Cuba,2014,93,,,,,,,,,
+610,Cuba,2013,96,,,,,,,,,
+611,Cuba,2012,96,,,,,,,,,
+612,Cuba,2011,92,,,,,,,,,
+613,Cuba,2010,98,,,,,,,,,
+614,Cuba,2009,11,,,,,,,,,
+615,Cuba,2008,12,,,,,,,,,
+616,Cuba,2007,14,,,,,,,,,
+617,Cuba,2006,14,,,,,,,,,
+618,Cuba,2005,19,,,,,,,,,
+619,Cuba,2004,17,,,,,,,,,
+620,Cuba,2003,18,,,,,,,,,
+621,Cuba,2002,19,,,,,,,,,
+622,Cuba,2001,115,,,,,,,,,
+623,Cuba,2000,115,,,,,,,,,
+624,Cyprus,2015,52,,,,,,,,,
+625,Cyprus,2014,53,,,,,,,,,
+626,Cyprus,2013,54,,,,,,,,,
+627,Cyprus,2012,56,,,,,,,,,
+628,Cyprus,2011,57,,,,,,,,,
+629,Cyprus,2010,59,,,,,,,,,
+630,Cyprus,2009,6,,,,,,,,,
+631,Cyprus,2008,62,,,,,,,,,
+632,Cyprus,2007,63,,,,,,,,,
+633,Cyprus,2006,64,,,,,,,,,
+634,Cyprus,2005,65,,,,,,,,,
+635,Cyprus,2004,65,,,,,,,,,
+636,Cyprus,2003,66,,,,,,,,,
+637,Cyprus,2002,68,,,,,,,,,
+638,Cyprus,2001,69,,,,,,,,,
+639,Cyprus,2000,7,,,,,,,,,
+640,Czechia,2015,86,,,,,,,,,
+641,Czechia,2014,88,,,,,,,,,
+642,Czechia,2013,9,,,,,,,,,
+643,Czechia,2012,93,,,,,,,,,
+644,Czechia,2011,97,,,,,,,,,
+645,Czechia,2010,99,,,,,,,,,
+646,Czechia,2009,12,,,,,,,,,
+647,Czechia,2008,16,,,,,,,,,
+648,Czechia,2007,17,,,,,,,,,
+649,Czechia,2006,19,,,,,,,,,
+650,Czechia,2005,114,,,,,,,,,
+651,Czechia,2004,116,,,,,,,,,
+652,Czechia,2003,122,,,,,,,,,
+653,Czechia,2002,12,,,,,,,,,
+654,Czechia,2001,123,,,,,,,,,
+655,Czechia,2000,126,,,,,,,,,
+656,Dem. Rep. Congo,2015,258,,,,,,,,,
+657,Dem. Rep. Congo,2014,266,,,,,,,,,
+658,Dem. Rep. Congo,2013,272,,,,,,,,,
+659,Dem. Rep. Congo,2012,277,,,,,,,,,
+660,Dem. Rep. Congo,2011,278,,,,,,,,,
+661,Dem. Rep. Congo,2010,283,,,,,,,,,
+662,Dem. Rep. Congo,2009,292,,,,,,,,,
+663,Dem. Rep. Congo,2008,295,,,,,,,,,
+664,Dem. Rep. Congo,2007,299,,,,,,,,,
+665,Dem. Rep. Congo,2006,36,,,,,,,,,
+666,Dem. Rep. Congo,2005,314,,,,,,,,,
+667,Dem. Rep. Congo,2004,323,,,,,,,,,
+668,Dem. Rep. Congo,2003,332,,,,,,,,,
+669,Dem. Rep. Congo,2002,341,,,,,,,,,
+670,Dem. Rep. Congo,2001,34,,,,,,,,,
+671,Dem. Rep. Congo,2000,346,,,,,,,,,
+688,Djibouti,2015,241,,,,,,,,,
+689,Djibouti,2014,252,,,,,,,,,
+690,Djibouti,2013,256,,,,,,,,,
+691,Djibouti,2012,263,,,,,,,,,
+692,Djibouti,2011,268,,,,,,,,,
+693,Djibouti,2010,273,,,,,,,,,
+694,Djibouti,2009,279,,,,,,,,,
+695,Djibouti,2008,289,,,,,,,,,
+696,Djibouti,2007,296,,,,,,,,,
+697,Djibouti,2006,39,,,,,,,,,
+698,Djibouti,2005,318,,,,,,,,,
+699,Djibouti,2004,326,,,,,,,,,
+700,Djibouti,2003,325,,,,,,,,,
+701,Djibouti,2002,322,,,,,,,,,
+702,Djibouti,2001,323,,,,,,,,,
+703,Djibouti,2000,325,,,,,,,,,
+704,Dominican Rep.,2015,152,,,,,,,,,
+705,Dominican Rep.,2014,154,,,,,,,,,
+706,Dominican Rep.,2013,157,,,,,,,,,
+707,Dominican Rep.,2012,174,,,,,,,,,
+708,Dominican Rep.,2011,16,,,,,,,,,
+709,Dominican Rep.,2010,166,,,,,,,,,
+710,Dominican Rep.,2009,157,,,,,,,,,
+711,Dominican Rep.,2008,161,,,,,,,,,
+712,Dominican Rep.,2007,164,,,,,,,,,
+713,Dominican Rep.,2006,178,,,,,,,,,
+714,Dominican Rep.,2005,28,,,,,,,,,
+715,Dominican Rep.,2004,214,,,,,,,,,
+716,Dominican Rep.,2003,22,,,,,,,,,
+717,Dominican Rep.,2002,189,,,,,,,,,
+718,Dominican Rep.,2001,188,,,,,,,,,
+719,Dominican Rep.,2000,176,,,,,,,,,
+736,Ecuador,2015,118,,,,,,,,,
+737,Ecuador,2014,121,,,,,,,,,
+738,Ecuador,2013,121,,,,,,,,,
+739,Ecuador,2012,127,,,,,,,,,
+740,Ecuador,2011,131,,,,,,,,,
+741,Ecuador,2010,134,,,,,,,,,
+742,Ecuador,2009,137,,,,,,,,,
+743,Ecuador,2008,139,,,,,,,,,
+744,Ecuador,2007,14,,,,,,,,,
+745,Ecuador,2006,144,,,,,,,,,
+746,Ecuador,2005,151,,,,,,,,,
+747,Ecuador,2004,148,,,,,,,,,
+748,Ecuador,2003,151,,,,,,,,,
+749,Ecuador,2002,157,,,,,,,,,
+750,Ecuador,2001,158,,,,,,,,,
+751,Ecuador,2000,163,,,,,,,,,
+752,Egypt,2015,159,,,,,,,,,
+753,Egypt,2014,161,,,,,,,,,
+754,Egypt,2013,159,,,,,,,,,
+755,Egypt,2012,165,,,,,,,,,
+756,Egypt,2011,168,,,,,,,,,
+757,Egypt,2010,173,,,,,,,,,
+758,Egypt,2009,174,,,,,,,,,
+759,Egypt,2008,172,,,,,,,,,
+760,Egypt,2007,171,,,,,,,,,
+761,Egypt,2006,175,,,,,,,,,
+762,Egypt,2005,174,,,,,,,,,
+763,Egypt,2004,176,,,,,,,,,
+764,Egypt,2003,178,,,,,,,,,
+765,Egypt,2002,177,,,,,,,,,
+766,Egypt,2001,177,,,,,,,,,
+767,Egypt,2000,171,,,,,,,,,
+768,El Salvador,2015,178,,,,,,,,,
+769,El Salvador,2014,181,,,,,,,,,
+770,El Salvador,2013,184,,,,,,,,,
+771,El Salvador,2012,181,,,,,,,,,
+772,El Salvador,2011,197,,,,,,,,,
+773,El Salvador,2010,191,,,,,,,,,
+774,El Salvador,2009,23,,,,,,,,,
+775,El Salvador,2008,194,,,,,,,,,
+776,El Salvador,2007,23,,,,,,,,,
+777,El Salvador,2006,211,,,,,,,,,
+778,El Salvador,2005,213,,,,,,,,,
+779,El Salvador,2004,215,,,,,,,,,
+780,El Salvador,2003,29,,,,,,,,,
+781,El Salvador,2002,24,,,,,,,,,
+782,El Salvador,2001,219,,,,,,,,,
+783,El Salvador,2000,218,,,,,,,,,
+784,Equatorial Guinea,2015,32,,,,,,,,,
+785,Equatorial Guinea,2014,32,,,,,,,,,
+786,Equatorial Guinea,2013,327,,,,,,,,,
+787,Equatorial Guinea,2012,337,,,,,,,,,
+788,Equatorial Guinea,2011,344,,,,,,,,,
+789,Equatorial Guinea,2010,339,,,,,,,,,
+790,Equatorial Guinea,2009,34,,,,,,,,,
+791,Equatorial Guinea,2008,338,,,,,,,,,
+792,Equatorial Guinea,2007,339,,,,,,,,,
+793,Equatorial Guinea,2006,337,,,,,,,,,
+794,Equatorial Guinea,2005,337,,,,,,,,,
+795,Equatorial Guinea,2004,336,,,,,,,,,
+796,Equatorial Guinea,2003,334,,,,,,,,,
+797,Equatorial Guinea,2002,334,,,,,,,,,
+798,Equatorial Guinea,2001,334,,,,,,,,,
+799,Equatorial Guinea,2000,336,,,,,,,,,
+800,Eritrea,2015,255,,,,,,,,,
+801,Eritrea,2014,261,,,,,,,,,
+802,Eritrea,2013,266,,,,,,,,,
+803,Eritrea,2012,274,,,,,,,,,
+804,Eritrea,2011,286,,,,,,,,,
+805,Eritrea,2010,298,,,,,,,,,
+806,Eritrea,2009,311,,,,,,,,,
+807,Eritrea,2008,322,,,,,,,,,
+808,Eritrea,2007,329,,,,,,,,,
+809,Eritrea,2006,336,,,,,,,,,
+810,Eritrea,2005,34,,,,,,,,,
+811,Eritrea,2004,342,,,,,,,,,
+812,Eritrea,2003,343,,,,,,,,,
+813,Eritrea,2002,343,,,,,,,,,
+814,Eritrea,2001,345,,,,,,,,,
+815,Eritrea,2000,593,,,,,,,,,
+816,Estonia,2015,119,,,,,,,,,
+817,Estonia,2014,122,,,,,,,,,
+818,Estonia,2013,127,,,,,,,,,
+819,Estonia,2012,135,,,,,,,,,
+820,Estonia,2011,138,,,,,,,,,
+821,Estonia,2010,137,,,,,,,,,
+822,Estonia,2009,156,,,,,,,,,
+823,Estonia,2008,167,,,,,,,,,
+824,Estonia,2007,189,,,,,,,,,
+825,Estonia,2006,188,,,,,,,,,
+826,Estonia,2005,189,,,,,,,,,
+827,Estonia,2004,195,,,,,,,,,
+828,Estonia,2003,199,,,,,,,,,
+829,Estonia,2002,211,,,,,,,,,
+830,Estonia,2001,225,,,,,,,,,
+831,Estonia,2000,218,,,,,,,,,
+832,eSwatini,2015,373,,,,,,,,,
+833,eSwatini,2014,382,,,,,,,,,
+834,eSwatini,2013,393,,,,,,,,,
+835,eSwatini,2012,412,,,,,,,,,
+836,eSwatini,2011,438,,,,,,,,,
+837,eSwatini,2010,459,,,,,,,,,
+838,eSwatini,2009,46,,,,,,,,,
+839,eSwatini,2008,477,,,,,,,,,
+840,eSwatini,2007,51,,,,,,,,,
+841,eSwatini,2006,564,,,,,,,,,
+842,eSwatini,2005,63,,,,,,,,,
+843,eSwatini,2004,69,,,,,,,,,
+844,eSwatini,2003,6,,,,,,,,,
+845,eSwatini,2002,587,,,,,,,,,
+846,eSwatini,2001,568,,,,,,,,,
+847,eSwatini,2000,536,,,,,,,,,
+848,Ethiopia,2015,225,,,,,,,,,
+849,Ethiopia,2014,234,,,,,,,,,
+850,Ethiopia,2013,237,,,,,,,,,
+851,Ethiopia,2012,241,,,,,,,,,
+852,Ethiopia,2011,249,,,,,,,,,
+853,Ethiopia,2010,261,,,,,,,,,
+854,Ethiopia,2009,274,,,,,,,,,
+855,Ethiopia,2008,289,,,,,,,,,
+856,Ethiopia,2007,39,,,,,,,,,
+857,Ethiopia,2006,328,,,,,,,,,
+858,Ethiopia,2005,343,,,,,,,,,
+859,Ethiopia,2004,354,,,,,,,,,
+860,Ethiopia,2003,363,,,,,,,,,
+861,Ethiopia,2002,369,,,,,,,,,
+862,Ethiopia,2001,372,,,,,,,,,
+863,Ethiopia,2000,391,,,,,,,,,
+864,Federated States of Micronesia,2015,166,,,,,,,,,
+865,Federated States of Micronesia,2014,164,,,,,,,,,
+866,Federated States of Micronesia,2013,166,,,,,,,,,
+867,Federated States of Micronesia,2012,168,,,,,,,,,
+868,Federated States of Micronesia,2011,169,,,,,,,,,
+869,Federated States of Micronesia,2010,171,,,,,,,,,
+870,Federated States of Micronesia,2009,172,,,,,,,,,
+871,Federated States of Micronesia,2008,174,,,,,,,,,
+872,Federated States of Micronesia,2007,175,,,,,,,,,
+873,Federated States of Micronesia,2006,176,,,,,,,,,
+874,Federated States of Micronesia,2005,178,,,,,,,,,
+875,Federated States of Micronesia,2004,179,,,,,,,,,
+876,Federated States of Micronesia,2003,18,,,,,,,,,
+877,Federated States of Micronesia,2002,21,,,,,,,,,
+878,Federated States of Micronesia,2001,183,,,,,,,,,
+879,Federated States of Micronesia,2000,185,,,,,,,,,
+880,Fiji,2015,188,,,,,,,,,
+881,Fiji,2014,19,,,,,,,,,
+882,Fiji,2013,192,,,,,,,,,
+883,Fiji,2012,195,,,,,,,,,
+884,Fiji,2011,197,,,,,,,,,
+885,Fiji,2010,2,,,,,,,,,
+886,Fiji,2009,23,,,,,,,,,
+887,Fiji,2008,26,,,,,,,,,
+888,Fiji,2007,29,,,,,,,,,
+889,Fiji,2006,211,,,,,,,,,
+890,Fiji,2005,214,,,,,,,,,
+891,Fiji,2004,218,,,,,,,,,
+892,Fiji,2003,22,,,,,,,,,
+893,Fiji,2002,22,,,,,,,,,
+894,Fiji,2001,221,,,,,,,,,
+895,Fiji,2000,221,,,,,,,,,
+896,Finland,2015,76,,,,,,,,,
+897,Finland,2014,78,,,,,,,,,
+898,Finland,2013,79,,,,,,,,,
+899,Finland,2012,82,,,,,,,,,
+900,Finland,2011,86,,,,,,,,,
+901,Finland,2010,89,,,,,,,,,
+902,Finland,2009,91,,,,,,,,,
+903,Finland,2008,94,,,,,,,,,
+904,Finland,2007,96,,,,,,,,,
+905,Finland,2006,96,,,,,,,,,
+906,Finland,2005,11,,,,,,,,,
+907,Finland,2004,12,,,,,,,,,
+908,Finland,2003,98,,,,,,,,,
+909,Finland,2002,98,,,,,,,,,
+910,Finland,2001,1,,,,,,,,,
+911,Finland,2000,15,,,,,,,,,
+912,France,2015,78,,,,,,,,,
+913,France,2014,79,,,,,,,,,
+914,France,2013,81,,,,,,,,,
+915,France,2012,83,,,,,,,,,
+916,France,2011,83,,,,,,,,,
+917,France,2010,86,,,,,,,,,
+918,France,2009,88,,,,,,,,,
+919,France,2008,88,,,,,,,,,
+920,France,2007,89,,,,,,,,,
+921,France,2006,92,,,,,,,,,
+922,France,2005,93,,,,,,,,,
+923,France,2004,94,,,,,,,,,
+924,France,2003,99,,,,,,,,,
+925,France,2002,11,,,,,,,,,
+926,France,2001,13,,,,,,,,,
+927,France,2000,13,,,,,,,,,
+928,Gabon,2015,229,,,,,,,,,
+929,Gabon,2014,237,,,,,,,,,
+930,Gabon,2013,255,,,,,,,,,
+931,Gabon,2012,276,,,,,,,,,
+932,Gabon,2011,289,,,,,,,,,
+933,Gabon,2010,294,,,,,,,,,
+934,Gabon,2009,31,,,,,,,,,
+935,Gabon,2008,298,,,,,,,,,
+936,Gabon,2007,291,,,,,,,,,
+937,Gabon,2006,288,,,,,,,,,
+938,Gabon,2005,37,,,,,,,,,
+939,Gabon,2004,322,,,,,,,,,
+940,Gabon,2003,32,,,,,,,,,
+941,Gabon,2002,315,,,,,,,,,
+942,Gabon,2001,37,,,,,,,,,
+943,Gabon,2000,296,,,,,,,,,
+944,Gambia,2015,262,,,,,,,,,
+945,Gambia,2014,266,,,,,,,,,
+946,Gambia,2013,266,,,,,,,,,
+947,Gambia,2012,269,,,,,,,,,
+948,Gambia,2011,277,,,,,,,,,
+949,Gambia,2010,284,,,,,,,,,
+950,Gambia,2009,286,,,,,,,,,
+951,Gambia,2008,287,,,,,,,,,
+952,Gambia,2007,288,,,,,,,,,
+953,Gambia,2006,288,,,,,,,,,
+954,Gambia,2005,294,,,,,,,,,
+955,Gambia,2004,296,,,,,,,,,
+956,Gambia,2003,297,,,,,,,,,
+957,Gambia,2002,298,,,,,,,,,
+958,Gambia,2001,3,,,,,,,,,
+959,Gambia,2000,33,,,,,,,,,
+960,Georgia,2015,129,,,,,,,,,
+961,Georgia,2014,125,,,,,,,,,
+962,Georgia,2013,128,,,,,,,,,
+963,Georgia,2012,13,,,,,,,,,
+964,Georgia,2011,127,,,,,,,,,
+965,Georgia,2010,132,,,,,,,,,
+966,Georgia,2009,133,,,,,,,,,
+967,Georgia,2008,128,,,,,,,,,
+968,Georgia,2007,12,,,,,,,,,
+969,Georgia,2006,126,,,,,,,,,
+970,Georgia,2005,128,,,,,,,,,
+971,Georgia,2004,134,,,,,,,,,
+972,Georgia,2003,132,,,,,,,,,
+973,Georgia,2002,142,,,,,,,,,
+974,Georgia,2001,121,,,,,,,,,
+975,Georgia,2000,129,,,,,,,,,
+976,Germany,2015,68,,,,,,,,,
+977,Germany,2014,69,,,,,,,,,
+978,Germany,2013,71,,,,,,,,,
+979,Germany,2012,71,,,,,,,,,
+980,Germany,2011,74,,,,,,,,,
+981,Germany,2010,76,,,,,,,,,
+982,Germany,2009,79,,,,,,,,,
+983,Germany,2008,8,,,,,,,,,
+984,Germany,2007,82,,,,,,,,,
+985,Germany,2006,84,,,,,,,,,
+986,Germany,2005,85,,,,,,,,,
+987,Germany,2004,86,,,,,,,,,
+988,Germany,2003,9,,,,,,,,,
+989,Germany,2002,91,,,,,,,,,
+990,Germany,2001,92,,,,,,,,,
+991,Germany,2000,95,,,,,,,,,
+992,Ghana,2015,249,,,,,,,,,
+993,Ghana,2014,253,,,,,,,,,
+994,Ghana,2013,254,,,,,,,,,
+995,Ghana,2012,257,,,,,,,,,
+996,Ghana,2011,263,,,,,,,,,
+997,Ghana,2010,267,,,,,,,,,
+998,Ghana,2009,271,,,,,,,,,
+999,Ghana,2008,275,,,,,,,,,
+1000,Ghana,2007,28,,,,,,,,,
+1001,Ghana,2006,288,,,,,,,,,
+1002,Ghana,2005,296,,,,,,,,,
+1003,Ghana,2004,34,,,,,,,,,
+1004,Ghana,2003,38,,,,,,,,,
+1005,Ghana,2002,31,,,,,,,,,
+1006,Ghana,2001,39,,,,,,,,,
+1007,Ghana,2000,38,,,,,,,,,
+1008,Greece,2015,72,,,,,,,,,
+1009,Greece,2014,73,,,,,,,,,
+1010,Greece,2013,74,,,,,,,,,
+1011,Greece,2012,76,,,,,,,,,
+1012,Greece,2011,76,,,,,,,,,
+1013,Greece,2010,76,,,,,,,,,
+1014,Greece,2009,78,,,,,,,,,
+1015,Greece,2008,77,,,,,,,,,
+1016,Greece,2007,8,,,,,,,,,
+1017,Greece,2006,77,,,,,,,,,
+1018,Greece,2005,81,,,,,,,,,
+1019,Greece,2004,81,,,,,,,,,
+1020,Greece,2003,81,,,,,,,,,
+1021,Greece,2002,81,,,,,,,,,
+1022,Greece,2001,83,,,,,,,,,
+1023,Greece,2000,84,,,,,,,,,
+672,Greenland,2015,71,,,,,,,,,
+673,Greenland,2014,73,,,,,,,,,
+674,Greenland,2013,75,,,,,,,,,
+675,Greenland,2012,76,,,,,,,,,
+676,Greenland,2011,79,,,,,,,,,
+677,Greenland,2010,84,,,,,,,,,
+678,Greenland,2009,86,,,,,,,,,
+679,Greenland,2008,88,,,,,,,,,
+680,Greenland,2007,93,,,,,,,,,
+681,Greenland,2006,93,,,,,,,,,
+682,Greenland,2005,92,,,,,,,,,
+683,Greenland,2004,98,,,,,,,,,
+684,Greenland,2003,11,,,,,,,,,
+685,Greenland,2002,14,,,,,,,,,
+686,Greenland,2001,12,,,,,,,,,
+687,Greenland,2000,12,,,,,,,,,
+1024,Grenada,2015,142,,,,,,,,,
+1025,Grenada,2014,143,,,,,,,,,
+1026,Grenada,2013,144,,,,,,,,,
+1027,Grenada,2012,146,,,,,,,,,
+1028,Grenada,2011,15,,,,,,,,,
+1029,Grenada,2010,154,,,,,,,,,
+1030,Grenada,2009,158,,,,,,,,,
+1031,Grenada,2008,162,,,,,,,,,
+1032,Grenada,2007,164,,,,,,,,,
+1033,Grenada,2006,167,,,,,,,,,
+1034,Grenada,2005,169,,,,,,,,,
+1035,Grenada,2004,187,,,,,,,,,
+1036,Grenada,2003,173,,,,,,,,,
+1037,Grenada,2002,176,,,,,,,,,
+1038,Grenada,2001,178,,,,,,,,,
+1039,Grenada,2000,182,,,,,,,,,
+1040,Guatemala,2015,186,,,,,,,,,
+1041,Guatemala,2014,187,,,,,,,,,
+1042,Guatemala,2013,189,,,,,,,,,
+1043,Guatemala,2012,189,,,,,,,,,
+1044,Guatemala,2011,193,,,,,,,,,
+1045,Guatemala,2010,196,,,,,,,,,
+1046,Guatemala,2009,198,,,,,,,,,
+1047,Guatemala,2008,19,,,,,,,,,
+1048,Guatemala,2007,192,,,,,,,,,
+1049,Guatemala,2006,24,,,,,,,,,
+1050,Guatemala,2005,28,,,,,,,,,
+1051,Guatemala,2004,21,,,,,,,,,
+1052,Guatemala,2003,24,,,,,,,,,
+1053,Guatemala,2002,21,,,,,,,,,
+1054,Guatemala,2001,211,,,,,,,,,
+1055,Guatemala,2000,221,,,,,,,,,
+1056,Guinea,2015,284,,,,,,,,,
+1057,Guinea,2014,299,,,,,,,,,
+1058,Guinea,2013,284,,,,,,,,,
+1059,Guinea,2012,288,,,,,,,,,
+1060,Guinea,2011,29,,,,,,,,,
+1061,Guinea,2010,291,,,,,,,,,
+1062,Guinea,2009,297,,,,,,,,,
+1063,Guinea,2008,33,,,,,,,,,
+1064,Guinea,2007,36,,,,,,,,,
+1065,Guinea,2006,317,,,,,,,,,
+1066,Guinea,2005,327,,,,,,,,,
+1067,Guinea,2004,334,,,,,,,,,
+1068,Guinea,2003,338,,,,,,,,,
+1069,Guinea,2002,337,,,,,,,,,
+1070,Guinea,2001,336,,,,,,,,,
+1071,Guinea,2000,328,,,,,,,,,
+1072,Guinea-Bissau,2015,275,,,,,,,,,
+1073,Guinea-Bissau,2014,282,,,,,,,,,
+1074,Guinea-Bissau,2013,279,,,,,,,,,
+1075,Guinea-Bissau,2012,285,,,,,,,,,
+1076,Guinea-Bissau,2011,289,,,,,,,,,
+1077,Guinea-Bissau,2010,287,,,,,,,,,
+1078,Guinea-Bissau,2009,288,,,,,,,,,
+1079,Guinea-Bissau,2008,297,,,,,,,,,
+1080,Guinea-Bissau,2007,32,,,,,,,,,
+1081,Guinea-Bissau,2006,36,,,,,,,,,
+1082,Guinea-Bissau,2005,37,,,,,,,,,
+1083,Guinea-Bissau,2004,38,,,,,,,,,
+1084,Guinea-Bissau,2003,38,,,,,,,,,
+1085,Guinea-Bissau,2002,35,,,,,,,,,
+1086,Guinea-Bissau,2001,32,,,,,,,,,
+1087,Guinea-Bissau,2000,3,,,,,,,,,
+1088,Guyana,2015,215,,,,,,,,,
+1089,Guyana,2014,217,,,,,,,,,
+1090,Guyana,2013,218,,,,,,,,,
+1091,Guyana,2012,22,,,,,,,,,
+1092,Guyana,2011,229,,,,,,,,,
+1093,Guyana,2010,221,,,,,,,,,
+1094,Guyana,2009,218,,,,,,,,,
+1095,Guyana,2008,218,,,,,,,,,
+1096,Guyana,2007,232,,,,,,,,,
+1097,Guyana,2006,24,,,,,,,,,
+1098,Guyana,2005,238,,,,,,,,,
+1099,Guyana,2004,237,,,,,,,,,
+1100,Guyana,2003,237,,,,,,,,,
+1101,Guyana,2002,244,,,,,,,,,
+1102,Guyana,2001,247,,,,,,,,,
+1103,Guyana,2000,246,,,,,,,,,
+1104,Haiti,2015,24,,,,,,,,,
+1105,Haiti,2014,245,,,,,,,,,
+1106,Haiti,2013,253,,,,,,,,,
+1107,Haiti,2012,259,,,,,,,,,
+1108,Haiti,2011,259,,,,,,,,,
+1109,Haiti,2010,682,,,,,,,,,
+1110,Haiti,2009,251,,,,,,,,,
+1111,Haiti,2008,259,,,,,,,,,
+1112,Haiti,2007,266,,,,,,,,,
+1113,Haiti,2006,28,,,,,,,,,
+1114,Haiti,2005,29,,,,,,,,,
+1115,Haiti,2004,32,,,,,,,,,
+1116,Haiti,2003,3,,,,,,,,,
+1117,Haiti,2002,33,,,,,,,,,
+1118,Haiti,2001,35,,,,,,,,,
+1119,Haiti,2000,35,,,,,,,,,
+1120,Honduras,2015,147,,,,,,,,,
+1121,Honduras,2014,149,,,,,,,,,
+1122,Honduras,2013,15,,,,,,,,,
+1123,Honduras,2012,151,,,,,,,,,
+1124,Honduras,2011,153,,,,,,,,,
+1125,Honduras,2010,156,,,,,,,,,
+1126,Honduras,2009,157,,,,,,,,,
+1127,Honduras,2008,159,,,,,,,,,
+1128,Honduras,2007,16,,,,,,,,,
+1129,Honduras,2006,161,,,,,,,,,
+1130,Honduras,2005,163,,,,,,,,,
+1131,Honduras,2004,165,,,,,,,,,
+1132,Honduras,2003,166,,,,,,,,,
+1133,Honduras,2002,169,,,,,,,,,
+1134,Honduras,2001,171,,,,,,,,,
+1135,Honduras,2000,174,,,,,,,,,
+1136,Hungary,2015,134,,,,,,,,,
+1137,Hungary,2014,137,,,,,,,,,
+1138,Hungary,2013,139,,,,,,,,,
+1139,Hungary,2012,146,,,,,,,,,
+1140,Hungary,2011,15,,,,,,,,,
+1141,Hungary,2010,156,,,,,,,,,
+1142,Hungary,2009,162,,,,,,,,,
+1143,Hungary,2008,165,,,,,,,,,
+1144,Hungary,2007,176,,,,,,,,,
+1145,Hungary,2006,177,,,,,,,,,
+1146,Hungary,2005,182,,,,,,,,,
+1147,Hungary,2004,18,,,,,,,,,
+1148,Hungary,2003,184,,,,,,,,,
+1149,Hungary,2002,184,,,,,,,,,
+1150,Hungary,2001,185,,,,,,,,,
+1151,Hungary,2000,193,,,,,,,,,
+1152,Iceland,2015,49,,,,,,,,,
+1153,Iceland,2014,49,,,,,,,,,
+1154,Iceland,2013,5,,,,,,,,,
+1155,Iceland,2012,5,,,,,,,,,
+1156,Iceland,2011,51,,,,,,,,,
+1157,Iceland,2010,53,,,,,,,,,
+1158,Iceland,2009,55,,,,,,,,,
+1159,Iceland,2008,58,,,,,,,,,
+1160,Iceland,2007,59,,,,,,,,,
+1161,Iceland,2006,61,,,,,,,,,
+1162,Iceland,2005,62,,,,,,,,,
+1163,Iceland,2004,65,,,,,,,,,
+1164,Iceland,2003,65,,,,,,,,,
+1165,Iceland,2002,7,,,,,,,,,
+1166,Iceland,2001,72,,,,,,,,,
+1167,Iceland,2000,74,,,,,,,,,
+1168,India,2015,181,,,,,,,,,
+1169,India,2014,184,,,,,,,,,
+1170,India,2013,187,,,,,,,,,
+1171,India,2012,19,,,,,,,,,
+1172,India,2011,193,,,,,,,,,
+1173,India,2010,196,,,,,,,,,
+1174,India,2009,2,,,,,,,,,
+1175,India,2008,23,,,,,,,,,
+1176,India,2007,26,,,,,,,,,
+1177,India,2006,28,,,,,,,,,
+1178,India,2005,211,,,,,,,,,
+1179,India,2004,214,,,,,,,,,
+1180,India,2003,216,,,,,,,,,
+1181,India,2002,219,,,,,,,,,
+1182,India,2001,222,,,,,,,,,
+1183,India,2000,224,,,,,,,,,
+1184,Indonesia,2015,176,,,,,,,,,
+1185,Indonesia,2014,179,,,,,,,,,
+1186,Indonesia,2013,181,,,,,,,,,
+1187,Indonesia,2012,183,,,,,,,,,
+1188,Indonesia,2011,185,,,,,,,,,
+1189,Indonesia,2010,187,,,,,,,,,
+1190,Indonesia,2009,189,,,,,,,,,
+1191,Indonesia,2008,189,,,,,,,,,
+1192,Indonesia,2007,19,,,,,,,,,
+1193,Indonesia,2006,191,,,,,,,,,
+1194,Indonesia,2005,19,,,,,,,,,
+1195,Indonesia,2004,213,,,,,,,,,
+1196,Indonesia,2003,189,,,,,,,,,
+1197,Indonesia,2002,189,,,,,,,,,
+1198,Indonesia,2001,188,,,,,,,,,
+1199,Indonesia,2000,188,,,,,,,,,
+1200,Iran,2015,83,,,,,,,,,
+1201,Iran,2014,83,,,,,,,,,
+1202,Iran,2013,83,,,,,,,,,
+1203,Iran,2012,85,,,,,,,,,
+1204,Iran,2011,93,,,,,,,,,
+1205,Iran,2010,16,,,,,,,,,
+1206,Iran,2009,122,,,,,,,,,
+1207,Iran,2008,135,,,,,,,,,
+1208,Iran,2007,138,,,,,,,,,
+1209,Iran,2006,139,,,,,,,,,
+1210,Iran,2005,139,,,,,,,,,
+1211,Iran,2004,139,,,,,,,,,
+1212,Iran,2003,154,,,,,,,,,
+1213,Iran,2002,142,,,,,,,,,
+1214,Iran,2001,146,,,,,,,,,
+1215,Iran,2000,15,,,,,,,,,
+1216,Iraq,2015,182,,,,,,,,,
+1217,Iraq,2014,199,,,,,,,,,
+1218,Iraq,2013,17,,,,,,,,,
+1219,Iraq,2012,147,,,,,,,,,
+1220,Iraq,2011,144,,,,,,,,,
+1221,Iraq,2010,145,,,,,,,,,
+1222,Iraq,2009,148,,,,,,,,,
+1223,Iraq,2008,167,,,,,,,,,
+1224,Iraq,2007,227,,,,,,,,,
+1225,Iraq,2006,249,,,,,,,,,
+1226,Iraq,2005,29,,,,,,,,,
+1227,Iraq,2004,21,,,,,,,,,
+1228,Iraq,2003,213,,,,,,,,,
+1229,Iraq,2002,14,,,,,,,,,
+1230,Iraq,2001,142,,,,,,,,,
+1231,Iraq,2000,144,,,,,,,,,
+1232,Ireland,2015,64,,,,,,,,,
+1233,Ireland,2014,66,,,,,,,,,
+1234,Ireland,2013,67,,,,,,,,,
+1235,Ireland,2012,69,,,,,,,,,
+1236,Ireland,2011,7,,,,,,,,,
+1237,Ireland,2010,68,,,,,,,,,
+1238,Ireland,2009,77,,,,,,,,,
+1239,Ireland,2008,75,,,,,,,,,
+1240,Ireland,2007,75,,,,,,,,,
+1241,Ireland,2006,78,,,,,,,,,
+1242,Ireland,2005,78,,,,,,,,,
+1243,Ireland,2004,82,,,,,,,,,
+1244,Ireland,2003,82,,,,,,,,,
+1245,Ireland,2002,88,,,,,,,,,
+1246,Ireland,2001,89,,,,,,,,,
+1247,Ireland,2000,94,,,,,,,,,
+1248,Israel,2015,58,,,,,,,,,
+1249,Israel,2014,6,,,,,,,,,
+1250,Israel,2013,61,,,,,,,,,
+1251,Israel,2012,6,,,,,,,,,
+1252,Israel,2011,61,,,,,,,,,
+1253,Israel,2010,61,,,,,,,,,
+1254,Israel,2009,63,,,,,,,,,
+1255,Israel,2008,65,,,,,,,,,
+1256,Israel,2007,68,,,,,,,,,
+1257,Israel,2006,68,,,,,,,,,
+1258,Israel,2005,71,,,,,,,,,
+1259,Israel,2004,69,,,,,,,,,
+1260,Israel,2003,71,,,,,,,,,
+1261,Israel,2002,74,,,,,,,,,
+1262,Israel,2001,74,,,,,,,,,
+1263,Israel,2000,76,,,,,,,,,
+1264,Italy,2015,56,,,,,,,,,
+1265,Italy,2014,57,,,,,,,,,
+1266,Italy,2013,58,,,,,,,,,
+1267,Italy,2012,6,,,,,,,,,
+1268,Italy,2011,6,,,,,,,,,
+1269,Italy,2010,6,,,,,,,,,
+1270,Italy,2009,61,,,,,,,,,
+1271,Italy,2008,61,,,,,,,,,
+1272,Italy,2007,63,,,,,,,,,
+1273,Italy,2006,65,,,,,,,,,
+1274,Italy,2005,66,,,,,,,,,
+1275,Italy,2004,66,,,,,,,,,
+1276,Italy,2003,72,,,,,,,,,
+1277,Italy,2002,72,,,,,,,,,
+1278,Italy,2001,75,,,,,,,,,
+1279,Italy,2000,77,,,,,,,,,
+1296,Jamaica,2015,125,,,,,,,,,
+1297,Jamaica,2014,133,,,,,,,,,
+1298,Jamaica,2013,136,,,,,,,,,
+1299,Jamaica,2012,138,,,,,,,,,
+1300,Jamaica,2011,139,,,,,,,,,
+1301,Jamaica,2010,138,,,,,,,,,
+1302,Jamaica,2009,142,,,,,,,,,
+1303,Jamaica,2008,145,,,,,,,,,
+1304,Jamaica,2007,148,,,,,,,,,
+1305,Jamaica,2006,15,,,,,,,,,
+1306,Jamaica,2005,161,,,,,,,,,
+1307,Jamaica,2004,165,,,,,,,,,
+1308,Jamaica,2003,166,,,,,,,,,
+1309,Jamaica,2002,167,,,,,,,,,
+1310,Jamaica,2001,171,,,,,,,,,
+1311,Jamaica,2000,171,,,,,,,,,
+1312,Japan,2015,55,,,,,,,,,
+1313,Japan,2014,57,,,,,,,,,
+1314,Japan,2013,56,,,,,,,,,
+1315,Japan,2012,58,,,,,,,,,
+1316,Japan,2011,64,,,,,,,,,
+1317,Japan,2010,62,,,,,,,,,
+1318,Japan,2009,64,,,,,,,,,
+1319,Japan,2008,66,,,,,,,,,
+1320,Japan,2007,67,,,,,,,,,
+1321,Japan,2006,68,,,,,,,,,
+1322,Japan,2005,69,,,,,,,,,
+1323,Japan,2004,68,,,,,,,,,
+1324,Japan,2003,7,,,,,,,,,
+1325,Japan,2002,7,,,,,,,,,
+1326,Japan,2001,72,,,,,,,,,
+1327,Japan,2000,74,,,,,,,,,
+1328,Jordan,2015,112,,,,,,,,,
+1329,Jordan,2014,113,,,,,,,,,
+1330,Jordan,2013,114,,,,,,,,,
+1331,Jordan,2012,115,,,,,,,,,
+1332,Jordan,2011,116,,,,,,,,,
+1333,Jordan,2010,117,,,,,,,,,
+1334,Jordan,2009,118,,,,,,,,,
+1335,Jordan,2008,119,,,,,,,,,
+1336,Jordan,2007,12,,,,,,,,,
+1337,Jordan,2006,121,,,,,,,,,
+1338,Jordan,2005,127,,,,,,,,,
+1339,Jordan,2004,125,,,,,,,,,
+1340,Jordan,2003,127,,,,,,,,,
+1341,Jordan,2002,129,,,,,,,,,
+1342,Jordan,2001,131,,,,,,,,,
+1343,Jordan,2000,133,,,,,,,,,
+1344,Kazakhstan,2015,198,,,,,,,,,
+1345,Kazakhstan,2014,22,,,,,,,,,
+1346,Kazakhstan,2013,28,,,,,,,,,
+1347,Kazakhstan,2012,214,,,,,,,,,
+1348,Kazakhstan,2011,224,,,,,,,,,
+1349,Kazakhstan,2010,236,,,,,,,,,
+1350,Kazakhstan,2009,235,,,,,,,,,
+1351,Kazakhstan,2008,258,,,,,,,,,
+1352,Kazakhstan,2007,288,,,,,,,,,
+1353,Kazakhstan,2006,295,,,,,,,,,
+1354,Kazakhstan,2005,294,,,,,,,,,
+1355,Kazakhstan,2004,287,,,,,,,,,
+1356,Kazakhstan,2003,282,,,,,,,,,
+1357,Kazakhstan,2002,276,,,,,,,,,
+1358,Kazakhstan,2001,284,,,,,,,,,
+1359,Kazakhstan,2000,292,,,,,,,,,
+1360,Kenya,2015,249,,,,,,,,,
+1361,Kenya,2014,255,,,,,,,,,
+1362,Kenya,2013,258,,,,,,,,,
+1363,Kenya,2012,263,,,,,,,,,
+1364,Kenya,2011,278,,,,,,,,,
+1365,Kenya,2010,294,,,,,,,,,
+1366,Kenya,2009,317,,,,,,,,,
+1367,Kenya,2008,339,,,,,,,,,
+1368,Kenya,2007,356,,,,,,,,,
+1369,Kenya,2006,388,,,,,,,,,
+1370,Kenya,2005,412,,,,,,,,,
+1371,Kenya,2004,432,,,,,,,,,
+1372,Kenya,2003,437,,,,,,,,,
+1373,Kenya,2002,437,,,,,,,,,
+1374,Kenya,2001,434,,,,,,,,,
+1375,Kenya,2000,428,,,,,,,,,
+1376,Kiribati,2015,198,,,,,,,,,
+1377,Kiribati,2014,2,,,,,,,,,
+1378,Kiribati,2013,22,,,,,,,,,
+1379,Kiribati,2012,24,,,,,,,,,
+1380,Kiribati,2011,26,,,,,,,,,
+1381,Kiribati,2010,27,,,,,,,,,
+1382,Kiribati,2009,28,,,,,,,,,
+1383,Kiribati,2008,21,,,,,,,,,
+1384,Kiribati,2007,211,,,,,,,,,
+1385,Kiribati,2006,212,,,,,,,,,
+1386,Kiribati,2005,213,,,,,,,,,
+1387,Kiribati,2004,214,,,,,,,,,
+1388,Kiribati,2003,215,,,,,,,,,
+1389,Kiribati,2002,217,,,,,,,,,
+1390,Kiribati,2001,219,,,,,,,,,
+1391,Kiribati,2000,222,,,,,,,,,
+1392,Kuwait,2015,81,,,,,,,,,
+1393,Kuwait,2014,82,,,,,,,,,
+1394,Kuwait,2013,83,,,,,,,,,
+1395,Kuwait,2012,84,,,,,,,,,
+1396,Kuwait,2011,85,,,,,,,,,
+1397,Kuwait,2010,86,,,,,,,,,
+1398,Kuwait,2009,87,,,,,,,,,
+1399,Kuwait,2008,88,,,,,,,,,
+1400,Kuwait,2007,89,,,,,,,,,
+1401,Kuwait,2006,89,,,,,,,,,
+1402,Kuwait,2005,9,,,,,,,,,
+1403,Kuwait,2004,91,,,,,,,,,
+1404,Kuwait,2003,93,,,,,,,,,
+1405,Kuwait,2002,94,,,,,,,,,
+1406,Kuwait,2001,95,,,,,,,,,
+1407,Kuwait,2000,96,,,,,,,,,
+1408,Kyrgyzstan,2015,166,,,,,,,,,
+1409,Kyrgyzstan,2014,17,,,,,,,,,
+1410,Kyrgyzstan,2013,174,,,,,,,,,
+1411,Kyrgyzstan,2012,18,,,,,,,,,
+1412,Kyrgyzstan,2011,188,,,,,,,,,
+1413,Kyrgyzstan,2010,199,,,,,,,,,
+1414,Kyrgyzstan,2009,21,,,,,,,,,
+1415,Kyrgyzstan,2008,217,,,,,,,,,
+1416,Kyrgyzstan,2007,229,,,,,,,,,
+1417,Kyrgyzstan,2006,234,,,,,,,,,
+1418,Kyrgyzstan,2005,224,,,,,,,,,
+1419,Kyrgyzstan,2004,218,,,,,,,,,
+1420,Kyrgyzstan,2003,217,,,,,,,,,
+1421,Kyrgyzstan,2002,215,,,,,,,,,
+1422,Kyrgyzstan,2001,217,,,,,,,,,
+1423,Kyrgyzstan,2000,225,,,,,,,,,
+1424,Laos,2015,194,,,,,,,,,
+1425,Laos,2014,199,,,,,,,,,
+1426,Laos,2013,23,,,,,,,,,
+1427,Laos,2012,28,,,,,,,,,
+1428,Laos,2011,213,,,,,,,,,
+1429,Laos,2010,218,,,,,,,,,
+1430,Laos,2009,223,,,,,,,,,
+1431,Laos,2008,228,,,,,,,,,
+1432,Laos,2007,234,,,,,,,,,
+1433,Laos,2006,24,,,,,,,,,
+1434,Laos,2005,246,,,,,,,,,
+1435,Laos,2004,252,,,,,,,,,
+1436,Laos,2003,259,,,,,,,,,
+1437,Laos,2002,265,,,,,,,,,
+1438,Laos,2001,271,,,,,,,,,
+1439,Laos,2000,278,,,,,,,,,
+1440,Latvia,2015,153,,,,,,,,,
+1441,Latvia,2014,156,,,,,,,,,
+1442,Latvia,2013,161,,,,,,,,,
+1443,Latvia,2012,163,,,,,,,,,
+1444,Latvia,2011,169,,,,,,,,,
+1445,Latvia,2010,18,,,,,,,,,
+1446,Latvia,2009,184,,,,,,,,,
+1447,Latvia,2008,199,,,,,,,,,
+1448,Latvia,2007,221,,,,,,,,,
+1449,Latvia,2006,229,,,,,,,,,
+1450,Latvia,2005,216,,,,,,,,,
+1451,Latvia,2004,26,,,,,,,,,
+1452,Latvia,2003,29,,,,,,,,,
+1453,Latvia,2002,219,,,,,,,,,
+1454,Latvia,2001,228,,,,,,,,,
+1455,Latvia,2000,218,,,,,,,,,
+1456,Lebanon,2015,98,,,,,,,,,
+1457,Lebanon,2014,99,,,,,,,,,
+1458,Lebanon,2013,97,,,,,,,,,
+1459,Lebanon,2012,93,,,,,,,,,
+1460,Lebanon,2011,93,,,,,,,,,
+1461,Lebanon,2010,94,,,,,,,,,
+1462,Lebanon,2009,95,,,,,,,,,
+1463,Lebanon,2008,98,,,,,,,,,
+1464,Lebanon,2007,98,,,,,,,,,
+1465,Lebanon,2006,1,,,,,,,,,
+1466,Lebanon,2005,11,,,,,,,,,
+1467,Lebanon,2004,13,,,,,,,,,
+1468,Lebanon,2003,15,,,,,,,,,
+1469,Lebanon,2002,17,,,,,,,,,
+1470,Lebanon,2001,11,,,,,,,,,
+1471,Lebanon,2000,112,,,,,,,,,
+1472,Lesotho,2015,484,,,,,,,,,
+1473,Lesotho,2014,522,,,,,,,,,
+1474,Lesotho,2013,518,,,,,,,,,
+1475,Lesotho,2012,513,,,,,,,,,
+1476,Lesotho,2011,52,,,,,,,,,
+1477,Lesotho,2010,527,,,,,,,,,
+1478,Lesotho,2009,566,,,,,,,,,
+1479,Lesotho,2008,592,,,,,,,,,
+1480,Lesotho,2007,633,,,,,,,,,
+1481,Lesotho,2006,654,,,,,,,,,
+1482,Lesotho,2005,675,,,,,,,,,
+1483,Lesotho,2004,666,,,,,,,,,
+1484,Lesotho,2003,648,,,,,,,,,
+1485,Lesotho,2002,622,,,,,,,,,
+1486,Lesotho,2001,586,,,,,,,,,
+1487,Lesotho,2000,543,,,,,,,,,
+1488,Liberia,2015,259,,,,,,,,,
+1489,Liberia,2014,329,,,,,,,,,
+1490,Liberia,2013,258,,,,,,,,,
+1491,Liberia,2012,261,,,,,,,,,
+1492,Liberia,2011,266,,,,,,,,,
+1493,Liberia,2010,272,,,,,,,,,
+1494,Liberia,2009,277,,,,,,,,,
+1495,Liberia,2008,281,,,,,,,,,
+1496,Liberia,2007,286,,,,,,,,,
+1497,Liberia,2006,32,,,,,,,,,
+1498,Liberia,2005,316,,,,,,,,,
+1499,Liberia,2004,329,,,,,,,,,
+1500,Liberia,2003,42,,,,,,,,,
+1501,Liberia,2002,371,,,,,,,,,
+1502,Liberia,2001,333,,,,,,,,,
+1503,Liberia,2000,39,,,,,,,,,
+1504,Libya,2015,138,,,,,,,,,
+1505,Libya,2014,143,,,,,,,,,
+1506,Libya,2013,134,,,,,,,,,
+1507,Libya,2012,133,,,,,,,,,
+1508,Libya,2011,161,,,,,,,,,
+1509,Libya,2010,132,,,,,,,,,
+1510,Libya,2009,132,,,,,,,,,
+1511,Libya,2008,132,,,,,,,,,
+1512,Libya,2007,132,,,,,,,,,
+1513,Libya,2006,134,,,,,,,,,
+1514,Libya,2005,138,,,,,,,,,
+1515,Libya,2004,141,,,,,,,,,
+1516,Libya,2003,144,,,,,,,,,
+1517,Libya,2002,146,,,,,,,,,
+1518,Libya,2001,147,,,,,,,,,
+1519,Libya,2000,148,,,,,,,,,
+1520,Lithuania,2015,165,,,,,,,,,
+1521,Lithuania,2014,169,,,,,,,,,
+1522,Lithuania,2013,178,,,,,,,,,
+1523,Lithuania,2012,176,,,,,,,,,
+1524,Lithuania,2011,18,,,,,,,,,
+1525,Lithuania,2010,188,,,,,,,,,
+1526,Lithuania,2009,192,,,,,,,,,
+1527,Lithuania,2008,224,,,,,,,,,
+1528,Lithuania,2007,24,,,,,,,,,
+1529,Lithuania,2006,229,,,,,,,,,
+1530,Lithuania,2005,222,,,,,,,,,
+1531,Lithuania,2004,24,,,,,,,,,
+1532,Lithuania,2003,22,,,,,,,,,
+1533,Lithuania,2002,22,,,,,,,,,
+1534,Lithuania,2001,21,,,,,,,,,
+1535,Lithuania,2000,2,,,,,,,,,
+1536,Luxembourg,2015,63,,,,,,,,,
+1537,Luxembourg,2014,65,,,,,,,,,
+1538,Luxembourg,2013,68,,,,,,,,,
+1539,Luxembourg,2012,7,,,,,,,,,
+1540,Luxembourg,2011,72,,,,,,,,,
+1541,Luxembourg,2010,73,,,,,,,,,
+1542,Luxembourg,2009,76,,,,,,,,,
+1543,Luxembourg,2008,8,,,,,,,,,
+1544,Luxembourg,2007,82,,,,,,,,,
+1545,Luxembourg,2006,85,,,,,,,,,
+1546,Luxembourg,2005,9,,,,,,,,,
+1547,Luxembourg,2004,92,,,,,,,,,
+1548,Luxembourg,2003,92,,,,,,,,,
+1549,Luxembourg,2002,95,,,,,,,,,
+1550,Luxembourg,2001,96,,,,,,,,,
+1551,Luxembourg,2000,98,,,,,,,,,
+1921,Macedonia,2014,12,,,,,,,,,
+1922,Macedonia,2013,14,,,,,,,,,
+1923,Macedonia,2012,15,,,,,,,,,
+1924,Macedonia,2011,17,,,,,,,,,
+1925,Macedonia,2010,18,,,,,,,,,
+1926,Macedonia,2009,111,,,,,,,,,
+1927,Macedonia,2008,111,,,,,,,,,
+1928,Macedonia,2007,12,,,,,,,,,
+1929,Macedonia,2006,122,,,,,,,,,
+1930,Macedonia,2005,12,,,,,,,,,
+1931,Macedonia,2004,12,,,,,,,,,
+1932,Macedonia,2003,126,,,,,,,,,
+1933,Macedonia,2002,128,,,,,,,,,
+1934,Macedonia,2001,126,,,,,,,,,
+1935,Macedonia,2000,125,,,,,,,,,
+1552,Madagascar,2015,22,,,,,,,,,
+1553,Madagascar,2014,225,,,,,,,,,
+1554,Madagascar,2013,23,,,,,,,,,
+1555,Madagascar,2012,235,,,,,,,,,
+1556,Madagascar,2011,241,,,,,,,,,
+1557,Madagascar,2010,248,,,,,,,,,
+1558,Madagascar,2009,254,,,,,,,,,
+1559,Madagascar,2008,259,,,,,,,,,
+1560,Madagascar,2007,261,,,,,,,,,
+1561,Madagascar,2006,263,,,,,,,,,
+1562,Madagascar,2005,265,,,,,,,,,
+1563,Madagascar,2004,267,,,,,,,,,
+1564,Madagascar,2003,268,,,,,,,,,
+1565,Madagascar,2002,271,,,,,,,,,
+1566,Madagascar,2001,276,,,,,,,,,
+1567,Madagascar,2000,283,,,,,,,,,
+1568,Malawi,2015,365,,,,,,,,,
+1569,Malawi,2014,377,,,,,,,,,
+1570,Malawi,2013,394,,,,,,,,,
+1571,Malawi,2012,42,,,,,,,,,
+1572,Malawi,2011,441,,,,,,,,,
+1573,Malawi,2010,462,,,,,,,,,
+1574,Malawi,2009,491,,,,,,,,,
+1575,Malawi,2008,525,,,,,,,,,
+1576,Malawi,2007,559,,,,,,,,,
+1577,Malawi,2006,587,,,,,,,,,
+1578,Malawi,2005,66,,,,,,,,,
+1579,Malawi,2004,615,,,,,,,,,
+1580,Malawi,2003,613,,,,,,,,,
+1581,Malawi,2002,67,,,,,,,,,
+1582,Malawi,2001,599,,,,,,,,,
+1583,Malawi,2000,588,,,,,,,,,
+1584,Malaysia,2015,123,,,,,,,,,
+1585,Malaysia,2014,126,,,,,,,,,
+1586,Malaysia,2013,128,,,,,,,,,
+1587,Malaysia,2012,129,,,,,,,,,
+1588,Malaysia,2011,13,,,,,,,,,
+1589,Malaysia,2010,131,,,,,,,,,
+1590,Malaysia,2009,131,,,,,,,,,
+1591,Malaysia,2008,132,,,,,,,,,
+1592,Malaysia,2007,133,,,,,,,,,
+1593,Malaysia,2006,134,,,,,,,,,
+1594,Malaysia,2005,135,,,,,,,,,
+1595,Malaysia,2004,137,,,,,,,,,
+1596,Malaysia,2003,138,,,,,,,,,
+1597,Malaysia,2002,14,,,,,,,,,
+1598,Malaysia,2001,144,,,,,,,,,
+1599,Malaysia,2000,149,,,,,,,,,
+1600,Maldives,2015,61,,,,,,,,,
+1601,Maldives,2014,62,,,,,,,,,
+1602,Maldives,2013,64,,,,,,,,,
+1603,Maldives,2012,65,,,,,,,,,
+1604,Maldives,2011,67,,,,,,,,,
+1605,Maldives,2010,73,,,,,,,,,
+1606,Maldives,2009,75,,,,,,,,,
+1607,Maldives,2008,81,,,,,,,,,
+1608,Maldives,2007,82,,,,,,,,,
+1609,Maldives,2006,88,,,,,,,,,
+1610,Maldives,2005,93,,,,,,,,,
+1611,Maldives,2004,16,,,,,,,,,
+1612,Maldives,2003,112,,,,,,,,,
+1613,Maldives,2002,124,,,,,,,,,
+1614,Maldives,2001,129,,,,,,,,,
+1615,Maldives,2000,139,,,,,,,,,
+1616,Mali,2015,266,,,,,,,,,
+1617,Mali,2014,272,,,,,,,,,
+1618,Mali,2013,275,,,,,,,,,
+1619,Mali,2012,27,,,,,,,,,
+1620,Mali,2011,271,,,,,,,,,
+1621,Mali,2010,273,,,,,,,,,
+1622,Mali,2009,276,,,,,,,,,
+1623,Mali,2008,278,,,,,,,,,
+1624,Mali,2007,282,,,,,,,,,
+1625,Mali,2006,288,,,,,,,,,
+1626,Mali,2005,29,,,,,,,,,
+1627,Mali,2004,296,,,,,,,,,
+1628,Mali,2003,299,,,,,,,,,
+1629,Mali,2002,31,,,,,,,,,
+1630,Mali,2001,34,,,,,,,,,
+1631,Mali,2000,37,,,,,,,,,
+1632,Malta,2015,54,,,,,,,,,
+1633,Malta,2014,55,,,,,,,,,
+1634,Malta,2013,57,,,,,,,,,
+1635,Malta,2012,58,,,,,,,,,
+1636,Malta,2011,59,,,,,,,,,
+1637,Malta,2010,62,,,,,,,,,
+1638,Malta,2009,63,,,,,,,,,
+1639,Malta,2008,64,,,,,,,,,
+1640,Malta,2007,65,,,,,,,,,
+1641,Malta,2006,66,,,,,,,,,
+1642,Malta,2005,67,,,,,,,,,
+1643,Malta,2004,69,,,,,,,,,
+1644,Malta,2003,71,,,,,,,,,
+1645,Malta,2002,75,,,,,,,,,
+1646,Malta,2001,79,,,,,,,,,
+1647,Malta,2000,8,,,,,,,,,
+1648,Mauritania,2015,25,,,,,,,,,
+1649,Mauritania,2014,26,,,,,,,,,
+1650,Mauritania,2013,28,,,,,,,,,
+1651,Mauritania,2012,29,,,,,,,,,
+1652,Mauritania,2011,212,,,,,,,,,
+1653,Mauritania,2010,214,,,,,,,,,
+1654,Mauritania,2009,215,,,,,,,,,
+1655,Mauritania,2008,217,,,,,,,,,
+1656,Mauritania,2007,219,,,,,,,,,
+1657,Mauritania,2006,221,,,,,,,,,
+1658,Mauritania,2005,223,,,,,,,,,
+1659,Mauritania,2004,224,,,,,,,,,
+1660,Mauritania,2003,226,,,,,,,,,
+1661,Mauritania,2002,228,,,,,,,,,
+1662,Mauritania,2001,229,,,,,,,,,
+1663,Mauritania,2000,23,,,,,,,,,
+1664,Mauritius,2015,146,,,,,,,,,
+1665,Mauritius,2014,148,,,,,,,,,
+1666,Mauritius,2013,147,,,,,,,,,
+1667,Mauritius,2012,154,,,,,,,,,
+1668,Mauritius,2011,158,,,,,,,,,
+1669,Mauritius,2010,163,,,,,,,,,
+1670,Mauritius,2009,166,,,,,,,,,
+1671,Mauritius,2008,166,,,,,,,,,
+1672,Mauritius,2007,161,,,,,,,,,
+1673,Mauritius,2006,165,,,,,,,,,
+1674,Mauritius,2005,168,,,,,,,,,
+1675,Mauritius,2004,168,,,,,,,,,
+1676,Mauritius,2003,174,,,,,,,,,
+1677,Mauritius,2002,179,,,,,,,,,
+1678,Mauritius,2001,177,,,,,,,,,
+1679,Mauritius,2000,177,,,,,,,,,
+1680,Mexico,2015,122,,,,,,,,,
+1681,Mexico,2014,122,,,,,,,,,
+1682,Mexico,2013,12,,,,,,,,,
+1683,Mexico,2012,123,,,,,,,,,
+1684,Mexico,2011,124,,,,,,,,,
+1685,Mexico,2010,127,,,,,,,,,
+1686,Mexico,2009,13,,,,,,,,,
+1687,Mexico,2008,127,,,,,,,,,
+1688,Mexico,2007,123,,,,,,,,,
+1689,Mexico,2006,125,,,,,,,,,
+1690,Mexico,2005,126,,,,,,,,,
+1691,Mexico,2004,124,,,,,,,,,
+1692,Mexico,2003,127,,,,,,,,,
+1693,Mexico,2002,127,,,,,,,,,
+1694,Mexico,2001,126,,,,,,,,,
+1695,Mexico,2000,129,,,,,,,,,
+1696,Moldova,2015,157,,,,,,,,,
+1697,Moldova,2014,162,,,,,,,,,
+1698,Moldova,2013,163,,,,,,,,,
+1699,Moldova,2012,175,,,,,,,,,
+1700,Moldova,2011,177,,,,,,,,,
+1701,Moldova,2010,219,,,,,,,,,
+1702,Moldova,2009,218,,,,,,,,,
+1703,Moldova,2008,228,,,,,,,,,
+1704,Moldova,2007,237,,,,,,,,,
+1705,Moldova,2006,242,,,,,,,,,
+1706,Moldova,2005,248,,,,,,,,,
+1707,Moldova,2004,225,,,,,,,,,
+1708,Moldova,2003,226,,,,,,,,,
+1709,Moldova,2002,225,,,,,,,,,
+1710,Moldova,2001,228,,,,,,,,,
+1711,Moldova,2000,235,,,,,,,,,
+1712,Mongolia,2015,222,,,,,,,,,
+1713,Mongolia,2014,225,,,,,,,,,
+1714,Mongolia,2013,227,,,,,,,,,
+1715,Mongolia,2012,231,,,,,,,,,
+1716,Mongolia,2011,235,,,,,,,,,
+1717,Mongolia,2010,25,,,,,,,,,
+1718,Mongolia,2009,235,,,,,,,,,
+1719,Mongolia,2008,225,,,,,,,,,
+1720,Mongolia,2007,26,,,,,,,,,
+1721,Mongolia,2006,271,,,,,,,,,
+1722,Mongolia,2005,274,,,,,,,,,
+1723,Mongolia,2004,284,,,,,,,,,
+1724,Mongolia,2003,271,,,,,,,,,
+1725,Mongolia,2002,263,,,,,,,,,
+1726,Mongolia,2001,266,,,,,,,,,
+1727,Mongolia,2000,274,,,,,,,,,
+1728,Montenegro,2015,16,,,,,,,,,
+1729,Montenegro,2014,17,,,,,,,,,
+1730,Montenegro,2013,19,,,,,,,,,
+1731,Montenegro,2012,11,,,,,,,,,
+1732,Montenegro,2011,113,,,,,,,,,
+1733,Montenegro,2010,115,,,,,,,,,
+1734,Montenegro,2009,117,,,,,,,,,
+1735,Montenegro,2008,121,,,,,,,,,
+1736,Montenegro,2007,125,,,,,,,,,
+1737,Montenegro,2006,13,,,,,,,,,
+1738,Montenegro,2005,133,,,,,,,,,
+1739,Montenegro,2004,134,,,,,,,,,
+1740,Montenegro,2003,134,,,,,,,,,
+1741,Montenegro,2002,136,,,,,,,,,
+1742,Montenegro,2001,136,,,,,,,,,
+1743,Montenegro,2000,144,,,,,,,,,
+1744,Morocco,2015,95,,,,,,,,,
+1745,Morocco,2014,96,,,,,,,,,
+1746,Morocco,2013,97,,,,,,,,,
+1747,Morocco,2012,99,,,,,,,,,
+1748,Morocco,2011,14,,,,,,,,,
+1749,Morocco,2010,11,,,,,,,,,
+1750,Morocco,2009,116,,,,,,,,,
+1751,Morocco,2008,123,,,,,,,,,
+1752,Morocco,2007,128,,,,,,,,,
+1753,Morocco,2006,133,,,,,,,,,
+1754,Morocco,2005,137,,,,,,,,,
+1755,Morocco,2004,142,,,,,,,,,
+1756,Morocco,2003,146,,,,,,,,,
+1757,Morocco,2002,15,,,,,,,,,
+1758,Morocco,2001,155,,,,,,,,,
+1759,Morocco,2000,16,,,,,,,,,
+1760,Mozambique,2015,355,,,,,,,,,
+1761,Mozambique,2014,375,,,,,,,,,
+1762,Mozambique,2013,46,,,,,,,,,
+1763,Mozambique,2012,48,,,,,,,,,
+1764,Mozambique,2011,47,,,,,,,,,
+1765,Mozambique,2010,47,,,,,,,,,
+1766,Mozambique,2009,4,,,,,,,,,
+1767,Mozambique,2008,45,,,,,,,,,
+1768,Mozambique,2007,425,,,,,,,,,
+1769,Mozambique,2006,434,,,,,,,,,
+1770,Mozambique,2005,434,,,,,,,,,
+1771,Mozambique,2004,429,,,,,,,,,
+1772,Mozambique,2003,424,,,,,,,,,
+1773,Mozambique,2002,416,,,,,,,,,
+1774,Mozambique,2001,48,,,,,,,,,
+1775,Mozambique,2000,43,,,,,,,,,
+1776,Myanmar,2015,199,,,,,,,,,
+1777,Myanmar,2014,21,,,,,,,,,
+1778,Myanmar,2013,22,,,,,,,,,
+1779,Myanmar,2012,25,,,,,,,,,
+1780,Myanmar,2011,27,,,,,,,,,
+1781,Myanmar,2010,29,,,,,,,,,
+1782,Myanmar,2009,211,,,,,,,,,
+1783,Myanmar,2008,296,,,,,,,,,
+1784,Myanmar,2007,217,,,,,,,,,
+1785,Myanmar,2006,22,,,,,,,,,
+1786,Myanmar,2005,224,,,,,,,,,
+1787,Myanmar,2004,228,,,,,,,,,
+1788,Myanmar,2003,231,,,,,,,,,
+1789,Myanmar,2002,235,,,,,,,,,
+1790,Myanmar,2001,239,,,,,,,,,
+1791,Myanmar,2000,243,,,,,,,,,
+1792,Namibia,2015,248,,,,,,,,,
+1793,Namibia,2014,242,,,,,,,,,
+1794,Namibia,2013,232,,,,,,,,,
+1795,Namibia,2012,232,,,,,,,,,
+1796,Namibia,2011,268,,,,,,,,,
+1797,Namibia,2010,299,,,,,,,,,
+1798,Namibia,2009,36,,,,,,,,,
+1799,Namibia,2008,317,,,,,,,,,
+1800,Namibia,2007,356,,,,,,,,,
+1801,Namibia,2006,431,,,,,,,,,
+1802,Namibia,2005,477,,,,,,,,,
+1803,Namibia,2004,483,,,,,,,,,
+1804,Namibia,2003,471,,,,,,,,,
+1805,Namibia,2002,452,,,,,,,,,
+1806,Namibia,2001,426,,,,,,,,,
+1807,Namibia,2000,41,,,,,,,,,
+1808,Nepal,2015,165,,,,,,,,,
+1809,Nepal,2014,158,,,,,,,,,
+1810,Nepal,2013,162,,,,,,,,,
+1811,Nepal,2012,167,,,,,,,,,
+1812,Nepal,2011,172,,,,,,,,,
+1813,Nepal,2010,178,,,,,,,,,
+1814,Nepal,2009,183,,,,,,,,,
+1815,Nepal,2008,189,,,,,,,,,
+1816,Nepal,2007,194,,,,,,,,,
+1817,Nepal,2006,21,,,,,,,,,
+1818,Nepal,2005,28,,,,,,,,,
+1819,Nepal,2004,218,,,,,,,,,
+1820,Nepal,2003,22,,,,,,,,,
+1821,Nepal,2002,238,,,,,,,,,
+1822,Nepal,2001,23,,,,,,,,,
+1823,Nepal,2000,238,,,,,,,,,
+1824,Netherlands,2015,57,,,,,,,,,
+1825,Netherlands,2014,58,,,,,,,,,
+1826,Netherlands,2013,6,,,,,,,,,
+1827,Netherlands,2012,62,,,,,,,,,
+1828,Netherlands,2011,63,,,,,,,,,
+1829,Netherlands,2010,64,,,,,,,,,
+1830,Netherlands,2009,65,,,,,,,,,
+1831,Netherlands,2008,68,,,,,,,,,
+1832,Netherlands,2007,68,,,,,,,,,
+1833,Netherlands,2006,71,,,,,,,,,
+1834,Netherlands,2005,72,,,,,,,,,
+1835,Netherlands,2004,77,,,,,,,,,
+1836,Netherlands,2003,8,,,,,,,,,
+1837,Netherlands,2002,81,,,,,,,,,
+1838,Netherlands,2001,82,,,,,,,,,
+1839,Netherlands,2000,84,,,,,,,,,
+1840,New Zealand,2015,66,,,,,,,,,
+1841,New Zealand,2014,67,,,,,,,,,
+1842,New Zealand,2013,69,,,,,,,,,
+1843,New Zealand,2012,7,,,,,,,,,
+1844,New Zealand,2011,72,,,,,,,,,
+1845,New Zealand,2010,71,,,,,,,,,
+1846,New Zealand,2009,73,,,,,,,,,
+1847,New Zealand,2008,75,,,,,,,,,
+1848,New Zealand,2007,76,,,,,,,,,
+1849,New Zealand,2006,76,,,,,,,,,
+1850,New Zealand,2005,78,,,,,,,,,
+1851,New Zealand,2004,79,,,,,,,,,
+1852,New Zealand,2003,82,,,,,,,,,
+1853,New Zealand,2002,83,,,,,,,,,
+1854,New Zealand,2001,83,,,,,,,,,
+1855,New Zealand,2000,87,,,,,,,,,
+1856,Nicaragua,2015,145,,,,,,,,,
+1857,Nicaragua,2014,148,,,,,,,,,
+1858,Nicaragua,2013,157,,,,,,,,,
+1859,Nicaragua,2012,157,,,,,,,,,
+1860,Nicaragua,2011,147,,,,,,,,,
+1861,Nicaragua,2010,154,,,,,,,,,
+1862,Nicaragua,2009,163,,,,,,,,,
+1863,Nicaragua,2008,169,,,,,,,,,
+1864,Nicaragua,2007,173,,,,,,,,,
+1865,Nicaragua,2006,17,,,,,,,,,
+1866,Nicaragua,2005,194,,,,,,,,,
+1867,Nicaragua,2004,194,,,,,,,,,
+1868,Nicaragua,2003,198,,,,,,,,,
+1869,Nicaragua,2002,197,,,,,,,,,
+1870,Nicaragua,2001,193,,,,,,,,,
+1871,Nicaragua,2000,192,,,,,,,,,
+1872,Niger,2015,22,,,,,,,,,
+1873,Niger,2014,223,,,,,,,,,
+1874,Niger,2013,227,,,,,,,,,
+1875,Niger,2012,232,,,,,,,,,
+1876,Niger,2011,241,,,,,,,,,
+1877,Niger,2010,252,,,,,,,,,
+1878,Niger,2009,263,,,,,,,,,
+1879,Niger,2008,272,,,,,,,,,
+1880,Niger,2007,276,,,,,,,,,
+1881,Niger,2006,277,,,,,,,,,
+1882,Niger,2005,278,,,,,,,,,
+1883,Niger,2004,279,,,,,,,,,
+1884,Niger,2003,28,,,,,,,,,
+1885,Niger,2002,282,,,,,,,,,
+1886,Niger,2001,283,,,,,,,,,
+1887,Niger,2000,284,,,,,,,,,
+1888,Nigeria,2015,344,,,,,,,,,
+1889,Nigeria,2014,362,,,,,,,,,
+1890,Nigeria,2013,367,,,,,,,,,
+1891,Nigeria,2012,374,,,,,,,,,
+1892,Nigeria,2011,375,,,,,,,,,
+1893,Nigeria,2010,374,,,,,,,,,
+1894,Nigeria,2009,376,,,,,,,,,
+1895,Nigeria,2008,386,,,,,,,,,
+1896,Nigeria,2007,388,,,,,,,,,
+1897,Nigeria,2006,396,,,,,,,,,
+1898,Nigeria,2005,4,,,,,,,,,
+1899,Nigeria,2004,47,,,,,,,,,
+1900,Nigeria,2003,41,,,,,,,,,
+1901,Nigeria,2002,49,,,,,,,,,
+1902,Nigeria,2001,48,,,,,,,,,
+1903,Nigeria,2000,45,,,,,,,,,
+1904,North Korea,2015,139,,,,,,,,,
+1905,North Korea,2014,142,,,,,,,,,
+1906,North Korea,2013,146,,,,,,,,,
+1907,North Korea,2012,149,,,,,,,,,
+1908,North Korea,2011,153,,,,,,,,,
+1909,North Korea,2010,157,,,,,,,,,
+1910,North Korea,2009,161,,,,,,,,,
+1911,North Korea,2008,164,,,,,,,,,
+1912,North Korea,2007,166,,,,,,,,,
+1913,North Korea,2006,165,,,,,,,,,
+1914,North Korea,2005,165,,,,,,,,,
+1915,North Korea,2004,165,,,,,,,,,
+1916,North Korea,2003,165,,,,,,,,,
+1917,North Korea,2002,167,,,,,,,,,
+1918,North Korea,2001,177,,,,,,,,,
+1919,North Korea,2000,192,,,,,,,,,
+1920,North Macedonia,2015,12,,,,,,,,,
+1936,Norway,2015,59,,,,,,,,,
+1937,Norway,2014,61,,,,,,,,,
+1938,Norway,2013,62,,,,,,,,,
+1939,Norway,2012,61,,,,,,,,,
+1940,Norway,2011,67,,,,,,,,,
+1941,Norway,2010,66,,,,,,,,,
+1942,Norway,2009,67,,,,,,,,,
+1943,Norway,2008,67,,,,,,,,,
+1944,Norway,2007,67,,,,,,,,,
+1945,Norway,2006,7,,,,,,,,,
+1946,Norway,2005,73,,,,,,,,,
+1947,Norway,2004,77,,,,,,,,,
+1948,Norway,2003,78,,,,,,,,,
+1949,Norway,2002,81,,,,,,,,,
+1950,Norway,2001,82,,,,,,,,,
+1951,Norway,2000,85,,,,,,,,,
+1952,Oman,2015,99,,,,,,,,,
+1953,Oman,2014,11,,,,,,,,,
+1954,Oman,2013,12,,,,,,,,,
+1955,Oman,2012,14,,,,,,,,,
+1956,Oman,2011,15,,,,,,,,,
+1957,Oman,2010,16,,,,,,,,,
+1958,Oman,2009,18,,,,,,,,,
+1959,Oman,2008,19,,,,,,,,,
+1960,Oman,2007,113,,,,,,,,,
+1961,Oman,2006,115,,,,,,,,,
+1962,Oman,2005,118,,,,,,,,,
+1963,Oman,2004,122,,,,,,,,,
+1964,Oman,2003,127,,,,,,,,,
+1965,Oman,2002,13,,,,,,,,,
+1966,Oman,2001,134,,,,,,,,,
+1967,Oman,2000,138,,,,,,,,,
+1968,Pakistan,2015,161,,,,,,,,,
+1969,Pakistan,2014,162,,,,,,,,,
+1970,Pakistan,2013,163,,,,,,,,,
+1971,Pakistan,2012,165,,,,,,,,,
+1972,Pakistan,2011,167,,,,,,,,,
+1973,Pakistan,2010,172,,,,,,,,,
+1974,Pakistan,2009,175,,,,,,,,,
+1975,Pakistan,2008,177,,,,,,,,,
+1976,Pakistan,2007,178,,,,,,,,,
+1977,Pakistan,2006,179,,,,,,,,,
+1978,Pakistan,2005,2,,,,,,,,,
+1979,Pakistan,2004,183,,,,,,,,,
+1980,Pakistan,2003,185,,,,,,,,,
+1981,Pakistan,2002,187,,,,,,,,,
+1982,Pakistan,2001,189,,,,,,,,,
+1983,Pakistan,2000,19,,,,,,,,,
+1984,Panama,2015,118,,,,,,,,,
+1985,Panama,2014,119,,,,,,,,,
+1986,Panama,2013,118,,,,,,,,,
+1987,Panama,2012,12,,,,,,,,,
+1988,Panama,2011,121,,,,,,,,,
+1989,Panama,2010,122,,,,,,,,,
+1990,Panama,2009,127,,,,,,,,,
+1991,Panama,2008,127,,,,,,,,,
+1992,Panama,2007,124,,,,,,,,,
+1993,Panama,2006,125,,,,,,,,,
+1994,Panama,2005,122,,,,,,,,,
+1995,Panama,2004,123,,,,,,,,,
+1996,Panama,2003,126,,,,,,,,,
+1997,Panama,2002,125,,,,,,,,,
+1998,Panama,2001,124,,,,,,,,,
+1999,Panama,2000,121,,,,,,,,,
+2000,Papua New Guinea,2015,275,,,,,,,,,
+2001,Papua New Guinea,2014,278,,,,,,,,,
+2002,Papua New Guinea,2013,281,,,,,,,,,
+2003,Papua New Guinea,2012,284,,,,,,,,,
+2004,Papua New Guinea,2011,285,,,,,,,,,
+2005,Papua New Guinea,2010,286,,,,,,,,,
+2006,Papua New Guinea,2009,288,,,,,,,,,
+2007,Papua New Guinea,2008,29,,,,,,,,,
+2008,Papua New Guinea,2007,295,,,,,,,,,
+2009,Papua New Guinea,2006,299,,,,,,,,,
+2010,Papua New Guinea,2005,37,,,,,,,,,
+2011,Papua New Guinea,2004,314,,,,,,,,,
+2012,Papua New Guinea,2003,321,,,,,,,,,
+2013,Papua New Guinea,2002,327,,,,,,,,,
+2014,Papua New Guinea,2001,331,,,,,,,,,
+2015,Papua New Guinea,2000,335,,,,,,,,,
+2016,Paraguay,2015,146,,,,,,,,,
+2017,Paraguay,2014,147,,,,,,,,,
+2018,Paraguay,2013,148,,,,,,,,,
+2019,Paraguay,2012,148,,,,,,,,,
+2020,Paraguay,2011,15,,,,,,,,,
+2021,Paraguay,2010,152,,,,,,,,,
+2022,Paraguay,2009,155,,,,,,,,,
+2023,Paraguay,2008,157,,,,,,,,,
+2024,Paraguay,2007,159,,,,,,,,,
+2025,Paraguay,2006,161,,,,,,,,,
+2026,Paraguay,2005,163,,,,,,,,,
+2027,Paraguay,2004,165,,,,,,,,,
+2028,Paraguay,2003,166,,,,,,,,,
+2029,Paraguay,2002,168,,,,,,,,,
+2030,Paraguay,2001,17,,,,,,,,,
+2031,Paraguay,2000,172,,,,,,,,,
+2032,Peru,2015,123,,,,,,,,,
+2033,Peru,2014,125,,,,,,,,,
+2034,Peru,2013,125,,,,,,,,,
+2035,Peru,2012,129,,,,,,,,,
+2036,Peru,2011,133,,,,,,,,,
+2037,Peru,2010,14,,,,,,,,,
+2038,Peru,2009,14,,,,,,,,,
+2039,Peru,2008,138,,,,,,,,,
+2040,Peru,2007,133,,,,,,,,,
+2041,Peru,2006,134,,,,,,,,,
+2042,Peru,2005,148,,,,,,,,,
+2043,Peru,2004,151,,,,,,,,,
+2044,Peru,2003,152,,,,,,,,,
+2045,Peru,2002,144,,,,,,,,,
+2046,Peru,2001,142,,,,,,,,,
+2047,Peru,2000,154,,,,,,,,,
+2048,Philippines,2015,211,,,,,,,,,
+2049,Philippines,2014,214,,,,,,,,,
+2050,Philippines,2013,219,,,,,,,,,
+2051,Philippines,2012,217,,,,,,,,,
+2052,Philippines,2011,218,,,,,,,,,
+2053,Philippines,2010,218,,,,,,,,,
+2054,Philippines,2009,219,,,,,,,,,
+2055,Philippines,2008,217,,,,,,,,,
+2056,Philippines,2007,216,,,,,,,,,
+2057,Philippines,2006,219,,,,,,,,,
+2058,Philippines,2005,223,,,,,,,,,
+2059,Philippines,2004,218,,,,,,,,,
+2060,Philippines,2003,217,,,,,,,,,
+2061,Philippines,2002,221,,,,,,,,,
+2062,Philippines,2001,221,,,,,,,,,
+2063,Philippines,2000,219,,,,,,,,,
+2064,Poland,2015,117,,,,,,,,,
+2065,Poland,2014,12,,,,,,,,,
+2066,Poland,2013,12,,,,,,,,,
+2067,Poland,2012,125,,,,,,,,,
+2068,Poland,2011,128,,,,,,,,,
+2069,Poland,2010,13,,,,,,,,,
+2070,Poland,2009,136,,,,,,,,,
+2071,Poland,2008,14,,,,,,,,,
+2072,Poland,2007,144,,,,,,,,,
+2073,Poland,2006,144,,,,,,,,,
+2074,Poland,2005,144,,,,,,,,,
+2075,Poland,2004,143,,,,,,,,,
+2076,Poland,2003,142,,,,,,,,,
+2077,Poland,2002,145,,,,,,,,,
+2078,Poland,2001,149,,,,,,,,,
+2079,Poland,2000,153,,,,,,,,,
+2080,Portugal,2015,76,,,,,,,,,
+2081,Portugal,2014,78,,,,,,,,,
+2082,Portugal,2013,79,,,,,,,,,
+2083,Portugal,2012,81,,,,,,,,,
+2084,Portugal,2011,85,,,,,,,,,
+2085,Portugal,2010,88,,,,,,,,,
+2086,Portugal,2009,9,,,,,,,,,
+2087,Portugal,2008,92,,,,,,,,,
+2088,Portugal,2007,94,,,,,,,,,
+2089,Portugal,2006,96,,,,,,,,,
+2090,Portugal,2005,11,,,,,,,,,
+2091,Portugal,2004,99,,,,,,,,,
+2092,Portugal,2003,15,,,,,,,,,
+2093,Portugal,2002,17,,,,,,,,,
+2094,Portugal,2001,11,,,,,,,,,
+2095,Portugal,2000,11,,,,,,,,,
+2096,Qatar,2015,68,,,,,,,,,
+2097,Qatar,2014,69,,,,,,,,,
+2098,Qatar,2013,7,,,,,,,,,
+2099,Qatar,2012,72,,,,,,,,,
+2100,Qatar,2011,74,,,,,,,,,
+2101,Qatar,2010,76,,,,,,,,,
+2102,Qatar,2009,79,,,,,,,,,
+2103,Qatar,2008,82,,,,,,,,,
+2104,Qatar,2007,83,,,,,,,,,
+2105,Qatar,2006,83,,,,,,,,,
+2106,Qatar,2005,84,,,,,,,,,
+2107,Qatar,2004,84,,,,,,,,,
+2108,Qatar,2003,85,,,,,,,,,
+2109,Qatar,2002,85,,,,,,,,,
+2110,Qatar,2001,87,,,,,,,,,
+2111,Qatar,2000,88,,,,,,,,,
+2144,Romania,2015,133,,,,,,,,,
+2145,Romania,2014,135,,,,,,,,,
+2146,Romania,2013,138,,,,,,,,,
+2147,Romania,2012,138,,,,,,,,,
+2148,Romania,2011,139,,,,,,,,,
+2149,Romania,2010,153,,,,,,,,,
+2150,Romania,2009,158,,,,,,,,,
+2151,Romania,2008,159,,,,,,,,,
+2152,Romania,2007,154,,,,,,,,,
+2153,Romania,2006,157,,,,,,,,,
+2154,Romania,2005,162,,,,,,,,,
+2155,Romania,2004,165,,,,,,,,,
+2156,Romania,2003,174,,,,,,,,,
+2157,Romania,2002,178,,,,,,,,,
+2158,Romania,2001,179,,,,,,,,,
+2159,Romania,2000,175,,,,,,,,,
+2160,Russia,2015,222,,,,,,,,,
+2161,Russia,2014,225,,,,,,,,,
+2162,Russia,2013,229,,,,,,,,,
+2163,Russia,2012,237,,,,,,,,,
+2164,Russia,2011,242,,,,,,,,,
+2165,Russia,2010,256,,,,,,,,,
+2166,Russia,2009,261,,,,,,,,,
+2167,Russia,2008,278,,,,,,,,,
+2168,Russia,2007,282,,,,,,,,,
+2169,Russia,2006,3,,,,,,,,,
+2170,Russia,2005,327,,,,,,,,,
+2171,Russia,2004,321,,,,,,,,,
+2172,Russia,2003,322,,,,,,,,,
+2173,Russia,2002,313,,,,,,,,,
+2174,Russia,2001,38,,,,,,,,,
+2175,Russia,2000,37,,,,,,,,,
+2176,Rwanda,2015,227,,,,,,,,,
+2177,Rwanda,2014,23,,,,,,,,,
+2178,Rwanda,2013,233,,,,,,,,,
+2179,Rwanda,2012,239,,,,,,,,,
+2180,Rwanda,2011,247,,,,,,,,,
+2181,Rwanda,2010,26,,,,,,,,,
+2182,Rwanda,2009,288,,,,,,,,,
+2183,Rwanda,2008,282,,,,,,,,,
+2184,Rwanda,2007,295,,,,,,,,,
+2185,Rwanda,2006,328,,,,,,,,,
+2186,Rwanda,2005,37,,,,,,,,,
+2187,Rwanda,2004,397,,,,,,,,,
+2188,Rwanda,2003,48,,,,,,,,,
+2189,Rwanda,2002,415,,,,,,,,,
+2190,Rwanda,2001,438,,,,,,,,,
+2191,Rwanda,2000,426,,,,,,,,,
+2432,S. Sudan,2015,332,,,,,,,,,
+2433,S. Sudan,2014,343,,,,,,,,,
+2434,S. Sudan,2013,345,,,,,,,,,
+2435,S. Sudan,2012,347,,,,,,,,,
+2436,S. Sudan,2011,355,,,,,,,,,
+2437,S. Sudan,2010,359,,,,,,,,,
+2438,S. Sudan,2009,369,,,,,,,,,
+2439,S. Sudan,2008,377,,,,,,,,,
+2440,S. Sudan,2007,381,,,,,,,,,
+2441,S. Sudan,2006,383,,,,,,,,,
+2442,S. Sudan,2005,383,,,,,,,,,
+2443,S. Sudan,2004,383,,,,,,,,,
+2444,S. Sudan,2003,383,,,,,,,,,
+2445,S. Sudan,2002,382,,,,,,,,,
+2446,S. Sudan,2001,381,,,,,,,,,
+2447,S. Sudan,2000,38,,,,,,,,,
+2192,Saint Lucia,2015,138,,,,,,,,,
+2193,Saint Lucia,2014,139,,,,,,,,,
+2194,Saint Lucia,2013,141,,,,,,,,,
+2195,Saint Lucia,2012,142,,,,,,,,,
+2196,Saint Lucia,2011,143,,,,,,,,,
+2197,Saint Lucia,2010,147,,,,,,,,,
+2198,Saint Lucia,2009,147,,,,,,,,,
+2199,Saint Lucia,2008,149,,,,,,,,,
+2200,Saint Lucia,2007,151,,,,,,,,,
+2201,Saint Lucia,2006,155,,,,,,,,,
+2202,Saint Lucia,2005,16,,,,,,,,,
+2203,Saint Lucia,2004,166,,,,,,,,,
+2204,Saint Lucia,2003,171,,,,,,,,,
+2205,Saint Lucia,2002,174,,,,,,,,,
+2206,Saint Lucia,2001,178,,,,,,,,,
+2207,Saint Lucia,2000,183,,,,,,,,,
+2208,Saint Vincent and the Grenadines,2015,156,,,,,,,,,
+2209,Saint Vincent and the Grenadines,2014,157,,,,,,,,,
+2210,Saint Vincent and the Grenadines,2013,161,,,,,,,,,
+2211,Saint Vincent and the Grenadines,2012,159,,,,,,,,,
+2212,Saint Vincent and the Grenadines,2011,16,,,,,,,,,
+2213,Saint Vincent and the Grenadines,2010,162,,,,,,,,,
+2214,Saint Vincent and the Grenadines,2009,165,,,,,,,,,
+2215,Saint Vincent and the Grenadines,2008,167,,,,,,,,,
+2216,Saint Vincent and the Grenadines,2007,17,,,,,,,,,
+2217,Saint Vincent and the Grenadines,2006,173,,,,,,,,,
+2218,Saint Vincent and the Grenadines,2005,177,,,,,,,,,
+2219,Saint Vincent and the Grenadines,2004,181,,,,,,,,,
+2220,Saint Vincent and the Grenadines,2003,184,,,,,,,,,
+2221,Saint Vincent and the Grenadines,2002,186,,,,,,,,,
+2222,Saint Vincent and the Grenadines,2001,186,,,,,,,,,
+2223,Saint Vincent and the Grenadines,2000,186,,,,,,,,,
+2224,Samoa,2015,125,,,,,,,,,
+2225,Samoa,2014,128,,,,,,,,,
+2226,Samoa,2013,131,,,,,,,,,
+2227,Samoa,2012,136,,,,,,,,,
+2228,Samoa,2011,139,,,,,,,,,
+2229,Samoa,2010,144,,,,,,,,,
+2230,Samoa,2009,172,,,,,,,,,
+2231,Samoa,2008,146,,,,,,,,,
+2232,Samoa,2007,149,,,,,,,,,
+2233,Samoa,2006,153,,,,,,,,,
+2234,Samoa,2005,16,,,,,,,,,
+2235,Samoa,2004,162,,,,,,,,,
+2236,Samoa,2003,169,,,,,,,,,
+2237,Samoa,2002,174,,,,,,,,,
+2238,Samoa,2001,175,,,,,,,,,
+2239,Samoa,2000,18,,,,,,,,,
+2240,Sao Tome and Principe,2015,19,,,,,,,,,
+2241,Sao Tome and Principe,2014,191,,,,,,,,,
+2242,Sao Tome and Principe,2013,192,,,,,,,,,
+2243,Sao Tome and Principe,2012,194,,,,,,,,,
+2244,Sao Tome and Principe,2011,198,,,,,,,,,
+2245,Sao Tome and Principe,2010,24,,,,,,,,,
+2246,Sao Tome and Principe,2009,21,,,,,,,,,
+2247,Sao Tome and Principe,2008,215,,,,,,,,,
+2248,Sao Tome and Principe,2007,217,,,,,,,,,
+2249,Sao Tome and Principe,2006,22,,,,,,,,,
+2250,Sao Tome and Principe,2005,222,,,,,,,,,
+2251,Sao Tome and Principe,2004,224,,,,,,,,,
+2252,Sao Tome and Principe,2003,225,,,,,,,,,
+2253,Sao Tome and Principe,2002,226,,,,,,,,,
+2254,Sao Tome and Principe,2001,225,,,,,,,,,
+2255,Sao Tome and Principe,2000,224,,,,,,,,,
+2256,Saudi Arabia,2015,88,,,,,,,,,
+2257,Saudi Arabia,2014,88,,,,,,,,,
+2258,Saudi Arabia,2013,89,,,,,,,,,
+2259,Saudi Arabia,2012,9,,,,,,,,,
+2260,Saudi Arabia,2011,92,,,,,,,,,
+2261,Saudi Arabia,2010,94,,,,,,,,,
+2262,Saudi Arabia,2009,97,,,,,,,,,
+2263,Saudi Arabia,2008,98,,,,,,,,,
+2264,Saudi Arabia,2007,99,,,,,,,,,
+2265,Saudi Arabia,2006,1,,,,,,,,,
+2266,Saudi Arabia,2005,11,,,,,,,,,
+2267,Saudi Arabia,2004,12,,,,,,,,,
+2268,Saudi Arabia,2003,13,,,,,,,,,
+2269,Saudi Arabia,2002,15,,,,,,,,,
+2270,Saudi Arabia,2001,17,,,,,,,,,
+2271,Saudi Arabia,2000,11,,,,,,,,,
+2272,Senegal,2015,188,,,,,,,,,
+2273,Senegal,2014,192,,,,,,,,,
+2274,Senegal,2013,196,,,,,,,,,
+2275,Senegal,2012,2,,,,,,,,,
+2276,Senegal,2011,26,,,,,,,,,
+2277,Senegal,2010,212,,,,,,,,,
+2278,Senegal,2009,219,,,,,,,,,
+2279,Senegal,2008,225,,,,,,,,,
+2280,Senegal,2007,23,,,,,,,,,
+2281,Senegal,2006,236,,,,,,,,,
+2282,Senegal,2005,242,,,,,,,,,
+2283,Senegal,2004,247,,,,,,,,,
+2284,Senegal,2003,251,,,,,,,,,
+2285,Senegal,2002,252,,,,,,,,,
+2286,Senegal,2001,251,,,,,,,,,
+2287,Senegal,2000,25,,,,,,,,,
+2112,Serbia,2015,121,,,,,,,,,
+2113,Serbia,2014,123,,,,,,,,,
+2114,Serbia,2013,122,,,,,,,,,
+2115,Serbia,2012,126,,,,,,,,,
+2116,Serbia,2011,127,,,,,,,,,
+2117,Serbia,2010,128,,,,,,,,,
+2118,Serbia,2009,131,,,,,,,,,
+2119,Serbia,2008,132,,,,,,,,,
+2120,Serbia,2007,132,,,,,,,,,
+2121,Serbia,2006,133,,,,,,,,,
+2122,Serbia,2005,135,,,,,,,,,
+2123,Serbia,2004,134,,,,,,,,,
+2124,Serbia,2003,134,,,,,,,,,
+2125,Serbia,2002,133,,,,,,,,,
+2126,Serbia,2001,135,,,,,,,,,
+2127,Serbia,2000,141,,,,,,,,,
+2288,Seychelles,2015,168,,,,,,,,,
+2289,Seychelles,2014,17,,,,,,,,,
+2290,Seychelles,2013,172,,,,,,,,,
+2291,Seychelles,2012,174,,,,,,,,,
+2292,Seychelles,2011,177,,,,,,,,,
+2293,Seychelles,2010,18,,,,,,,,,
+2294,Seychelles,2009,182,,,,,,,,,
+2295,Seychelles,2008,184,,,,,,,,,
+2296,Seychelles,2007,185,,,,,,,,,
+2297,Seychelles,2006,185,,,,,,,,,
+2298,Seychelles,2005,185,,,,,,,,,
+2299,Seychelles,2004,186,,,,,,,,,
+2300,Seychelles,2003,185,,,,,,,,,
+2301,Seychelles,2002,186,,,,,,,,,
+2302,Seychelles,2001,187,,,,,,,,,
+2303,Seychelles,2000,188,,,,,,,,,
+2304,Sierra Leone,2015,413,,,,,,,,,
+2305,Sierra Leone,2014,463,,,,,,,,,
+2306,Sierra Leone,2013,47,,,,,,,,,
+2307,Sierra Leone,2012,411,,,,,,,,,
+2308,Sierra Leone,2011,418,,,,,,,,,
+2309,Sierra Leone,2010,424,,,,,,,,,
+2310,Sierra Leone,2009,433,,,,,,,,,
+2311,Sierra Leone,2008,441,,,,,,,,,
+2312,Sierra Leone,2007,45,,,,,,,,,
+2313,Sierra Leone,2006,464,,,,,,,,,
+2314,Sierra Leone,2005,48,,,,,,,,,
+2315,Sierra Leone,2004,496,,,,,,,,,
+2316,Sierra Leone,2003,57,,,,,,,,,
+2317,Sierra Leone,2002,513,,,,,,,,,
+2318,Sierra Leone,2001,519,,,,,,,,,
+2319,Sierra Leone,2000,533,,,,,,,,,
+2320,Singapore,2015,55,,,,,,,,,
+2321,Singapore,2014,56,,,,,,,,,
+2322,Singapore,2013,57,,,,,,,,,
+2323,Singapore,2012,59,,,,,,,,,
+2324,Singapore,2011,6,,,,,,,,,
+2325,Singapore,2010,61,,,,,,,,,
+2326,Singapore,2009,62,,,,,,,,,
+2327,Singapore,2008,64,,,,,,,,,
+2328,Singapore,2007,65,,,,,,,,,
+2329,Singapore,2006,66,,,,,,,,,
+2330,Singapore,2005,69,,,,,,,,,
+2331,Singapore,2004,71,,,,,,,,,
+2332,Singapore,2003,73,,,,,,,,,
+2333,Singapore,2002,74,,,,,,,,,
+2334,Singapore,2001,76,,,,,,,,,
+2335,Singapore,2000,78,,,,,,,,,
+2336,Slovakia,2015,19,,,,,,,,,
+2337,Slovakia,2014,113,,,,,,,,,
+2338,Slovakia,2013,114,,,,,,,,,
+2339,Slovakia,2012,118,,,,,,,,,
+2340,Slovakia,2011,122,,,,,,,,,
+2341,Slovakia,2010,124,,,,,,,,,
+2342,Slovakia,2009,131,,,,,,,,,
+2343,Slovakia,2008,136,,,,,,,,,
+2344,Slovakia,2007,14,,,,,,,,,
+2345,Slovakia,2006,138,,,,,,,,,
+2346,Slovakia,2005,141,,,,,,,,,
+2347,Slovakia,2004,138,,,,,,,,,
+2348,Slovakia,2003,144,,,,,,,,,
+2349,Slovakia,2002,145,,,,,,,,,
+2350,Slovakia,2001,145,,,,,,,,,
+2351,Slovakia,2000,147,,,,,,,,,
+2352,Slovenia,2015,74,,,,,,,,,
+2353,Slovenia,2014,76,,,,,,,,,
+2354,Slovenia,2013,78,,,,,,,,,
+2355,Slovenia,2012,81,,,,,,,,,
+2356,Slovenia,2011,84,,,,,,,,,
+2357,Slovenia,2010,87,,,,,,,,,
+2358,Slovenia,2009,9,,,,,,,,,
+2359,Slovenia,2008,96,,,,,,,,,
+2360,Slovenia,2007,12,,,,,,,,,
+2361,Slovenia,2006,17,,,,,,,,,
+2362,Slovenia,2005,14,,,,,,,,,
+2363,Slovenia,2004,113,,,,,,,,,
+2364,Slovenia,2003,119,,,,,,,,,
+2365,Slovenia,2002,117,,,,,,,,,
+2366,Slovenia,2001,124,,,,,,,,,
+2367,Slovenia,2000,122,,,,,,,,,
+2368,Solomon Is.,2015,177,,,,,,,,,
+2369,Solomon Is.,2014,183,,,,,,,,,
+2370,Solomon Is.,2013,182,,,,,,,,,
+2371,Solomon Is.,2012,184,,,,,,,,,
+2372,Solomon Is.,2011,186,,,,,,,,,
+2373,Solomon Is.,2010,188,,,,,,,,,
+2374,Solomon Is.,2009,192,,,,,,,,,
+2375,Solomon Is.,2008,193,,,,,,,,,
+2376,Solomon Is.,2007,2,,,,,,,,,
+2377,Solomon Is.,2006,2,,,,,,,,,
+2378,Solomon Is.,2005,24,,,,,,,,,
+2379,Solomon Is.,2004,29,,,,,,,,,
+2380,Solomon Is.,2003,215,,,,,,,,,
+2381,Solomon Is.,2002,22,,,,,,,,,
+2382,Solomon Is.,2001,227,,,,,,,,,
+2383,Solomon Is.,2000,235,,,,,,,,,
+2384,Somalia,2015,312,,,,,,,,,
+2385,Somalia,2014,321,,,,,,,,,
+2386,Somalia,2013,318,,,,,,,,,
+2387,Somalia,2012,336,,,,,,,,,
+2388,Somalia,2011,329,,,,,,,,,
+2389,Somalia,2010,336,,,,,,,,,
+2390,Somalia,2009,335,,,,,,,,,
+2391,Somalia,2008,336,,,,,,,,,
+2392,Somalia,2007,34,,,,,,,,,
+2393,Somalia,2006,337,,,,,,,,,
+2394,Somalia,2005,334,,,,,,,,,
+2395,Somalia,2004,341,,,,,,,,,
+2396,Somalia,2003,344,,,,,,,,,
+2397,Somalia,2002,348,,,,,,,,,
+2398,Somalia,2001,352,,,,,,,,,
+2399,Somalia,2000,355,,,,,,,,,
+2400,South Africa,2015,328,,,,,,,,,
+2401,South Africa,2014,347,,,,,,,,,
+2402,South Africa,2013,371,,,,,,,,,
+2403,South Africa,2012,48,,,,,,,,,
+2404,South Africa,2011,413,,,,,,,,,
+2405,South Africa,2010,428,,,,,,,,,
+2406,South Africa,2009,449,,,,,,,,,
+2407,South Africa,2008,473,,,,,,,,,
+2408,South Africa,2007,486,,,,,,,,,
+2409,South Africa,2006,496,,,,,,,,,
+2410,South Africa,2005,498,,,,,,,,,
+2411,South Africa,2004,497,,,,,,,,,
+2412,South Africa,2003,485,,,,,,,,,
+2413,South Africa,2002,459,,,,,,,,,
+2414,South Africa,2001,429,,,,,,,,,
+2415,South Africa,2000,397,,,,,,,,,
+2416,South Korea,2015,64,,,,,,,,,
+2417,South Korea,2014,66,,,,,,,,,
+2418,South Korea,2013,68,,,,,,,,,
+2419,South Korea,2012,69,,,,,,,,,
+2420,South Korea,2011,72,,,,,,,,,
+2421,South Korea,2010,74,,,,,,,,,
+2422,South Korea,2009,75,,,,,,,,,
+2423,South Korea,2008,75,,,,,,,,,
+2424,South Korea,2007,77,,,,,,,,,
+2425,South Korea,2006,79,,,,,,,,,
+2426,South Korea,2005,84,,,,,,,,,
+2427,South Korea,2004,89,,,,,,,,,
+2428,South Korea,2003,95,,,,,,,,,
+2429,South Korea,2002,99,,,,,,,,,
+2430,South Korea,2001,17,,,,,,,,,
+2431,South Korea,2000,116,,,,,,,,,
+2448,Spain,2015,56,,,,,,,,,
+2449,Spain,2014,58,,,,,,,,,
+2450,Spain,2013,6,,,,,,,,,
+2451,Spain,2012,61,,,,,,,,,
+2452,Spain,2011,63,,,,,,,,,
+2453,Spain,2010,64,,,,,,,,,
+2454,Spain,2009,66,,,,,,,,,
+2455,Spain,2008,7,,,,,,,,,
+2456,Spain,2007,72,,,,,,,,,
+2457,Spain,2006,73,,,,,,,,,
+2458,Spain,2005,77,,,,,,,,,
+2459,Spain,2004,79,,,,,,,,,
+2460,Spain,2003,83,,,,,,,,,
+2461,Spain,2002,83,,,,,,,,,
+2462,Spain,2001,84,,,,,,,,,
+2463,Spain,2000,86,,,,,,,,,
+2464,Sri Lanka,2015,138,,,,,,,,,
+2465,Sri Lanka,2014,141,,,,,,,,,
+2466,Sri Lanka,2013,142,,,,,,,,,
+2467,Sri Lanka,2012,143,,,,,,,,,
+2468,Sri Lanka,2011,141,,,,,,,,,
+2469,Sri Lanka,2010,138,,,,,,,,,
+2470,Sri Lanka,2009,183,,,,,,,,,
+2471,Sri Lanka,2008,172,,,,,,,,,
+2472,Sri Lanka,2007,146,,,,,,,,,
+2473,Sri Lanka,2006,145,,,,,,,,,
+2474,Sri Lanka,2005,138,,,,,,,,,
+2475,Sri Lanka,2004,197,,,,,,,,,
+2476,Sri Lanka,2003,146,,,,,,,,,
+2477,Sri Lanka,2002,149,,,,,,,,,
+2478,Sri Lanka,2001,16,,,,,,,,,
+2479,Sri Lanka,2000,175,,,,,,,,,
+2480,Sudan,2015,225,,,,,,,,,
+2481,Sudan,2014,229,,,,,,,,,
+2482,Sudan,2013,232,,,,,,,,,
+2483,Sudan,2012,235,,,,,,,,,
+2484,Sudan,2011,241,,,,,,,,,
+2485,Sudan,2010,243,,,,,,,,,
+2486,Sudan,2009,248,,,,,,,,,
+2487,Sudan,2008,251,,,,,,,,,
+2488,Sudan,2007,254,,,,,,,,,
+2489,Sudan,2006,26,,,,,,,,,
+2490,Sudan,2005,261,,,,,,,,,
+2491,Sudan,2004,278,,,,,,,,,
+2492,Sudan,2003,278,,,,,,,,,
+2493,Sudan,2002,277,,,,,,,,,
+2494,Sudan,2001,283,,,,,,,,,
+2495,Sudan,2000,284,,,,,,,,,
+2496,Suriname,2015,176,,,,,,,,,
+2497,Suriname,2014,178,,,,,,,,,
+2498,Suriname,2013,179,,,,,,,,,
+2499,Suriname,2012,178,,,,,,,,,
+2500,Suriname,2011,187,,,,,,,,,
+2501,Suriname,2010,19,,,,,,,,,
+2502,Suriname,2009,196,,,,,,,,,
+2503,Suriname,2008,196,,,,,,,,,
+2504,Suriname,2007,22,,,,,,,,,
+2505,Suriname,2006,199,,,,,,,,,
+2506,Suriname,2005,25,,,,,,,,,
+2507,Suriname,2004,214,,,,,,,,,
+2508,Suriname,2003,223,,,,,,,,,
+2509,Suriname,2002,221,,,,,,,,,
+2510,Suriname,2001,219,,,,,,,,,
+2511,Suriname,2000,224,,,,,,,,,
+2512,Sweden,2015,53,,,,,,,,,
+2513,Sweden,2014,54,,,,,,,,,
+2514,Sweden,2013,57,,,,,,,,,
+2515,Sweden,2012,57,,,,,,,,,
+2516,Sweden,2011,58,,,,,,,,,
+2517,Sweden,2010,58,,,,,,,,,
+2518,Sweden,2009,62,,,,,,,,,
+2519,Sweden,2008,62,,,,,,,,,
+2520,Sweden,2007,63,,,,,,,,,
+2521,Sweden,2006,64,,,,,,,,,
+2522,Sweden,2005,66,,,,,,,,,
+2523,Sweden,2004,7,,,,,,,,,
+2524,Sweden,2003,69,,,,,,,,,
+2525,Sweden,2002,71,,,,,,,,,
+2526,Sweden,2001,73,,,,,,,,,
+2527,Sweden,2000,73,,,,,,,,,
+2528,Switzerland,2015,49,,,,,,,,,
+2529,Switzerland,2014,51,,,,,,,,,
+2530,Switzerland,2013,52,,,,,,,,,
+2531,Switzerland,2012,54,,,,,,,,,
+2532,Switzerland,2011,55,,,,,,,,,
+2533,Switzerland,2010,57,,,,,,,,,
+2534,Switzerland,2009,6,,,,,,,,,
+2535,Switzerland,2008,6,,,,,,,,,
+2536,Switzerland,2007,63,,,,,,,,,
+2537,Switzerland,2006,65,,,,,,,,,
+2538,Switzerland,2005,66,,,,,,,,,
+2539,Switzerland,2004,69,,,,,,,,,
+2540,Switzerland,2003,72,,,,,,,,,
+2541,Switzerland,2002,74,,,,,,,,,
+2542,Switzerland,2001,75,,,,,,,,,
+2543,Switzerland,2000,78,,,,,,,,,
+2544,Syria,2015,293,,,,,,,,,
+2545,Syria,2014,294,,,,,,,,,
+2546,Syria,2013,37,,,,,,,,,
+2547,Syria,2012,32,,,,,,,,,
+2548,Syria,2011,163,,,,,,,,,
+2549,Syria,2010,127,,,,,,,,,
+2550,Syria,2009,124,,,,,,,,,
+2551,Syria,2008,122,,,,,,,,,
+2552,Syria,2007,121,,,,,,,,,
+2553,Syria,2006,123,,,,,,,,,
+2554,Syria,2005,127,,,,,,,,,
+2555,Syria,2004,131,,,,,,,,,
+2556,Syria,2003,134,,,,,,,,,
+2557,Syria,2002,135,,,,,,,,,
+2558,Syria,2001,135,,,,,,,,,
+2559,Syria,2000,136,,,,,,,,,
+2560,Tajikistan,2015,161,,,,,,,,,
+2561,Tajikistan,2014,162,,,,,,,,,
+2562,Tajikistan,2013,163,,,,,,,,,
+2563,Tajikistan,2012,164,,,,,,,,,
+2564,Tajikistan,2011,166,,,,,,,,,
+2565,Tajikistan,2010,171,,,,,,,,,
+2566,Tajikistan,2009,174,,,,,,,,,
+2567,Tajikistan,2008,178,,,,,,,,,
+2568,Tajikistan,2007,181,,,,,,,,,
+2569,Tajikistan,2006,183,,,,,,,,,
+2570,Tajikistan,2005,194,,,,,,,,,
+2571,Tajikistan,2004,177,,,,,,,,,
+2572,Tajikistan,2003,182,,,,,,,,,
+2573,Tajikistan,2002,193,,,,,,,,,
+2574,Tajikistan,2001,194,,,,,,,,,
+2575,Tajikistan,2000,198,,,,,,,,,
+2768,Tanzania,2015,279,,,,,,,,,
+2769,Tanzania,2014,34,,,,,,,,,
+2770,Tanzania,2013,323,,,,,,,,,
+2771,Tanzania,2012,348,,,,,,,,,
+2772,Tanzania,2011,348,,,,,,,,,
+2773,Tanzania,2010,36,,,,,,,,,
+2774,Tanzania,2009,368,,,,,,,,,
+2775,Tanzania,2008,376,,,,,,,,,
+2776,Tanzania,2007,411,,,,,,,,,
+2777,Tanzania,2006,437,,,,,,,,,
+2778,Tanzania,2005,449,,,,,,,,,
+2779,Tanzania,2004,454,,,,,,,,,
+2780,Tanzania,2003,459,,,,,,,,,
+2781,Tanzania,2002,46,,,,,,,,,
+2782,Tanzania,2001,46,,,,,,,,,
+2783,Tanzania,2000,457,,,,,,,,,
+2576,Thailand,2015,148,,,,,,,,,
+2577,Thailand,2014,152,,,,,,,,,
+2578,Thailand,2013,153,,,,,,,,,
+2579,Thailand,2012,154,,,,,,,,,
+2580,Thailand,2011,155,,,,,,,,,
+2581,Thailand,2010,158,,,,,,,,,
+2582,Thailand,2009,16,,,,,,,,,
+2583,Thailand,2008,162,,,,,,,,,
+2584,Thailand,2007,165,,,,,,,,,
+2585,Thailand,2006,168,,,,,,,,,
+2586,Thailand,2005,177,,,,,,,,,
+2587,Thailand,2004,189,,,,,,,,,
+2588,Thailand,2003,189,,,,,,,,,
+2589,Thailand,2002,192,,,,,,,,,
+2590,Thailand,2001,194,,,,,,,,,
+2591,Thailand,2000,194,,,,,,,,,
+2592,The Bahamas,2015,147,,,,,,,,,
+2593,The Bahamas,2014,16,,,,,,,,,
+2594,The Bahamas,2013,172,,,,,,,,,
+2595,The Bahamas,2012,167,,,,,,,,,
+2596,The Bahamas,2011,162,,,,,,,,,
+2597,The Bahamas,2010,161,,,,,,,,,
+2598,The Bahamas,2009,168,,,,,,,,,
+2599,The Bahamas,2008,167,,,,,,,,,
+2600,The Bahamas,2007,167,,,,,,,,,
+2601,The Bahamas,2006,171,,,,,,,,,
+2602,The Bahamas,2005,172,,,,,,,,,
+2603,The Bahamas,2004,174,,,,,,,,,
+2604,The Bahamas,2003,189,,,,,,,,,
+2605,The Bahamas,2002,19,,,,,,,,,
+2606,The Bahamas,2001,189,,,,,,,,,
+2607,The Bahamas,2000,192,,,,,,,,,
+720,Timor-Leste,2015,152,,,,,,,,,
+721,Timor-Leste,2014,155,,,,,,,,,
+722,Timor-Leste,2013,158,,,,,,,,,
+723,Timor-Leste,2012,159,,,,,,,,,
+724,Timor-Leste,2011,161,,,,,,,,,
+725,Timor-Leste,2010,163,,,,,,,,,
+726,Timor-Leste,2009,165,,,,,,,,,
+727,Timor-Leste,2008,168,,,,,,,,,
+728,Timor-Leste,2007,173,,,,,,,,,
+729,Timor-Leste,2006,186,,,,,,,,,
+730,Timor-Leste,2005,26,,,,,,,,,
+731,Timor-Leste,2004,229,,,,,,,,,
+732,Timor-Leste,2003,25,,,,,,,,,
+733,Timor-Leste,2002,261,,,,,,,,,
+734,Timor-Leste,2001,269,,,,,,,,,
+735,Timor-Leste,2000,276,,,,,,,,,
+2608,Togo,2015,287,,,,,,,,,
+2609,Togo,2014,285,,,,,,,,,
+2610,Togo,2013,287,,,,,,,,,
+2611,Togo,2012,294,,,,,,,,,
+2612,Togo,2011,34,,,,,,,,,
+2613,Togo,2010,323,,,,,,,,,
+2614,Togo,2009,336,,,,,,,,,
+2615,Togo,2008,344,,,,,,,,,
+2616,Togo,2007,344,,,,,,,,,
+2617,Togo,2006,345,,,,,,,,,
+2618,Togo,2005,357,,,,,,,,,
+2619,Togo,2004,355,,,,,,,,,
+2620,Togo,2003,355,,,,,,,,,
+2621,Togo,2002,351,,,,,,,,,
+2622,Togo,2001,345,,,,,,,,,
+2623,Togo,2000,339,,,,,,,,,
+2624,Tonga,2015,133,,,,,,,,,
+2625,Tonga,2014,135,,,,,,,,,
+2626,Tonga,2013,137,,,,,,,,,
+2627,Tonga,2012,138,,,,,,,,,
+2628,Tonga,2011,14,,,,,,,,,
+2629,Tonga,2010,142,,,,,,,,,
+2630,Tonga,2009,147,,,,,,,,,
+2631,Tonga,2008,145,,,,,,,,,
+2632,Tonga,2007,146,,,,,,,,,
+2633,Tonga,2006,148,,,,,,,,,
+2634,Tonga,2005,15,,,,,,,,,
+2635,Tonga,2004,151,,,,,,,,,
+2636,Tonga,2003,153,,,,,,,,,
+2637,Tonga,2002,155,,,,,,,,,
+2638,Tonga,2001,157,,,,,,,,,
+2639,Tonga,2000,158,,,,,,,,,
+2640,Trinidad and Tobago,2015,17,,,,,,,,,
+2641,Trinidad and Tobago,2014,171,,,,,,,,,
+2642,Trinidad and Tobago,2013,172,,,,,,,,,
+2643,Trinidad and Tobago,2012,174,,,,,,,,,
+2644,Trinidad and Tobago,2011,176,,,,,,,,,
+2645,Trinidad and Tobago,2010,179,,,,,,,,,
+2646,Trinidad and Tobago,2009,183,,,,,,,,,
+2647,Trinidad and Tobago,2008,185,,,,,,,,,
+2648,Trinidad and Tobago,2007,187,,,,,,,,,
+2649,Trinidad and Tobago,2006,188,,,,,,,,,
+2650,Trinidad and Tobago,2005,189,,,,,,,,,
+2651,Trinidad and Tobago,2004,19,,,,,,,,,
+2652,Trinidad and Tobago,2003,191,,,,,,,,,
+2653,Trinidad and Tobago,2002,192,,,,,,,,,
+2654,Trinidad and Tobago,2001,194,,,,,,,,,
+2655,Trinidad and Tobago,2000,197,,,,,,,,,
+2656,Tunisia,2015,1,,,,,,,,,
+2657,Tunisia,2014,12,,,,,,,,,
+2658,Tunisia,2013,13,,,,,,,,,
+2659,Tunisia,2012,13,,,,,,,,,
+2660,Tunisia,2011,13,,,,,,,,,
+2661,Tunisia,2010,12,,,,,,,,,
+2662,Tunisia,2009,12,,,,,,,,,
+2663,Tunisia,2008,12,,,,,,,,,
+2664,Tunisia,2007,12,,,,,,,,,
+2665,Tunisia,2006,12,,,,,,,,,
+2666,Tunisia,2005,14,,,,,,,,,
+2667,Tunisia,2004,15,,,,,,,,,
+2668,Tunisia,2003,17,,,,,,,,,
+2669,Tunisia,2002,19,,,,,,,,,
+2670,Tunisia,2001,11,,,,,,,,,
+2671,Tunisia,2000,112,,,,,,,,,
+2672,Turkey,2015,16,,,,,,,,,
+2673,Turkey,2014,17,,,,,,,,,
+2674,Turkey,2013,19,,,,,,,,,
+2675,Turkey,2012,112,,,,,,,,,
+2676,Turkey,2011,114,,,,,,,,,
+2677,Turkey,2010,116,,,,,,,,,
+2678,Turkey,2009,118,,,,,,,,,
+2679,Turkey,2008,121,,,,,,,,,
+2680,Turkey,2007,124,,,,,,,,,
+2681,Turkey,2006,126,,,,,,,,,
+2682,Turkey,2005,129,,,,,,,,,
+2683,Turkey,2004,132,,,,,,,,,
+2684,Turkey,2003,135,,,,,,,,,
+2685,Turkey,2002,138,,,,,,,,,
+2686,Turkey,2001,14,,,,,,,,,
+2687,Turkey,2000,143,,,,,,,,,
+2688,Turkmenistan,2015,215,,,,,,,,,
+2689,Turkmenistan,2014,217,,,,,,,,,
+2690,Turkmenistan,2013,228,,,,,,,,,
+2691,Turkmenistan,2012,22,,,,,,,,,
+2692,Turkmenistan,2011,217,,,,,,,,,
+2693,Turkmenistan,2010,211,,,,,,,,,
+2694,Turkmenistan,2009,215,,,,,,,,,
+2695,Turkmenistan,2008,235,,,,,,,,,
+2696,Turkmenistan,2007,241,,,,,,,,,
+2697,Turkmenistan,2006,245,,,,,,,,,
+2698,Turkmenistan,2005,248,,,,,,,,,
+2699,Turkmenistan,2004,238,,,,,,,,,
+2700,Turkmenistan,2003,231,,,,,,,,,
+2701,Turkmenistan,2002,229,,,,,,,,,
+2702,Turkmenistan,2001,221,,,,,,,,,
+2703,Turkmenistan,2000,224,,,,,,,,,
+2704,Uganda,2015,291,,,,,,,,,
+2705,Uganda,2014,38,,,,,,,,,
+2706,Uganda,2013,325,,,,,,,,,
+2707,Uganda,2012,339,,,,,,,,,
+2708,Uganda,2011,347,,,,,,,,,
+2709,Uganda,2010,362,,,,,,,,,
+2710,Uganda,2009,378,,,,,,,,,
+2711,Uganda,2008,41,,,,,,,,,
+2712,Uganda,2007,41,,,,,,,,,
+2713,Uganda,2006,41,,,,,,,,,
+2714,Uganda,2005,446,,,,,,,,,
+2715,Uganda,2004,485,,,,,,,,,
+2716,Uganda,2003,53,,,,,,,,,
+2717,Uganda,2002,523,,,,,,,,,
+2718,Uganda,2001,539,,,,,,,,,
+2719,Uganda,2000,554,,,,,,,,,
+2720,Ukraine,2015,195,,,,,,,,,
+2721,Ukraine,2014,23,,,,,,,,,
+2722,Ukraine,2013,198,,,,,,,,,
+2723,Ukraine,2012,25,,,,,,,,,
+2724,Ukraine,2011,24,,,,,,,,,
+2725,Ukraine,2010,212,,,,,,,,,
+2726,Ukraine,2009,231,,,,,,,,,
+2727,Ukraine,2008,273,,,,,,,,,
+2728,Ukraine,2007,277,,,,,,,,,
+2729,Ukraine,2006,267,,,,,,,,,
+2730,Ukraine,2005,278,,,,,,,,,
+2731,Ukraine,2004,267,,,,,,,,,
+2732,Ukraine,2003,256,,,,,,,,,
+2733,Ukraine,2002,256,,,,,,,,,
+2734,Ukraine,2001,253,,,,,,,,,
+2735,Ukraine,2000,257,,,,,,,,,
+2736,United Arab Emirates,2015,75,,,,,,,,,
+2737,United Arab Emirates,2014,77,,,,,,,,,
+2738,United Arab Emirates,2013,78,,,,,,,,,
+2739,United Arab Emirates,2012,8,,,,,,,,,
+2740,United Arab Emirates,2011,81,,,,,,,,,
+2741,United Arab Emirates,2010,82,,,,,,,,,
+2742,United Arab Emirates,2009,84,,,,,,,,,
+2743,United Arab Emirates,2008,85,,,,,,,,,
+2744,United Arab Emirates,2007,87,,,,,,,,,
+2745,United Arab Emirates,2006,89,,,,,,,,,
+2746,United Arab Emirates,2005,92,,,,,,,,,
+2747,United Arab Emirates,2004,95,,,,,,,,,
+2748,United Arab Emirates,2003,98,,,,,,,,,
+2749,United Arab Emirates,2002,11,,,,,,,,,
+2750,United Arab Emirates,2001,14,,,,,,,,,
+2751,United Arab Emirates,2000,17,,,,,,,,,
+2752,United Kingdom,2015,69,,,,,,,,,
+2753,United Kingdom,2014,71,,,,,,,,,
+2754,United Kingdom,2013,72,,,,,,,,,
+2755,United Kingdom,2012,72,,,,,,,,,
+2756,United Kingdom,2011,74,,,,,,,,,
+2757,United Kingdom,2010,77,,,,,,,,,
+2758,United Kingdom,2009,78,,,,,,,,,
+2759,United Kingdom,2008,8,,,,,,,,,
+2760,United Kingdom,2007,8,,,,,,,,,
+2761,United Kingdom,2006,82,,,,,,,,,
+2762,United Kingdom,2005,82,,,,,,,,,
+2763,United Kingdom,2004,83,,,,,,,,,
+2764,United Kingdom,2003,86,,,,,,,,,
+2765,United Kingdom,2002,87,,,,,,,,,
+2766,United Kingdom,2001,88,,,,,,,,,
+2767,United Kingdom,2000,89,,,,,,,,,
+2784,United States of America,2015,13,,,,,,,,,
+2785,United States of America,2014,14,,,,,,,,,
+2786,United States of America,2013,16,,,,,,,,,
+2787,United States of America,2012,16,,,,,,,,,
+2788,United States of America,2011,16,,,,,,,,,
+2789,United States of America,2010,15,,,,,,,,,
+2790,United States of America,2009,18,,,,,,,,,
+2791,United States of America,2008,18,,,,,,,,,
+2792,United States of America,2007,11,,,,,,,,,
+2793,United States of America,2006,113,,,,,,,,,
+2794,United States of America,2005,112,,,,,,,,,
+2795,United States of America,2004,111,,,,,,,,,
+2796,United States of America,2003,114,,,,,,,,,
+2797,United States of America,2002,115,,,,,,,,,
+2798,United States of America,2001,115,,,,,,,,,
+2799,United States of America,2000,114,,,,,,,,,
+2800,Uruguay,2015,116,,,,,,,,,
+2801,Uruguay,2014,117,,,,,,,,,
+2802,Uruguay,2013,117,,,,,,,,,
+2803,Uruguay,2012,118,,,,,,,,,
+2804,Uruguay,2011,111,,,,,,,,,
+2805,Uruguay,2010,118,,,,,,,,,
+2806,Uruguay,2009,118,,,,,,,,,
+2807,Uruguay,2008,119,,,,,,,,,
+2808,Uruguay,2007,124,,,,,,,,,
+2809,Uruguay,2006,117,,,,,,,,,
+2810,Uruguay,2005,123,,,,,,,,,
+2811,Uruguay,2004,122,,,,,,,,,
+2812,Uruguay,2003,121,,,,,,,,,
+2813,Uruguay,2002,124,,,,,,,,,
+2814,Uruguay,2001,123,,,,,,,,,
+2815,Uruguay,2000,131,,,,,,,,,
+2816,Uzbekistan,2015,184,,,,,,,,,
+2817,Uzbekistan,2014,184,,,,,,,,,
+2818,Uzbekistan,2013,185,,,,,,,,,
+2819,Uzbekistan,2012,184,,,,,,,,,
+2820,Uzbekistan,2011,183,,,,,,,,,
+2821,Uzbekistan,2010,183,,,,,,,,,
+2822,Uzbekistan,2009,183,,,,,,,,,
+2823,Uzbekistan,2008,184,,,,,,,,,
+2824,Uzbekistan,2007,184,,,,,,,,,
+2825,Uzbekistan,2006,185,,,,,,,,,
+2826,Uzbekistan,2005,192,,,,,,,,,
+2827,Uzbekistan,2004,183,,,,,,,,,
+2828,Uzbekistan,2003,183,,,,,,,,,
+2829,Uzbekistan,2002,186,,,,,,,,,
+2830,Uzbekistan,2001,185,,,,,,,,,
+2831,Uzbekistan,2000,189,,,,,,,,,
+2832,Vanuatu,2015,13,,,,,,,,,
+2833,Vanuatu,2014,134,,,,,,,,,
+2834,Vanuatu,2013,135,,,,,,,,,
+2835,Vanuatu,2012,138,,,,,,,,,
+2836,Vanuatu,2011,141,,,,,,,,,
+2837,Vanuatu,2010,145,,,,,,,,,
+2838,Vanuatu,2009,149,,,,,,,,,
+2839,Vanuatu,2008,153,,,,,,,,,
+2840,Vanuatu,2007,157,,,,,,,,,
+2841,Vanuatu,2006,161,,,,,,,,,
+2842,Vanuatu,2005,165,,,,,,,,,
+2843,Vanuatu,2004,169,,,,,,,,,
+2844,Vanuatu,2003,173,,,,,,,,,
+2845,Vanuatu,2002,176,,,,,,,,,
+2846,Vanuatu,2001,179,,,,,,,,,
+2847,Vanuatu,2000,18,,,,,,,,,
+2848,Venezuela,2015,157,,,,,,,,,
+2849,Venezuela,2014,158,,,,,,,,,
+2850,Venezuela,2013,159,,,,,,,,,
+2851,Venezuela,2012,161,,,,,,,,,
+2852,Venezuela,2011,158,,,,,,,,,
+2853,Venezuela,2010,158,,,,,,,,,
+2854,Venezuela,2009,166,,,,,,,,,
+2855,Venezuela,2008,168,,,,,,,,,
+2856,Venezuela,2007,165,,,,,,,,,
+2857,Venezuela,2006,163,,,,,,,,,
+2858,Venezuela,2005,158,,,,,,,,,
+2859,Venezuela,2004,161,,,,,,,,,
+2860,Venezuela,2003,172,,,,,,,,,
+2861,Venezuela,2002,167,,,,,,,,,
+2862,Venezuela,2001,169,,,,,,,,,
+2863,Venezuela,2000,168,,,,,,,,,
+2864,Vietnam,2015,127,,,,,,,,,
+2865,Vietnam,2014,128,,,,,,,,,
+2866,Vietnam,2013,129,,,,,,,,,
+2867,Vietnam,2012,13,,,,,,,,,
+2868,Vietnam,2011,131,,,,,,,,,
+2869,Vietnam,2010,133,,,,,,,,,
+2870,Vietnam,2009,134,,,,,,,,,
+2871,Vietnam,2008,135,,,,,,,,,
+2872,Vietnam,2007,136,,,,,,,,,
+2873,Vietnam,2006,136,,,,,,,,,
+2874,Vietnam,2005,136,,,,,,,,,
+2875,Vietnam,2004,136,,,,,,,,,
+2876,Vietnam,2003,137,,,,,,,,,
+2877,Vietnam,2002,137,,,,,,,,,
+2878,Vietnam,2001,138,,,,,,,,,
+2879,Vietnam,2000,139,,,,,,,,,
+2880,Yemen,2015,224,,,,,,,,,
+2881,Yemen,2014,228,,,,,,,,,
+2882,Yemen,2013,226,,,,,,,,,
+2883,Yemen,2012,236,,,,,,,,,
+2884,Yemen,2011,234,,,,,,,,,
+2885,Yemen,2010,233,,,,,,,,,
+2886,Yemen,2009,235,,,,,,,,,
+2887,Yemen,2008,238,,,,,,,,,
+2888,Yemen,2007,24,,,,,,,,,
+2889,Yemen,2006,242,,,,,,,,,
+2890,Yemen,2005,245,,,,,,,,,
+2891,Yemen,2004,247,,,,,,,,,
+2892,Yemen,2003,249,,,,,,,,,
+2893,Yemen,2002,25,,,,,,,,,
+2894,Yemen,2001,251,,,,,,,,,
+2895,Yemen,2000,252,,,,,,,,,
+2896,Zambia,2015,33,,,,,,,,,
+2897,Zambia,2014,314,,,,,,,,,
+2898,Zambia,2013,328,,,,,,,,,
+2899,Zambia,2012,349,,,,,,,,,
+2900,Zambia,2011,366,,,,,,,,,
+2901,Zambia,2010,363,,,,,,,,,
+2902,Zambia,2009,368,,,,,,,,,
+2903,Zambia,2008,45,,,,,,,,,
+2904,Zambia,2007,487,,,,,,,,,
+2905,Zambia,2006,526,,,,,,,,,
+2906,Zambia,2005,554,,,,,,,,,
+2907,Zambia,2004,578,,,,,,,,,
+2908,Zambia,2003,64,,,,,,,,,
+2909,Zambia,2002,69,,,,,,,,,
+2910,Zambia,2001,611,,,,,,,,,
+2911,Zambia,2000,614,,,,,,,,,
+2912,Zimbabwe,2015,336,,,,,,,,,
+2913,Zimbabwe,2014,371,,,,,,,,,
+2914,Zimbabwe,2013,399,,,,,,,,,
+2915,Zimbabwe,2012,429,,,,,,,,,
+2916,Zimbabwe,2011,464,,,,,,,,,
+2917,Zimbabwe,2010,527,,,,,,,,,
+2918,Zimbabwe,2009,587,,,,,,,,,
+2919,Zimbabwe,2008,632,,,,,,,,,
+2920,Zimbabwe,2007,67,,,,,,,,,
+2921,Zimbabwe,2006,7,,,,,,,,,
+2922,Zimbabwe,2005,717,,,,,,,,,
+2923,Zimbabwe,2004,723,,,,,,,,,
+2924,Zimbabwe,2003,715,,,,,,,,,
+2925,Zimbabwe,2002,73,,,,,,,,,
+2926,Zimbabwe,2001,686,,,,,,,,,
+2927,Zimbabwe,2000,665,,,,,,,,,
